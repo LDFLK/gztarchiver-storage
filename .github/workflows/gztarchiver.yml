@@ -31,6 +31,7 @@ jobs:
         run: |
           # Define years to cycle through
           declare -a YEARS=(
+            "2010"
             "2015"
             "2016"
             "2017"
