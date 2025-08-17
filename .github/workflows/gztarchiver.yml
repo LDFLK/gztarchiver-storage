@@ -43,8 +43,6 @@ jobs:
              
       - name: Update README with status
         run: |
-          cd storage-repo
-
           # Get timestamp
           TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
           
