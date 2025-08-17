@@ -19,7 +19,7 @@ jobs:
           python-version: "3.x"
 
       - name: Install archiver package
-        run: pip3 install git+https://github.com/yasandu0505/gztarchiver.git
+        run: pip install git+https://github.com/yasandu0505/gztarchiver.git
 
       - name: Create config.yaml from secret
         run: |
