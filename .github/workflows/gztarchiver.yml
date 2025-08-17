@@ -50,13 +50,23 @@ jobs:
           TOTAL_DOCS=$(find doc-archive -type f -name "*.pdf" | wc -l)
           TOTAL_UNAVAILABLE=$(find doc-archive -type f -name "unavailable.txt" | wc -l)
           
-          # Extract date range from actual files
+          # Extract date range from directory structure or filenames
           if [ $TOTAL_DOCS -gt 0 ]; then
-            START_DATE=$(find doc-archive -type f -name "*.pdf" | head -1 | xargs basename | cut -d'_' -f1 | sed 's/gazette-//')
-            END_DATE=$(find doc-archive -type f -name "*.pdf" | tail -1 | xargs basename | cut -d'_' -f1 | sed 's/gazette-//')
-            DATE_RANGE="from $START_DATE to $END_DATE"
+            # Get all dates from the archive structure and sort them
+            ALL_DATES=$(find doc-archive -type f \( -name "*.pdf" -o -name "unavailable.txt" \) | \
+              grep -oE '[0-9]{4}/[0-9]{2}/[0-9]{2}' | \
+              sed 's|/|-|g' | \
+              sort -u)
+            
+            if [ -n "$ALL_DATES" ]; then
+              START_DATE=$(echo "$ALL_DATES" | head -1)
+              END_DATE=$(echo "$ALL_DATES" | tail -1)
+              DATE_RANGE="from $START_DATE to $END_DATE"
+            else
+              DATE_RANGE="date range unavailable"
+            fi
           else
-            DATE_RANGE="No documents archived yet"
+            DATE_RANGE=""
           fi
           
           # Generate per-year summary with both archived and unavailable docs
@@ -100,7 +110,12 @@ jobs:
           Last Updated: $TIMESTAMP
           
           $TOTAL_DOCS documents, $DATE_RANGE.
-                    
+          
+          A collection of 📢 Gazettes, 🚨 Extraordinary Gazettes, 🏛️ Acts, ✍️ Bills and more, from documents.gov.lk.
+          
+          🆓 Public data, fully open-source – fork freely!
+          🗣️ Tri-Lingual - සිංහල, தமிழ் & English
+          🔍 Useful for Journalists, Researchers, Lawyers & law students, Policy watchers & Citizens who want to stay informed
           🐞 #WorkInProgress - Suggestions, Questions, Ideas, Bug Reports are welcome!
           
           ---
