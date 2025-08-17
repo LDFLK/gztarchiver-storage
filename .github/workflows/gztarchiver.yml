@@ -2,7 +2,7 @@ name: gztarchiver
 
 on:
   schedule:
-    - cron: "0 */2 * * *"  # every 2 hours
+    - cron: "0 */6 * * *"  # every 6 hours
   workflow_dispatch:        # allows manual trigger
 
 jobs:
@@ -27,10 +27,49 @@ jobs:
         run: |
           echo "${{ secrets.GZTARCHIVER_CONFIG }}" > config.yaml
        
-      - name: Run archiver
+      - name: Calculate cycle and run archiver
         run: |
-          gztarchiver --year 2010 --month 06 --day 24 --lang en --config config.yaml
-          gztarchiver --year 2019 --month 12 --day 31 --lang en --config config.yaml
+          # Define entries to cycle through - mix of years and specific dates
+          # Format: "YEAR" for year-only or "YEAR MONTH DAY" for specific dates
+          declare -a ENTRIES=(
+            "2010"
+            "2019 12 31"
+            "2015"
+            "2018 09 10"
+            "2012"
+            "2020 07 04"
+            "2016"
+            "2014 05 20"
+            "2013"
+            "2017"
+            "2021"
+            "2011 01 01"
+          )
+          
+          # Calculate which entry to use based on current time
+          # This creates a cycle that changes every 6 hours
+          CURRENT_HOUR=$(date +%H)
+          CURRENT_DAY=$(date +%j)  # day of year (1-366)
+          
+          # Create a unique index that changes every 6 hours
+          CYCLE_INDEX=$(( (CURRENT_DAY * 4 + CURRENT_HOUR / 6) % ${#ENTRIES[@]} ))
+          
+          # Get the entry for this cycle
+          ENTRY=${ENTRIES[$CYCLE_INDEX]}
+          read -r YEAR MONTH DAY <<< "$ENTRY"
+          
+          echo "🕐 Current cycle: $CYCLE_INDEX (of ${#ENTRIES[@]})"
+          
+          # Build the gztarchiver command based on entry type
+          if [[ -n "$MONTH" && -n "$DAY" ]]; then
+            echo "📅 Processing specific date: $YEAR-$MONTH-$DAY"
+            gztarchiver --year $YEAR --month $MONTH --day $DAY --lang en --config config.yaml
+          else
+            echo "📅 Processing entire year: $YEAR"
+            gztarchiver --year $YEAR --lang en --config config.yaml
+          fi
+          
+          # Clean up metadata
           rm -rf metadata
        
       - name: Commit and push doc-archive
@@ -103,6 +142,34 @@ jobs:
             }'
           )
           
+          # Calculate next scheduled entry for README
+          declare -a ENTRIES=(
+            "2015"
+            "2016"
+            "2017"
+            "2018"
+            "2019"
+            "2020"
+            "2021"
+            "2022"
+            "2023"
+            "2024"
+          )
+          
+          CURRENT_HOUR=$(date +%H)
+          CURRENT_DAY=$(date +%j)
+          CURRENT_CYCLE=$(( (CURRENT_DAY * 4 + CURRENT_HOUR / 6) % ${#ENTRIES[@]} ))
+          NEXT_CYCLE=$(( (CURRENT_CYCLE + 1) % ${#ENTRIES[@]} ))
+          NEXT_ENTRY=${ENTRIES[$NEXT_CYCLE]}
+          
+          # Format next entry for display
+          read -r NEXT_YEAR NEXT_MONTH NEXT_DAY <<< "$NEXT_ENTRY"
+          if [[ -n "$NEXT_MONTH" && -n "$NEXT_DAY" ]]; then
+            NEXT_DISPLAY="$NEXT_YEAR-$NEXT_MONTH-$NEXT_DAY (specific date)"
+          else
+            NEXT_DISPLAY="$NEXT_YEAR (entire year)"
+          fi
+          
           # Write README.md
           cat <<EOF > README.md
           # Sri Lanka 🇱🇰 - Gazette Dataset
@@ -117,7 +184,8 @@ jobs:
           
           ## 📊 Archive Status Dashboard
           
-          **Last Archiver Run:** $TIMESTAMP
+          **Last Archiver Run:** $TIMESTAMP  
+          **Next Scheduled:** $NEXT_DISPLAY (in ~6 hours)
           
           **Summary of Documents Archived:**
           
@@ -127,6 +195,13 @@ jobs:
           
           **Total Documents:** $TOTAL_DOCS  
           **Unavailable Documents:** $TOTAL_UNAVAILABLE 
+          
+          ---
+          
+          ### 🔄 Cycling Schedule (Every 6 Hours)
+          The archiver alternates between full years and specific dates:
+          
+          **Full Years:** 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 
           
           ---
           #Legal #OpenData #GovTech
