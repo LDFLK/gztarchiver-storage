@@ -1,0 +1,39 @@
+name: gztarchiver
+
+on:
+  schedule:
+    - cron: "0 */1 * * *"  # every 2 hours
+  workflow_dispatch:        # allows manual trigger
+
+jobs:
+  run-archiver:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout storage repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install archiver package
+        run: pip3 install git+https://github.com/yasandu0505/gztarchiver.git
+
+      - name: Create config.yaml from secret
+        run: |
+          echo "${{ secrets.GZTARCHIVER_CONFIG }}" > config.yaml
+
+      - name: Run archiver
+        run: |
+          gztarchiver --year 2010 --month 06 --day 24 --lang en --config config.yaml
+          rm -rf metadata
+
+      - name: Commit and push doc-archive
+        run: |
+          git config user.name "yasandu0505"
+          git config user.email "yasanduyaka2005@gmail.com"
+          git add doc-archive
+          git commit -m "🔄 Auto-update archive - $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push origin main --force
