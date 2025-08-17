@@ -39,7 +39,7 @@ jobs:
           git config user.email "yasanduyaka2005@gmail.com"
           git add doc-archive
           git commit -m "🔄 Auto-update archive - $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
-          git push origin main --force
+          git push origin main 
              
       - name: Update README with status
         run: |
