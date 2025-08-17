@@ -2,41 +2,91 @@ name: gztarchiver
 
 on:
   schedule:
-    - cron: "0 */1 * * *"  # every 2 hours
+    - cron: "0 */2 * * *"  # every 2 hours
   workflow_dispatch:        # allows manual trigger
 
 jobs:
   run-archiver:
     runs-on: ubuntu-latest
-
+    
     steps:
       - name: Checkout storage repo
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.TARGET_REPO_PAT }}
-
+       
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
-
+       
       - name: Install archiver package
         run: pip install git+https://github.com/yasandu0505/gztarchiver.git
-
+       
       - name: Create config.yaml from secret
         run: |
           echo "${{ secrets.GZTARCHIVER_CONFIG }}" > config.yaml
-
+       
       - name: Run archiver
         run: |
           gztarchiver --year 2010 --month 06 --day 24 --lang en --config config.yaml
           gztarchiver --year 2019 --month 12 --day 31 --lang en --config config.yaml
           rm -rf metadata
-
+       
       - name: Commit and push doc-archive
         run: |
           git config user.name "yasandu0505"
           git config user.email "yasanduyaka2005@gmail.com"
           git add doc-archive
           git commit -m "🔄 Auto-update archive - $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push origin main --force
+             
+      - name: Update README with status
+        run: |
+          cd storage-repo
+
+          # Get timestamp
+          TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
+          
+          # Count documents
+          TOTAL_DOCS=$(find doc-archive -type f -name "*.pdf" | wc -l)
+          TOTAL_UNAVAILABLE=$(find doc-archive -type f -name "unavailable.txt" | wc -l)
+          
+          # Generate per-year summary
+          SUMMARY_TABLE=$(find doc-archive -type f -name "*.pdf" | awk -F'/' '{print $2}' | sort | uniq -c | awk '{printf "| %s | %s | - |\n", $2, $1}')
+          
+          # Write README.md
+          cat <<EOF > README.md
+          # Sri Lanka 🇱🇰 - Gazette Dataset
+          
+          Last Updated: $TIMESTAMP
+          
+          $TOTAL_DOCS documents,
+
+          🐞 #WorkInProgress - Suggestions, Questions, Ideas, are welcome!
+          
+          ---
+          
+          ## 📊 Archive Status Dashboard
+          
+          **Last Archiver Run:** $TIMESTAMP
+          
+          **Summary of Documents Archived:**
+          
+          | Year | Archived Docs | Unavailable Docs |
+          |------|---------------|-----------------|
+          $SUMMARY_TABLE
+          
+          **Total Documents:** $TOTAL_DOCS  
+          **Unavailable Documents:** $TOTAL_UNAVAILABLE 
+          
+          ---
+          #Legal #OpenData #GovTech
+          EOF
+          
+          # Commit and push README.md
+          git config user.name "yasandu0505"
+          git config user.email "yasanduyaka2005@gmail.com"
+          git add README.md
+          git commit -m "📊 Update status dashboard - $TIMESTAMP" || echo "No changes to commit"
           git push origin main --force
