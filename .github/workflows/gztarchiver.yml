@@ -50,8 +50,48 @@ jobs:
           TOTAL_DOCS=$(find doc-archive -type f -name "*.pdf" | wc -l)
           TOTAL_UNAVAILABLE=$(find doc-archive -type f -name "unavailable.txt" | wc -l)
           
-          # Generate per-year summary
-          SUMMARY_TABLE=$(find doc-archive -type f -name "*.pdf" | awk -F'/' '{print $2}' | sort | uniq -c | awk '{printf "| %s | %s | - |\n", $2, $1}')
+          # Extract date range from actual files
+          if [ $TOTAL_DOCS -gt 0 ]; then
+            START_DATE=$(find doc-archive -type f -name "*.pdf" | head -1 | xargs basename | cut -d'_' -f1 | sed 's/gazette-//')
+            END_DATE=$(find doc-archive -type f -name "*.pdf" | tail -1 | xargs basename | cut -d'_' -f1 | sed 's/gazette-//')
+            DATE_RANGE="from $START_DATE to $END_DATE"
+          else
+            DATE_RANGE="No documents archived yet"
+          fi
+          
+          # Generate per-year summary with both archived and unavailable docs
+          SUMMARY_TABLE=$(
+            # Get archived docs by year
+            find doc-archive -type f -name "*.pdf" | awk -F'/' '{print $2}' | sort | uniq -c > /tmp/archived_counts.txt
+            
+            # Get unavailable docs by year  
+            find doc-archive -type f -name "unavailable.txt" | awk -F'/' '{print $2}' | sort | uniq -c > /tmp/unavailable_counts.txt
+            
+            # Combine both counts by year
+            awk '
+            BEGIN { 
+                while ((getline line < "/tmp/archived_counts.txt") > 0) {
+                    split(line, a); archived[a[2]] = a[1]
+                }
+                while ((getline line < "/tmp/unavailable_counts.txt") > 0) {
+                    split(line, u); unavailable[u[2]] = u[1]
+                }
+                close("/tmp/archived_counts.txt")
+                close("/tmp/unavailable_counts.txt")
+                
+                # Get all years and sort them
+                for (year in archived) years[year] = 1
+                for (year in unavailable) years[year] = 1
+                
+                n = asorti(years, sorted_years)
+                for (i = 1; i <= n; i++) {
+                    year = sorted_years[i]
+                    arch_count = (year in archived) ? archived[year] : 0
+                    unav_count = (year in unavailable) ? unavailable[year] : 0
+                    printf "| %s | %s | %s |\n", year, arch_count, unav_count
+                }
+            }'
+          )
           
           # Write README.md
           cat <<EOF > README.md
@@ -59,9 +99,9 @@ jobs:
           
           Last Updated: $TIMESTAMP
           
-          $TOTAL_DOCS documents,
-
-          🐞 #WorkInProgress - Suggestions, Questions, Ideas, are welcome!
+          $TOTAL_DOCS documents, $DATE_RANGE.
+                    
+          🐞 #WorkInProgress - Suggestions, Questions, Ideas, Bug Reports are welcome!
           
           ---
           
