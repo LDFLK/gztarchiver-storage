@@ -32,18 +32,16 @@ jobs:
           # Define entries to cycle through - mix of years and specific dates
           # Format: "YEAR" for year-only or "YEAR MONTH DAY" for specific dates
           declare -a ENTRIES=(
-            "2010"
-            "2019 12 31"
             "2015"
-            "2018 09 10"
-            "2012"
-            "2020 07 04"
             "2016"
-            "2014 05 20"
-            "2013"
             "2017"
+            "2018"
+            "2019"
+            "2020"
             "2021"
-            "2011 01 01"
+            "2022"
+            "2023"
+            "2024"
           )
           
           # Calculate which entry to use based on current time
