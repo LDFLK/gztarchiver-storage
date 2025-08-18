@@ -2,8 +2,11 @@ name: gztarchiver
 
 on:
   schedule:
-    - cron: "0 */8 * * *"  # every 7 hours
+    - cron: "0 */8 * * *"  # every 8 hours
   workflow_dispatch:        # allows manual trigger
+
+env:
+  TZ: Asia/Colombo  # Set Sri Lankan Time zone globally
 
 jobs:
   run-archiver:
@@ -28,6 +31,8 @@ jobs:
           echo "${{ secrets.GZTARCHIVER_CONFIG }}" > config.yaml
        
       - name: Determine next year to process
+        env:
+          TZ: Asia/Colombo  # Ensure Sri Lankan time for this step
         run: |
           # Define years to cycle through
           declare -a YEARS=(
@@ -91,33 +96,37 @@ jobs:
           rm -rf metadata
        
       - name: Commit and push changes
+        env:
+          TZ: Asia/Colombo  # Ensure Sri Lankan time for commit timestamps
         run: |
           git config user.name "yasandu0505"
           git config user.email "yasanduyaka2005@gmail.com"
           git add doc-archive cycle_counter.txt
           
-          # Simplify commit message
+          # Simplify commit message with Sri Lankan time
           CURRENT_CYCLE=$(cat cycle_counter.txt)
           if [[ "$CURRENT_CYCLE" == "COMPLETED" ]]; then
-            COMMIT_MSG="🔄 Final archive update - All years completed - $(date '+%Y-%m-%d %H:%M:%S')"
+            COMMIT_MSG="🔄 Final archive update - All years completed - $(date '+%Y-%m-%d %H:%M:%S %Z')"
           else
             PREV_CYCLE=$((CURRENT_CYCLE - 1))
-            declare -a YEARS=("2015" "2016" "2017" "2018" "2019" "2020" "2021" "2022" "2023" "2024")
+            declare -a YEARS=( "2010" "2015" "2016" "2017" "2018" "2019" "2020" "2021" "2022" "2023" "2024")
             PROCESSED_YEAR=${YEARS[$PREV_CYCLE]}
-            COMMIT_MSG="🔄 Auto-update archive - Year $PROCESSED_YEAR - $(date '+%Y-%m-%d %H:%M:%S')"
+            COMMIT_MSG="🔄 Auto-update archive - Year $PROCESSED_YEAR - $(date '+%Y-%m-%d %H:%M:%S %Z')"
           fi
           
           git commit -m "$COMMIT_MSG" || echo "No changes to commit"
           git push origin main 
              
       - name: Update README with status
+        env:
+          TZ: Asia/Colombo  # Ensure Sri Lankan time for README timestamps
         run: |
-          # Get timestamp
-          TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
+          # Get timestamp in Sri Lankan time
+          TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S %Z')
           
           # Read current cycle info
           CYCLE_INDEX=$(cat cycle_counter.txt)
-          declare -a YEARS=("2015" "2016" "2017" "2018" "2019" "2020" "2021" "2022" "2023" "2024")
+          declare -a YEARS=( "2010" "2015" "2016" "2017" "2018" "2019" "2020" "2021" "2022" "2023" "2024")
           
           # Determine status
           if [[ "$CYCLE_INDEX" == "COMPLETED" ]]; then
@@ -187,7 +196,7 @@ jobs:
           
           $TOTAL_DOCS documents, $DATE_RANGE.
     
-          🐞 #WorkInProgress - Suggestions, Questions, Ideas, Bug Reports are welcome!
+          🛠️ #Under construction
           
           ---
           
@@ -208,11 +217,11 @@ jobs:
           
           ---
           
-          ### 🔄 One-Time Processing Schedule (Every 5 Hours)
-          Processes years in order: 2015 → 2016 → 2017 → 2018 → 2019 → 2020 → 2021 → 2022 → 2023 → 2024 → **STOP**
+          ### 🔄 Processing Schedule (Every 8 Hours, Sri Lankan Time)
+          Processes years in order: 2010 → 2015 → 2016 → 2017 → 2018 → 2019 → 2020 → 2021 → 2022 → 2023 → 2024 → **STOP**
           
           ---
-          #Legal #OpenData #GovTech
+          #OpenData #Govgazette #LankaDataFoundation
           EOF
           
           # Commit and push README.md
