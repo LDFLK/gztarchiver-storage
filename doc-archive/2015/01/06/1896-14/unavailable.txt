@@ -1,0 +1,7 @@
+{
+  "doc_id": "1896-14",
+  "date": "2015-01-06",
+  "description": "Land Acquisition - Keenawa, Nugannaruwa, Diwllepitiya Weerawewa and Yakadapotha, Kotavehera D/S Division, Kurnegala District - Redemption Notice for the land in Maussawa, Pathahewaheta D/S Division, Kandy District - Redemption notice for the land in Perawatta , D/S Division Pathahewaheta, Kandy District - Redemption notice for the land in Madiwela, Maharagama D/S Division, Colombo District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

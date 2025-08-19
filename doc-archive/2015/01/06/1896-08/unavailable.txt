@@ -1,0 +1,7 @@
+{
+  "doc_id": "1896-08",
+  "date": "2015-01-06",
+  "description": "Land Acquisition - Kawdulla, Rambukkana D/S Division, Kegalle District (Order No. 10 of 2015)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

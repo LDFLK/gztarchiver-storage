@@ -1,0 +1,7 @@
+{
+  "doc_id": "1896-13",
+  "date": "2015-01-06",
+  "description": "Land Acquisition - Rakwana Town and Rakwana Part, Godakawela  D/S Division, Ratnapura District - Redemption Notice for the land in Mirihana, Pagoda,Nugegoda  D/S Division, Colombo District - Redemption Notice for the land in Udaeeriyagama, Yatinuwara D/S Division, Kandy District (10 Allotments) -Redemption Notice for the land in Udaeeriyagama,  Yatinuwara D/S Division, Kandy District (2 Allotments)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

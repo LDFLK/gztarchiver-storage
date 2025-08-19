@@ -1,0 +1,7 @@
+{
+  "doc_id": "1895-21",
+  "date": "2015-01-01",
+  "description": "Ministry of Labour and Labour Relations - Awards made to the Industrial Disputes between Mr. W. M. Dhanasuriya and 03 others and National Housing Development Authority and between Mr. W. G. Subasinghe and Sri Lanka Transport Board",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

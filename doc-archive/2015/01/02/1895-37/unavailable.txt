@@ -1,0 +1,7 @@
+{
+  "doc_id": "1895-37",
+  "date": "2015-01-02",
+  "description": "Land Acquisition - Akurugoda, Malimbada D/S Division, Matara District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
