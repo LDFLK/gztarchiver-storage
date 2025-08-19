@@ -1,0 +1,7 @@
+{
+  "doc_id": "1906-10",
+  "date": "2015-03-17",
+  "description": "Land Acquisition - Dombagammana, Nivithigala D/S Division, Ratnapura District - Attanagalla and Mapa Ela, Lunugala D/S Division, Badulla District - Moratuwella, Moratuwa D/S Division, Colombo District - Thorayaya, Mallawapitiya D/s Division, Kurunegala District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

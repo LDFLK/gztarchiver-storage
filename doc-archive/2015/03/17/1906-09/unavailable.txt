@@ -1,0 +1,7 @@
+{
+  "doc_id": "1906-09",
+  "date": "2015-03-17",
+  "description": "Land Acquisition - Pallewela, Balangoda D/S Division and Beruwana, Eheleyagoda D/S Division and 04. 01 Allotments in Welladura, Kahawatta D/S Division all of Ratnapura District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

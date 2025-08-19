@@ -1,0 +1,7 @@
+{
+  "doc_id": "1908-21",
+  "date": "2015-03-31",
+  "description": "Land Acquisition - Guruthalawa, Karagasthenna, Welimada D/S Division, Badulla District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

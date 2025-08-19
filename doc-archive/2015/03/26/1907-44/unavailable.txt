@@ -1,0 +1,7 @@
+{
+  "doc_id": "1907-44",
+  "date": "2015-03-26",
+  "description": "Land Acquisition - Yatigammana, Yatinuwara D/S Division, Kandy District - Boralesgamuwa, Kesbewa D/S Division, Colombo District - Redemption Notice for the land in Mathugobe, Kotapola  D/S Division, Matara District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

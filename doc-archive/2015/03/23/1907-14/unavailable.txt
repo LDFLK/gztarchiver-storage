@@ -1,0 +1,7 @@
+{
+  "doc_id": "1907-14",
+  "date": "2015-03-23",
+  "description": "Ministry of Justice and Labour Relations - Award made to the Industrial Dispute between Aruna Priyanga Mudannayake and Sri Lanka Telecom P.L C.",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

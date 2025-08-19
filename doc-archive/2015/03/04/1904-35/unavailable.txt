@@ -1,0 +1,7 @@
+{
+  "doc_id": "1904-35",
+  "date": "2015-03-04",
+  "description": "Land Acquisition - Nivithigala, Nivithigala D/S Division, Ratnapura District - Bananga, Thumpane D/S Division, Kandy District - Pihimbiyagollewa, Rambewa D/S Division, Anuradhapura District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
