@@ -1,0 +1,7 @@
+{
+  "doc_id": "1914-39",
+  "date": "2015-05-15",
+  "description": "Mediation Boards Commission - Calling nominations to appoint Mediators for the Anuradhapura, Jaffna, Kilinochchi, Trincomalee and Batticaloa Districts",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
