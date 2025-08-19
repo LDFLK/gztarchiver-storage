@@ -36,7 +36,6 @@ jobs:
         run: |
           # Define years to cycle through
           declare -a YEARS=(
-            "2010"
             "2015"
             "2016"
             "2017"
@@ -134,7 +133,7 @@ jobs:
           if [[ "$YEAR_INDEX" == "COMPLETED" ]]; then
             COMMIT_MSG="🎉 Final archive update - All years and months completed - $(date '+%Y-%m-%d %H:%M:%S %Z')"
           else
-            declare -a YEARS=( "2010" "2015" "2016" "2017" "2018" "2019" "2020" "2021" "2022" "2023" "2024")
+            declare -a YEARS=("2015" "2016" "2017" "2018" "2019" "2020" "2021" "2022" "2023" "2024")
             declare -a MONTHS=(1 2 3 4 5 6 7 8 9 10 11 12)
             
             # Get the previously processed year-month (what we just completed)
@@ -169,7 +168,7 @@ jobs:
           # Read current cycle info
           YEAR_INDEX=$(cat cycle_counter.txt)
           MONTH_INDEX=$(cat month_counter.txt)
-          declare -a YEARS=( "2010" "2015" "2016" "2017" "2018" "2019" "2020" "2021" "2022" "2023" "2024")
+          declare -a YEARS=("2015" "2016" "2017" "2018" "2019" "2020" "2021" "2022" "2023" "2024")
           declare -a MONTHS=(1 2 3 4 5 6 7 8 9 10 11 12)
           
           # Determine status
@@ -267,11 +266,11 @@ jobs:
           
           ---
           
-          ### 🔄 Processing Schedule (Every 2 Hours, Sri Lankan Time)
+          ### 🔄 Processing Schedule (Every 3 Hours, Sri Lankan Time)
           Processes **one month per run** in order:  
-          2010: Jan→Feb→Mar→...→Dec → 2015: Jan→Feb→Mar→...→Dec → ... → 2024: Jan→Feb→Mar→...→Dec → **COMPLETE**
+          2015: Jan→Feb→Mar→...→Dec → 2016: Jan→Feb→Mar→...→Dec → ... → 2024: Jan→Feb→Mar→...→Dec → **COMPLETE**
           
-          **Estimated Time:** ~24 hours per year (12 months × 2 hours each)
+          **Estimated Time:** ~36 hours per year (12 months × 3 hours each)
           
           ---
           #OpenData #Govgazette #LankaDataFoundation
