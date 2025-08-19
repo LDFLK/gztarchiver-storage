@@ -2,7 +2,7 @@ name: gztarchiver
 
 on:
   schedule:
-    - cron: "0 */8 * * *"  # every 8 hours
+    - cron: "0 */2 * * *"  # every 2 hours
   workflow_dispatch:        # allows manual trigger
 
 env:
@@ -30,7 +30,7 @@ jobs:
         run: |
           echo "${{ secrets.GZTARCHIVER_CONFIG }}" > config.yaml
        
-      - name: Determine next year to process
+      - name: Determine next year-month to process
         env:
           TZ: Asia/Colombo  # Ensure Sri Lankan time for this step
         run: |
@@ -49,47 +49,71 @@ jobs:
             "2024"
           )
           
+          # Define months
+          declare -a MONTHS=(1 2 3 4 5 6 7 8 9 10 11 12)
+          
           # Check if cycle counter file exists, if not create it
           if [[ ! -f cycle_counter.txt ]]; then
             echo "0" > cycle_counter.txt
           fi
           
-          # Read current cycle index
-          CYCLE_INDEX=$(cat cycle_counter.txt)
+          # Check if month counter file exists, if not create it
+          if [[ ! -f month_counter.txt ]]; then
+            echo "0" > month_counter.txt
+          fi
+          
+          # Read current cycle indices
+          YEAR_INDEX=$(cat cycle_counter.txt)
+          MONTH_INDEX=$(cat month_counter.txt)
           
           # Check if already completed
-          if [[ "$CYCLE_INDEX" == "COMPLETED" ]]; then
-            echo "✅ All years already processed. Archive is complete!"
-            echo "🛑 Workflow stopping - no more years to process."
+          if [[ "$YEAR_INDEX" == "COMPLETED" ]]; then
+            echo "✅ All years and months already processed. Archive is complete!"
+            echo "🛑 Workflow stopping - no more processing needed."
             exit 0
           fi
           
-          # Check if cycle index is valid
-          if [[ $CYCLE_INDEX -ge ${#YEARS[@]} ]]; then
-            echo "✅ All years already processed. Archive is complete!"
+          # Check if year index is valid
+          if [[ $YEAR_INDEX -ge ${#YEARS[@]} ]]; then
+            echo "✅ All years and months already processed. Archive is complete!"
             echo "COMPLETED" > cycle_counter.txt
+            echo "COMPLETED" > month_counter.txt
             exit 0
           fi
           
-          # Get the year for this cycle
-          YEAR=${YEARS[$CYCLE_INDEX]}
+          # Get current year and month
+          CURRENT_YEAR=${YEARS[$YEAR_INDEX]}
+          CURRENT_MONTH=${MONTHS[$MONTH_INDEX]}
           
-          echo "🔄 Processing cycle: $((CYCLE_INDEX + 1)) of ${#YEARS[@]}"
-          echo "📅 Processing year: $YEAR"
+          echo "🔄 Processing year: $CURRENT_YEAR, month: $CURRENT_MONTH"
+          echo "📅 Year cycle: $((YEAR_INDEX + 1)) of ${#YEARS[@]}, Month: $((MONTH_INDEX + 1)) of ${#MONTHS[@]}"
           
-          # Run the archiver for this year
-          gztarchiver --year $YEAR --lang en --config config.yaml
+          # Run the archiver for this year-month combination
+          gztarchiver --year $CURRENT_YEAR --month $CURRENT_MONTH --lang en --config config.yaml
           
-          # Update cycle counter for next run
-          NEXT_INDEX=$((CYCLE_INDEX + 1))
+          # Update counters for next run
+          NEXT_MONTH_INDEX=$((MONTH_INDEX + 1))
           
-          # Check if we've completed all years
-          if [[ $NEXT_INDEX -ge ${#YEARS[@]} ]]; then
-            echo "✅ COMPLETED ALL YEARS! Archive process finished."
-            echo "COMPLETED" > cycle_counter.txt
+          # Check if we've completed all months for this year
+          if [[ $NEXT_MONTH_INDEX -ge ${#MONTHS[@]} ]]; then
+            # Move to next year, reset month counter
+            NEXT_YEAR_INDEX=$((YEAR_INDEX + 1))
+            echo "✅ Completed year $CURRENT_YEAR"
+            
+            # Check if we've completed all years
+            if [[ $NEXT_YEAR_INDEX -ge ${#YEARS[@]} ]]; then
+              echo "✅ COMPLETED ALL YEARS AND MONTHS! Archive process finished."
+              echo "COMPLETED" > cycle_counter.txt
+              echo "COMPLETED" > month_counter.txt
+            else
+              echo "$NEXT_YEAR_INDEX" > cycle_counter.txt
+              echo "0" > month_counter.txt
+              echo "➡️  Next run will process: ${YEARS[$NEXT_YEAR_INDEX]}, month: ${MONTHS[0]}"
+            fi
           else
-            echo "$NEXT_INDEX" > cycle_counter.txt
-            echo "➡️  Next run will process: ${YEARS[$NEXT_INDEX]}"
+            # Stay on same year, increment month
+            echo "$NEXT_MONTH_INDEX" > month_counter.txt
+            echo "➡️  Next run will process: $CURRENT_YEAR, month: ${MONTHS[$NEXT_MONTH_INDEX]}"
           fi
           
           # Clean up metadata
@@ -101,17 +125,35 @@ jobs:
         run: |
           git config user.name "yasandu0505"
           git config user.email "yasanduyaka2005@gmail.com"
-          git add doc-archive cycle_counter.txt
+          git add doc-archive cycle_counter.txt month_counter.txt
           
-          # Simplify commit message with Sri Lankan time
-          CURRENT_CYCLE=$(cat cycle_counter.txt)
-          if [[ "$CURRENT_CYCLE" == "COMPLETED" ]]; then
-            COMMIT_MSG="🔄 Final archive update - All years completed - $(date '+%Y-%m-%d %H:%M:%S %Z')"
+          # Create commit message with current processing info
+          YEAR_INDEX=$(cat cycle_counter.txt)
+          MONTH_INDEX=$(cat month_counter.txt)
+          
+          if [[ "$YEAR_INDEX" == "COMPLETED" ]]; then
+            COMMIT_MSG="🎉 Final archive update - All years and months completed - $(date '+%Y-%m-%d %H:%M:%S %Z')"
           else
-            PREV_CYCLE=$((CURRENT_CYCLE - 1))
             declare -a YEARS=( "2010" "2015" "2016" "2017" "2018" "2019" "2020" "2021" "2022" "2023" "2024")
-            PROCESSED_YEAR=${YEARS[$PREV_CYCLE]}
-            COMMIT_MSG="🔄 Auto-update archive - Year $PROCESSED_YEAR - $(date '+%Y-%m-%d %H:%M:%S %Z')"
+            declare -a MONTHS=(1 2 3 4 5 6 7 8 9 10 11 12)
+            
+            # Get the previously processed year-month (what we just completed)
+            if [[ "$MONTH_INDEX" == "0" && "$YEAR_INDEX" -gt "0" ]]; then
+              # We just completed December of previous year
+              PREV_YEAR_INDEX=$((YEAR_INDEX - 1))
+              PROCESSED_YEAR=${YEARS[$PREV_YEAR_INDEX]}
+              PROCESSED_MONTH=12
+            elif [[ "$MONTH_INDEX" == "COMPLETED" ]]; then
+              PROCESSED_YEAR="ALL"
+              PROCESSED_MONTH="ALL"
+            else
+              # We just completed previous month of current year
+              PREV_MONTH_INDEX=$((MONTH_INDEX - 1))
+              PROCESSED_YEAR=${YEARS[$YEAR_INDEX]}
+              PROCESSED_MONTH=${MONTHS[$PREV_MONTH_INDEX]}
+            fi
+            
+            COMMIT_MSG="🔄 Auto-update archive - Year $PROCESSED_YEAR Month $PROCESSED_MONTH - $(date '+%Y-%m-%d %H:%M:%S %Z')"
           fi
           
           git commit -m "$COMMIT_MSG" || echo "No changes to commit"
@@ -125,16 +167,24 @@ jobs:
           TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S %Z')
           
           # Read current cycle info
-          CYCLE_INDEX=$(cat cycle_counter.txt)
+          YEAR_INDEX=$(cat cycle_counter.txt)
+          MONTH_INDEX=$(cat month_counter.txt)
           declare -a YEARS=( "2010" "2015" "2016" "2017" "2018" "2019" "2020" "2021" "2022" "2023" "2024")
+          declare -a MONTHS=(1 2 3 4 5 6 7 8 9 10 11 12)
           
           # Determine status
-          if [[ "$CYCLE_INDEX" == "COMPLETED" ]]; then
-            NEXT_YEAR="✅ ALL COMPLETE"
-            CYCLE_STATUS="All ${#YEARS[@]} years processed - Archive complete!"
+          if [[ "$YEAR_INDEX" == "COMPLETED" ]]; then
+            NEXT_PROCESSING="✅ ALL COMPLETE"
+            CYCLE_STATUS="All ${#YEARS[@]} years (132 months total) processed - Archive complete!"
+            TOTAL_MONTHS_PROCESSED=132
           else
-            NEXT_YEAR=${YEARS[$CYCLE_INDEX]}
-            CYCLE_STATUS="$((CYCLE_INDEX + 1)) of ${#YEARS[@]} years completed"
+            CURRENT_YEAR=${YEARS[$YEAR_INDEX]}
+            CURRENT_MONTH=${MONTHS[$MONTH_INDEX]}
+            NEXT_PROCESSING="Year $CURRENT_YEAR, Month $CURRENT_MONTH"
+            
+            # Calculate total months processed
+            TOTAL_MONTHS_PROCESSED=$((YEAR_INDEX * 12 + MONTH_INDEX))
+            CYCLE_STATUS="$TOTAL_MONTHS_PROCESSED of 132 months completed"
           fi
           
           # Count documents
@@ -203,8 +253,8 @@ jobs:
           ## 📊 Archive Status Dashboard
           
           **Last Archiver Run:** $TIMESTAMP  
-          **Next Scheduled Year:** $NEXT_YEAR  
-          **Cycle Progress:** $CYCLE_STATUS
+          **Next Scheduled Processing:** $NEXT_PROCESSING  
+          **Progress:** $CYCLE_STATUS
           
           **Summary of Documents Archived:**
           
@@ -217,8 +267,11 @@ jobs:
           
           ---
           
-          ### 🔄 Processing Schedule (Every 8 Hours, Sri Lankan Time)
-          Processes years in order: 2010 → 2015 → 2016 → 2017 → 2018 → 2019 → 2020 → 2021 → 2022 → 2023 → 2024 → **STOP**
+          ### 🔄 Processing Schedule (Every 2 Hours, Sri Lankan Time)
+          Processes **one month per run** in order:  
+          2010: Jan→Feb→Mar→...→Dec → 2015: Jan→Feb→Mar→...→Dec → ... → 2024: Jan→Feb→Mar→...→Dec → **COMPLETE**
+          
+          **Estimated Time:** ~24 hours per year (12 months × 2 hours each)
           
           ---
           #OpenData #Govgazette #LankaDataFoundation
