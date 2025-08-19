@@ -1,0 +1,7 @@
+{
+  "doc_id": "1901-11",
+  "date": "2015-02-11",
+  "description": "Ministry of Justice and Labour Relations - Award made to the Industrial Dispute between Mr. W. J. Pathiranarathna and Ceylon Petroleum Storage Terminals Ltd.",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

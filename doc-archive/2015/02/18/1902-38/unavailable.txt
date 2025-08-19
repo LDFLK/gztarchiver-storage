@@ -1,0 +1,7 @@
+{
+  "doc_id": "1902-38",
+  "date": "2015-02-18",
+  "description": "Land Acquisition - Advance Tracing No. H/BLA/RDA/2015/12 and No. H/BLA/RDA/2015/13 of Kongalagoda, Beliatta D/S Division, Hambanthota District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

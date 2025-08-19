@@ -1,0 +1,7 @@
+{
+  "doc_id": "1901-25",
+  "date": "2015-02-13",
+  "description": "Ministry of Justice and Labour Relations - Award made to the Industrial Dispute between T. M. Kumara and Lanka Technical Development Board",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

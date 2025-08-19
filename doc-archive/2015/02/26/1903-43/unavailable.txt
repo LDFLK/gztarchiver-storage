@@ -1,0 +1,7 @@
+{
+  "doc_id": "1903-43",
+  "date": "2015-02-26",
+  "description": "Land Acquisition - Aluthgama and Udathalawinna, Pathadumbara D/S Division, Kandy District - Medawala, Harispattuwa D/S Division, Kandy District - Rambuke Ela, Adurana D/S Division, Kandy District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

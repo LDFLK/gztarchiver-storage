@@ -1,0 +1,7 @@
+{
+  "doc_id": "1902-48",
+  "date": "2015-02-20",
+  "description": "Land Acquisition - Deraniyagala South, Deraniyagala D/S Division, Kegalle District - Naotunna, Devinuwara D/S Division, Matara District - Rajjammana, Matale D/S Division, Matale District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
