@@ -1,0 +1,7 @@
+{
+  "doc_id": "1909-50",
+  "date": "2015-04-10",
+  "description": "Land Acquisition - Bothale Pahalagama, Mirigama D/S Division, Gampaha District - Redemption Notice for the Land in Halwala, Walallawita D/S Division, Kalutara District - Redemption Notice for the Land in Angulana North, Moratuwa D/S Division, Colombo District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

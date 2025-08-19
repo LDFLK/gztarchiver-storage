@@ -1,0 +1,7 @@
+{
+  "doc_id": "1911-21",
+  "date": "2015-04-24",
+  "description": "Land Acquisition - Order Nos. 84 and 85 of 2015 for Thambagalla, Ganewatta  D/S Division, Kurunegala District - Order Nos. 82 and 83 of 2015 for Kaluhenayagama, Ganewatta D/S Division, Kurunegala District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

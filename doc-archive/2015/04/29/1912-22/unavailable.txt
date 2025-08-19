@@ -1,0 +1,7 @@
+{
+  "doc_id": "1912-22",
+  "date": "2015-04-29",
+  "description": "Land Acquisition - Redemption Notice for the land in Narahenpita, Thimbirigasyaya D/S Division, Colombo District - Arawakumbura, Lunugala D/S Division, Badulla District - Bambarenda Center, Dickwella D/S Division, Matara District - Amendment to the Order No. 47 of 2015 published in Gaz. Ex. Ord. No. 1904/36 of 04.03.2015",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
