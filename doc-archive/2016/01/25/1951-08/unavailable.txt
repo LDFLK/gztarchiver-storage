@@ -1,0 +1,7 @@
+{
+  "doc_id": "1951-08",
+  "date": "2016-01-25",
+  "description": "Ministry of Labour and Trade Union Relations - Appointed Mr. S. Kariyawasam as the Arbitrator for the Settlement of Industrial Dispute between Mr. H. Jayatunga and National Paper Company Limited and Revocation of Orders made to appoint Mr. V. Vimalarajah as the arbitrator to the Industrial Disputes between Mr. P. D. Samarasinghe and Richard Pieris and Company Limied and between Mr. C. J. Ranjith and Bank of Ceylon and appointed Mr. T. E. Santharajan as the Arbitrator and Appointed Mr. Upali Samaraweera to the Industrial Dispute between 26 Employees including Mr. Chamila Dinesh Balasooriya and Ceylon Hotel Commercial and Mercantile Union and State Timber Corporation as Arbitrators",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

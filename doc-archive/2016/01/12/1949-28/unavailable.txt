@@ -1,0 +1,7 @@
+{
+  "doc_id": "1949-28",
+  "date": "2016-01-12",
+  "description": "Land Acquisition - Andarawewa and Seenimodarayaya, Nabadagaswewa, Andarawewa, Suriyawewa D/S Division, Hambantota District - Seenakkugala, Bellagaswewa, Pahala Andarawewa, D/S Division Hambantota, Hambantota District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

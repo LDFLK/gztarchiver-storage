@@ -1,0 +1,7 @@
+{
+  "doc_id": "1950-28",
+  "date": "2016-01-19",
+  "description": "Ministry of Labour and Trade Union Relations - Award made to the Industrial Dispute between Mr. R. M. G. Ramanayake and 03 others of the one part and Sri Lanka Port Authority of the Other part",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

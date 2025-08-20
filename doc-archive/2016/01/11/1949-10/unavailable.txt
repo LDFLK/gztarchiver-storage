@@ -1,0 +1,7 @@
+{
+  "doc_id": "1949-10",
+  "date": "2016-01-11",
+  "description": "Commission of Elections - Elected Mr. Sandanayake Mudiyanselage Chamila Buddhika as a member of the Badulla Municipal Council",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

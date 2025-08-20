@@ -1,0 +1,7 @@
+{
+  "doc_id": "1951-24",
+  "date": "2016-01-28",
+  "description": "Land Acquisition - Bokundara, Kesbewa D/S Division, Colombo District - Edirigoda, Sri Jayawardenapura Kotte D/S Division, Colombo District - Yatipiyangala, Udapalatha D/S Division, Kandy District - Kakulanda, Udapalatha D/S Division, Kandy District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

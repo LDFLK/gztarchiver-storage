@@ -1,0 +1,7 @@
+{
+  "doc_id": "1948-32",
+  "date": "2016-01-07",
+  "description": "Ministry of City Planning and Water Supply - Order to approve the acquisition of immovable properties in Thevareer Pond, Jaffna  D/S Division, Jaffna District under the constructions under Jaffna-Kilinochchi Water Supply & Sanitation Project in Elagammillawa, Kotavehera D/S Division,  Kurunegala District for the constructions under Anamaduwa Water Supply Scheme and in Nagolla, Matale D/S Division, Matale District for the construction under Greater Matale Water Supply Project",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

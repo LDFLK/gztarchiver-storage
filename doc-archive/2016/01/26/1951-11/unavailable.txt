@@ -1,0 +1,7 @@
+{
+  "doc_id": "1951-11",
+  "date": "2016-01-26",
+  "description": "Ministry of City Planning and Water Supply - Order to approve the acquisitions of the immovable Properties in Passaiyoor, Jaffna D/S Division and in Monthipulam, Karainagar D/S Division, Jaffna District for the Constructions under Jaffna - Kilinochchi Water Supply and Sanitation Project and of Servitude right of the Land in Doragamuwa, Pathadumbara D/S Division, Kandy District for the Constructions under Kandy North-Pathadumbara Integrated Water Supply Project",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

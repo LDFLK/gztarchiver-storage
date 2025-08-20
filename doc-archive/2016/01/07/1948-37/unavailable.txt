@@ -1,0 +1,7 @@
+{
+  "doc_id": "1948-37",
+  "date": "2016-01-07",
+  "description": "Land Acquisition - Kalubovila, Dehiwala D/S Division, Colombo District - Kotikapola, Mawathagama D/S Division, Kurunegala District - Land Redemption - Redemption Notice for 02 Allotments of Order No. 110 of 2006 published in Gaz. Ex. Ord. No. 1506/1 of 16.07.2007",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
