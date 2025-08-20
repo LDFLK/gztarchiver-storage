@@ -1,0 +1,7 @@
+{
+  "doc_id": "1926-43",
+  "date": "2015-08-06",
+  "description": "Land Acquisition - Nayakawatta, Getamanna South and Mahaheella, Beliatta D/S Division, Hambantota District - Walakanda East, Kirinda Puhul Wella D/S Division, Matara District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
