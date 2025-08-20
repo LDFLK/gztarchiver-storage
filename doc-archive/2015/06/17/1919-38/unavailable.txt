@@ -1,0 +1,7 @@
+{
+  "doc_id": "1919-38",
+  "date": "2015-06-17",
+  "description": "Land Acquisition - Ganegama South, Walpita North, Baddegama D/S Division, Galle District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

@@ -1,0 +1,7 @@
+{
+  "doc_id": "1917-40",
+  "date": "2015-06-04",
+  "description": "Land Acquisition - Imaduwa/Paragoda, Imaduwa D/S Division, Galle District - Duwegoda, Beruwala D/S Division, Kalutara District - Redemption Notice for the Land in Kadawala (Part), Ambagamuwa Korale D/S Division, Nuwara Eliya District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

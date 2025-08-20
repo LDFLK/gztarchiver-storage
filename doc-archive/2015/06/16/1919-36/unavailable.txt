@@ -1,0 +1,7 @@
+{
+  "doc_id": "1919-36",
+  "date": "2015-06-16",
+  "description": "Land Acquisition - Boraluwegeaina, Kolonna D/S Division, Ratnapura District - Hopetown, Yapama, Lunugala, Lunugala D/S Division, Badulla District - Mirahawatta, Welimada D/S Division, Badulla District - Wedegahapura Atambaoya and Diggalpura, Medirigiriya D/S Division, Polonnaruwa District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

@@ -1,0 +1,7 @@
+{
+  "doc_id": "1920-33",
+  "date": "2015-06-26",
+  "description": "Land Acquisition - Panamura D/S Division, Embilipitiya and Henagama, Balangoda, Ratnapura District - Pansalthenna, Ukuwela D/S Division, Matale District - Helamada, Galigamuwa D/S Division, Kegalle District - Amendment to the Order No. 122 of 2014 Published in Gaz. Ex. Ord. No 1864/52 of 30.05.2014",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

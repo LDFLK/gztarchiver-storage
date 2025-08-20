@@ -1,0 +1,7 @@
+{
+  "doc_id": "1919-35",
+  "date": "2015-06-16",
+  "description": "Land Acquisition - Order Nos. 107 and 108 of 2015 for the Lands in Dagewilla and No. 109 of 2015 for Weliwita, Laggala - Pallegama D/S Division, Matale District - Wedehapura, Atambaoya and Diggalpura, Medirigiriya D/S Division, Polonnaruwa District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

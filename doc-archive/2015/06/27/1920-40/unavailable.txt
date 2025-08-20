@@ -1,0 +1,7 @@
+{
+  "doc_id": "1920-40",
+  "date": "2015-06-27",
+  "description": "Department of Elections - Appointing Assistant Returning Officers under Sec. 6(1) of the Parliamentary Elections Act, No. 01 of 1981",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

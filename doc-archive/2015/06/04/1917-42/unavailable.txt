@@ -1,0 +1,7 @@
+{
+  "doc_id": "1917-42",
+  "date": "2015-06-04",
+  "description": "Land Acquisition - Kendalgama and Mailagasthenna, Badulla D/S Division, Badulla District - Kotuwila, Kolonawa D/S Division, Colombo District - Karandaganamada, Meegaha D/S Division, Meegaha Kivula, Badulla District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
