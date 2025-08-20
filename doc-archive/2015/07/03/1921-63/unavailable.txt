@@ -1,0 +1,7 @@
+{
+  "doc_id": "1921-63",
+  "date": "2015-07-03",
+  "description": "Department of Elections - Redividing Polling Divisions of Electoral Districts Nos. 1 - Colombo, 4 - Kandy, 5 - Matale, 9 - Hambantota, 10 - Jaffna, 11- Vanni, 13 - Digamadulla, 14 - Trincomalee, 19 - Badulla, 20 - Monaragala, 21 - Ratnapura and 22 - Kegalle",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

@@ -1,0 +1,7 @@
+{
+  "doc_id": "1923-13",
+  "date": "2015-07-14",
+  "description": "Ministry of Labour - Collective Agreements entered into between Royal Ceramics Lanka PLC Company and Inter Companies Employees' Union and between M/S Aqua Packaging (Private) Company and Inter Companies Employees' Union",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

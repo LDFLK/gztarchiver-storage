@@ -1,0 +1,7 @@
+{
+  "doc_id": "1922-45",
+  "date": "2015-07-09",
+  "description": "Land Acquisition - Rajjammana, Matale D/S Division, Matale District - Kanavila, Horana D/S Division, Kalutara District - Galpatha, Millaniya D/S Division, Kalutara District - Wewurukannala, Dickwella D/S Division, Matara District - Land Redemption - Redemption Notice for the Order No. 116 of 23.05.2014 published in Gaz. Ex. Ord. No. 1864/51 of 30.05.2014",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

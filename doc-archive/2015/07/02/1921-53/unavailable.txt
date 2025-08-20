@@ -1,0 +1,7 @@
+{
+  "doc_id": "1921-53",
+  "date": "2015-07-02",
+  "description": "Land Acquisition - Redemption Notice for the Land in Welikada, Sri Jayawardenapura Kotte D/S Division, Colombo District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
