@@ -1,0 +1,7 @@
+{
+  "doc_id": "1939-32",
+  "date": "2015-11-06",
+  "description": "Western Province - Order to confer on Ms. Akurugoda Eeshwarage Nirosha Deepani, the powers of Commissioner of Co-operative Development and the Registrar of Co-operative Societies w.e.f. 17.09.2015",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

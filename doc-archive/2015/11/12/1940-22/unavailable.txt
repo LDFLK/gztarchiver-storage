@@ -1,0 +1,7 @@
+{
+  "doc_id": "1940-22",
+  "date": "2015-11-12",
+  "description": "Land Acquisition - Walasgala, Dickwella D/S Division, Matara District - Andadola, Balapitiya D/S Division, Galle District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

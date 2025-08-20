@@ -1,0 +1,7 @@
+{
+  "doc_id": "1939-23",
+  "date": "2015-11-05",
+  "description": "Ministry of Sports - Order to amend the Sec. 13 of National Sports Association Regulations No. 01 of 2013 published in Gaz. Ex. Ord. No. 1793/03 of 15.01.2013",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

@@ -1,0 +1,7 @@
+{
+  "doc_id": "1939-33",
+  "date": "2015-11-06",
+  "description": "Land Acquisition - Thawalama, Thawalama D/S Division, Galle District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

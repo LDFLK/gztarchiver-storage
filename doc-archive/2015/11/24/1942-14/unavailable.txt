@@ -1,0 +1,7 @@
+{
+  "doc_id": "1942-14",
+  "date": "2015-11-24",
+  "description": "Consumer Affairs Authority - Order No. 35 to fix maximum Retail Prices to Sprats, Dhal, Dried Fish 'Katta' and 'Salaya', Chick Pea and Local Milk Powder 400g with effect from 24.11.2015",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
