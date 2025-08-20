@@ -1,0 +1,7 @@
+{
+  "doc_id": "1931-06",
+  "date": "2015-09-07",
+  "description": "Ministry of Justice and Labour Relations - Memorandum of Understanding No. 02 of 2015 and Collective Agreement No. 03 of 2015 entered into Industrial Dispute between International Distillers Limited and Food, Beverages and Tobacco Industries Employees Union",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

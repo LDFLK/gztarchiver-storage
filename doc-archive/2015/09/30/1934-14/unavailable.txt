@@ -1,0 +1,7 @@
+{
+  "doc_id": "1934-14",
+  "date": "2015-09-30",
+  "description": "Land Acquisition - Ma Oya, Laggala Pallegama D/S Division, Matale District - Niyambepola, Thumpane D/S Division, Kandy District - Thambagalla, Ganewatta D/S Division, Kurunegala District - Girakaduwa, Pathadumbara D/S Division, Kandy District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
