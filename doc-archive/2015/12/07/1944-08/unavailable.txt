@@ -1,0 +1,7 @@
+{
+  "doc_id": "1944-08",
+  "date": "2015-12-07",
+  "description": "Land Acquisition - Akarahediya, Galagedawala and Cadestral Map Nos. MA/LGG/2013/385 and MA/LGG/2014/62 of Maoya, Laggala Pallegama D/S Division, Matale District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

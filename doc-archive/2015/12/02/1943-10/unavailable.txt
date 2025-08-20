@@ -1,0 +1,7 @@
+{
+  "doc_id": "1943-10",
+  "date": "2015-12-02",
+  "description": "Land Acquisition - Indiparape and Hiriwala, Thilinagama and Indiparape, Hiriwala, Hiriwalamulla, Ganegoda and Ambalanwatta, Mirigama D/S Division, Gampaha District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

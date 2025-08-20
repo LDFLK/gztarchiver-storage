@@ -1,0 +1,7 @@
+{
+  "doc_id": "1944-09",
+  "date": "2015-12-07",
+  "description": "Land Acquisition - Magasthenna, Welimada D/S Division, Badulla District - Dambadeniya, Mahaoya D/S Division, Ampara District - Balagolla, Meegahakivula D/S Division, Badulla District - Masimbula, Godakawela D/S Division, Ratnapura District - Redemption Notice for Order No. 51 of 1984 of Watagedara, Gangabada Pattu South D/S Division, Matara District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

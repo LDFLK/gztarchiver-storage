@@ -1,0 +1,7 @@
+{
+  "doc_id": "1944-11",
+  "date": "2015-12-07",
+  "description": "Land Acquisition - Nivithigala, Nivithigala D/S Division, Ratnapura District - Galloluwa, Gampaha D/S Division, Gampaha District - Balawinna, Godakawela D/S Division, Ratnapura District - Warapitiya, Ukuwela D/S Division, Matale District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

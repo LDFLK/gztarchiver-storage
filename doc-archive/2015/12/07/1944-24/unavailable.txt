@@ -1,0 +1,7 @@
+{
+  "doc_id": "1944-24",
+  "date": "2015-12-07",
+  "description": "Land Acquisition - Haputalegama (part) and P. P. Nos. Ba. 652 and Ba. 651 of Haputale, Haputale D/S Division, Badulla District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

@@ -1,0 +1,7 @@
+{
+  "doc_id": "1944-07",
+  "date": "2015-12-07",
+  "description": "Land Acquisition - Medawala, Harispattuwa D/S Division, Kandy District - Kumbalwella, Galle Four Gravets D/S Division, Galle District - Udupeellagoda, Hakmana D/S Division, Matara District - Karasnagala, Attanagalla D/S Division, Gampaha District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

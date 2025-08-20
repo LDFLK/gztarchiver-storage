@@ -1,0 +1,7 @@
+{
+  "doc_id": "1947-19",
+  "date": "2015-12-29",
+  "description": "Western  Province - Notifying that Mr. Gayan Nishantha Sri Warnasinghe Hon. Minister of Health, etc. has been removed from the Office of Minister with immediate effect.",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

@@ -1,0 +1,7 @@
+{
+  "doc_id": "1944-05",
+  "date": "2015-12-07",
+  "description": "Land Acquisition - Bokundara, Katuwawala, Kesbewa D/S Division, Colombo District - Koswatta, Heenatikumbura, Aggona, Walpola, Kaduwela D/S Division, Colombo District - Watareka, Homagama D/S Division, Colombo District - Godawanagoda, Tangalle D/S Division, Hambantota District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

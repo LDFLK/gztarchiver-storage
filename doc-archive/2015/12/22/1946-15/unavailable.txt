@@ -1,0 +1,7 @@
+{
+  "doc_id": "1946-15",
+  "date": "2015-12-22",
+  "description": "Land Title Settlement Department - Konwewa, Mahabellankadawala, Rajapakshagama, Solama, Solanwewa, Thambettegama, Anuradhapura District - Cad. Map No. 110072",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

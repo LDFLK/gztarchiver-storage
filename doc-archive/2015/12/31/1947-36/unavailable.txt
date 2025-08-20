@@ -1,0 +1,7 @@
+{
+  "doc_id": "1947-36",
+  "date": "2015-12-31",
+  "description": "Land Acquisition - Dodampe, Kiriella D/S Division, Ratnapura District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

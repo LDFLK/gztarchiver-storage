@@ -1,0 +1,7 @@
+{
+  "doc_id": "1945-09",
+  "date": "2015-12-15",
+  "description": "Ministry of Sports - The Anti - Doping (Prohibited List) Regulations No. 02 of 2015 that shall be deemed to have Come into Operation on 01.01.2016",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

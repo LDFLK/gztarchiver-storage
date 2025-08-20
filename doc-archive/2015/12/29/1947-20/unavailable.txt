@@ -1,0 +1,7 @@
+{
+  "doc_id": "1947-20",
+  "date": "2015-12-29",
+  "description": "Western Province - Appointed Hon. Edirisinghe Arachchige Isura Devapriya Dharmasena Perera as the Minister of Health, etc. in addition to him being the Chief Minister and Minister of Finance and Planning, etc. with effect from 29.12.2015",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
