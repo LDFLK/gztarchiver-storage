@@ -2,7 +2,7 @@ name: gztarchiver
 
 on:
   schedule:
-    - cron: "0 */3 * * *"  # every 2 hours
+    - cron: "0 */3 * * *"  # every 3 hours
   workflow_dispatch:        # allows manual trigger
 
 env:
@@ -24,7 +24,7 @@ jobs:
           python-version: "3.x"
        
       - name: Install archiver package
-        run: pip install git+https://github.com/yasandu0505/gztarchiver.git
+        run: pip install git+https://github.com/LDFLK/gztarchiver.git
        
       - name: Create config.yaml from secret
         run: |
@@ -122,8 +122,9 @@ jobs:
         env:
           TZ: Asia/Colombo  # Ensure Sri Lankan time for commit timestamps
         run: |
-          git config user.name "yasandu0505"
-          git config user.email "yasanduyaka2005@gmail.com"
+          # Configure git with bot user credentials
+          git config user.name "gzt-archiver-bot[bot]"
+          git config user.email "gzt-archiver-bot[bot]@users.noreply.github.com"
           git add doc-archive cycle_counter.txt month_counter.txt
           
           # Create commit message with current processing info
@@ -183,7 +184,7 @@ jobs:
             
             # Calculate total months processed
             TOTAL_MONTHS_PROCESSED=$((YEAR_INDEX * 12 + MONTH_INDEX))
-            CYCLE_STATUS="$TOTAL_MONTHS_PROCESSED of 132 months completed"
+            CYCLE_STATUS="$TOTAL_MONTHS_PROCESSED of 120 months completed"
           fi
           
           # Count documents
@@ -276,9 +277,9 @@ jobs:
           #OpenData #Govgazette #LankaDataFoundation
           EOF
           
-          # Commit and push README.md
-          git config user.name "yasandu0505"
-          git config user.email "yasanduyaka2005@gmail.com"
+          # Commit and push README.md with bot user
+          git config user.name "gzt-archiver-bot[bot]"
+          git config user.email "gzt-archiver-bot[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "📊 Update status dashboard - $TIMESTAMP" || echo "No changes to commit"
           git push origin main
