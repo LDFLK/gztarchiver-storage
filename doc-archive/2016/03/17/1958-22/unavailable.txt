@@ -1,0 +1,7 @@
+{
+  "doc_id": "1958-22",
+  "date": "2016-03-17",
+  "description": "Land Acquisition - Andarawewa, Suriyawewa D/S Division, Hambantota District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

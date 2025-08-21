@@ -1,0 +1,7 @@
+{
+  "doc_id": "1957-27",
+  "date": "2016-03-11",
+  "description": "Land Acquisition - Order Nos. 24 and 25 of 2016 of Niloba, Mahaoya D/S Division, Ampara District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

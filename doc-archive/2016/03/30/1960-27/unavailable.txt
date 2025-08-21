@@ -1,0 +1,7 @@
+{
+  "doc_id": "1960-27",
+  "date": "2016-03-30",
+  "description": "Land Acquisition - Welikada, Sri Jayewardenapura Kotte D/S Division, Colombo District - Kahatapitiya and Kananwila, Horana D/S Division, Kalutara District - Redemption Notices for the Allotments of Lands in Makda North, Biyagama D/S Division, Gampaha District and in Aluthgma, Beruwala D/S Division, Kalutara District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

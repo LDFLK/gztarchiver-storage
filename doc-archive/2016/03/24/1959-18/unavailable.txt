@@ -1,0 +1,7 @@
+{
+  "doc_id": "1959-18",
+  "date": "2016-03-24",
+  "description": "Land Acquisition - New Town - Anuradhapura, Nuwaragama Palatha East D/S Division, Anuradhapura District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

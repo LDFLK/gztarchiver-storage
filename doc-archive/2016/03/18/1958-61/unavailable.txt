@@ -1,0 +1,7 @@
+{
+  "doc_id": "1958-61",
+  "date": "2016-03-18",
+  "description": "Land Acquisition - Narahenpita, Thimbirigasyaya D/S Division, Colombo District - Galagedara, Thumpane D/S Division, Kandy District - Gawarawela and Halpe, Ella D/S Division, Badulla District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

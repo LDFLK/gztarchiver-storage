@@ -1,0 +1,7 @@
+{
+  "doc_id": "1960-02",
+  "date": "2016-03-28",
+  "description": "Department of Trade and Investment Policy - Notifying that the Resolution (The Revenue Protection Order No. 04/2015) made under Sec. 10 of the Customs Ordinance was passed by the Parliament on 10.03.2016",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

@@ -1,0 +1,7 @@
+{
+  "doc_id": "1960-28",
+  "date": "2016-03-30",
+  "description": "Land Acquisition - Gonnoruwa, Seenukkugala, Hambantota D/S Division, Hambantota District - Gangodawila, Sri Jayewardenapura Kotte D/S Division, Colombo District - Badulla Road (Left & South), Passara D/S Division, Badulla District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
