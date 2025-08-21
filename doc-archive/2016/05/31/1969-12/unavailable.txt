@@ -1,0 +1,7 @@
+{
+  "doc_id": "1969-12",
+  "date": "2016-05-31",
+  "description": "Land Acquisition - Theliyagonna, Mallawapitiya D/S Division, Kurunegala District - Kethhena, Dodangoda D/S Division, Kalutara District - Obbekon, Madulla D./S Division, Monaragala District - Order No. 88 of 2016 - Kataragama, Kataragama D/S Division, Monaragala District (S Only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
