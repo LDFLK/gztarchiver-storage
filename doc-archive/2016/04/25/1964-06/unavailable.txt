@@ -1,0 +1,7 @@
+{
+  "doc_id": "1964-06",
+  "date": "2016-04-25",
+  "description": "Land Acquisition - Wadurawa, Mottunna and Thalgasmote, Meerigama D/S Division, Gampaha District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

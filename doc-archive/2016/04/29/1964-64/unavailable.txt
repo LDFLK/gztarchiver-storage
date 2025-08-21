@@ -1,0 +1,7 @@
+{
+  "doc_id": "1964-64",
+  "date": "2016-04-29",
+  "description": "Coast Conservation and Coastal Resource Management Department - Notifying that the Report of Environmental Impacts Assessment Study proposed 212 Roomed 2 Star Hotel Project - Thalaramba, Kamburupitiya, Matara be available for inspection for a period of 30 days from 29.04.2016",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

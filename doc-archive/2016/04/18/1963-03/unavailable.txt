@@ -1,0 +1,7 @@
+{
+  "doc_id": "1963-03",
+  "date": "2016-04-18",
+  "description": "Land Acquisition - Galatabediwewa, Wariyapola D/S Division, Kurunegala District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

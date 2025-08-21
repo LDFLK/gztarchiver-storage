@@ -1,0 +1,7 @@
+{
+  "doc_id": "1964-19",
+  "date": "2016-04-27",
+  "description": "Land Acquisition - Peradeniya, Kandy Four Gravets & Gangawata Korale D/S Division, Kandy District - Order No. 70 & 72 of 2016 of Dippitiya, Akurana D/S Division, Kandy District - Paranagama, Pathadumbara D/S Division, Kandy District - Galhinna, Pujapitiya D/S Division, Kandy District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

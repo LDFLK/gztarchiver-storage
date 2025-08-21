@@ -1,0 +1,7 @@
+{
+  "doc_id": "1960-68",
+  "date": "2016-04-01",
+  "description": "Ministry of Irrigation & Water Resources Management - Duties assigned to the State Minister of Irrigation & Water Resources Management",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

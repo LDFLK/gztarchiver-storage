@@ -1,0 +1,7 @@
+{
+  "doc_id": "1961-33",
+  "date": "2016-04-08",
+  "description": "Land Acquisition - Bajjankele, Aluthsammulla and Walakanda west, Kirinda Puhulwella D/S Division, Matara District - Arabokka, Hambantota D/S Division, Hambantota District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
