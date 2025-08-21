@@ -1,0 +1,7 @@
+{
+  "doc_id": "1954-07",
+  "date": "2016-02-15",
+  "description": "Central Province - Empowered the Urban Councils and the Pradeshiya Sabhas in the Central Province to accept By-laws relating to regulating Supervising and Controlling Disaster Management",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

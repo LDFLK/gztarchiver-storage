@@ -1,0 +1,7 @@
+{
+  "doc_id": "1952-35",
+  "date": "2016-02-03",
+  "description": "Ministry of Labour and Trade Union Relations - Award made to the Industrial Dispute between Mr. D. A. Jayathilaka and 03 others of the one part and Sri Lanka State Plantation Corporation of the other part - Rejection of the Award made to the Industrial Dispute between Mr. P. Thilakaratne and Lanka Electricity Board",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

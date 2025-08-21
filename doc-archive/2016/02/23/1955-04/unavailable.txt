@@ -1,0 +1,7 @@
+{
+  "doc_id": "1955-04",
+  "date": "2016-02-23",
+  "description": "Import and Export Control Department - Amendment to the schedule I of the Special Import Licence Regulations published in Gazette Ex. Ord. No. 1813/14 of 05.06.2013, No. 1846/16 of 21.01.2014 and No. 1885/50 of 24.10.2014",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

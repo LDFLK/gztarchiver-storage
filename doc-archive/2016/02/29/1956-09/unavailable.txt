@@ -1,0 +1,7 @@
+{
+  "doc_id": "1956-09",
+  "date": "2016-02-29",
+  "description": "Presidential Secretariat - Appointed Mr. S. S. Hettiarachchi as Additional Secretary to the President w.e.f. 18.02.2016, Mr. K. M. G. S. N. Kaluwewa as a Senior Asst. Secretary to the President w.e.f. 11.01.2016, Mrs. I. T. K. Illangamudali as an Accountant w.e.f. 29.01.2016 & Mr. N. D. Laththuwahandi w.e.f. 22.09.2015, Mr. G. M. B. L. Bandara w.e.f. 28.10.2015, Mr. W. A. R. Wickramasinghe w.e.f. 09.11.2015, Mr. W. A. C. P. Welgama w.e.f. 01.12.2015, Mr. M. M. N. S. Kumara w.e.f. 01.12.2015 & Mr. H. T. W. Chathuranga w.e.f. 07.12.2015 as Asst. Secretaries to the President, Mrs. K. J. Dilrukshi w.e.f. 14.09.2015 & Mr. D. M. P. P. P. Uyanwatte w.e.f. 08.01.2016 as Asst. Directors & Mr. A. M. S. Priyanga w.e.f. 09.12.2015 & Mrs. Y. T. Thushanga w.e.f. 25.01.2016 as Accountants.",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

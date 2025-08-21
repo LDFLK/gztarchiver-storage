@@ -1,0 +1,7 @@
+{
+  "doc_id": "1955-03",
+  "date": "2016-02-23",
+  "description": "Land Acquisition - Moragolla, Bingiriya D/S Division, Bingiriya, Kurunegala",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
