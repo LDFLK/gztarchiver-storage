@@ -1,0 +1,7 @@
+{
+  "doc_id": "1981-36",
+  "date": "2016-08-23",
+  "description": "Land Acquisition - Kotapola, Kotapola D/S Division, Matara District - Gangodawila, Sri Jayawardenapura Kotte D/S Division, Colombo District  - Orugodawatta, Colombo D/S Division, Colombo District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

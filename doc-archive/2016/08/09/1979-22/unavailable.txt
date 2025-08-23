@@ -1,0 +1,7 @@
+{
+  "doc_id": "1979-22",
+  "date": "2016-08-09",
+  "description": "Ministry of Labour and Trade Union Relations - Awards made to the Industrial Disputes between Mr. N. Edirisinghe and Mr. H. G. Turin Thilakaratne of the One Part and Ceylon Steel Corporation Limited of the Other Part and between Mr. J. S. P. Costa and Sri Lanka Ports Authority (S Only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

@@ -1,0 +1,7 @@
+{
+  "doc_id": "1979-31",
+  "date": "2016-08-11",
+  "description": "Land Acquisition - Wewelwala and Pothupitiya, Narammala D/S Division, Kurunegala District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

@@ -1,0 +1,7 @@
+{
+  "doc_id": "1980-39",
+  "date": "2016-08-19",
+  "description": "Land Acquisition - Embalapola, Narammala  D/S Division, Kurunegala District (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

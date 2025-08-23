@@ -1,0 +1,7 @@
+{
+  "doc_id": "1981-85",
+  "date": "2016-08-25",
+  "description": "Land Acquisition - Malandeniya, Wadumulla, Kahapathwala and Daladagamwala, Mawathagama D/S Division, Kurunegala District (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
