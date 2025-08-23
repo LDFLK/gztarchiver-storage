@@ -1,0 +1,7 @@
+{
+  "doc_id": "1975-86",
+  "date": "2016-07-15",
+  "description": "Land Acquisition - Hakurukumbura, Wilwatta, Meerigama D/S Division, Gampaha District (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

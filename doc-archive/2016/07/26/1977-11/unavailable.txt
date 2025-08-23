@@ -1,0 +1,7 @@
+{
+  "doc_id": "1977-11",
+  "date": "2016-07-26",
+  "description": "Land Acquisition - Wathumulla, Minuwangoda D/S Division, Gampaha District - Kadaoluwawa and Heendeniya, Attanagalla D/S Division, Gampah District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

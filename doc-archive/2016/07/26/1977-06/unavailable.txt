@@ -1,0 +1,7 @@
+{
+  "doc_id": "1977-06",
+  "date": "2016-07-26",
+  "description": "Land Acquisition - Dodanwala, Kandy Four Gravets & Gangawata Korele D/S Division, Kandy District - Rilawala and Undurugada, Homagama D/S Division, Colombo District - Arukwatta, Angampitiya, Weragala and Pahala Bope, Padukka D/S Division, Colombo District - Redemption Notice for the Land in Thalalla North, Devimuwara D/S Division, Matara District (S Only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

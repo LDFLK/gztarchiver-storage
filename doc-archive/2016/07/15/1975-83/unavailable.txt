@@ -1,0 +1,7 @@
+{
+  "doc_id": "1975-83",
+  "date": "2016-07-15",
+  "description": "Land Acquisition - Order Nos. 135 and 141 of Boyawalana, Nebodawathura and Panadanda, Galdeniya, Alawwa D/S Division, Kurunegala District (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

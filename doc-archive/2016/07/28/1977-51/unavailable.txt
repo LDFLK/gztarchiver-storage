@@ -1,0 +1,7 @@
+{
+  "doc_id": "1977-51",
+  "date": "2016-07-28",
+  "description": "Land Acquisition - Riloluwa and Epaladeniya, Narammala D/S Division, Kurunegala District - Wehera, Kurunegala D/S Division, Kurunegala District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

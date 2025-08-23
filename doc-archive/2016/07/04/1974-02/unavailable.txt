@@ -1,0 +1,7 @@
+{
+  "doc_id": "1974-02",
+  "date": "2016-07-04",
+  "description": "Land Acquisition - Wannarpannai North-West, Nallur D/S Division, Jaffna District - Makawita, Matara D/S Division, Matara District - Wewakele, Walapane D/S Division, Nuwara Eliya District - Pitigala, Niyagama D/S Division, Galle District - Amendment to Order No. 47 of 2013 published in Gaz. Ex. Ord. No. 1798/18 of 19.02.2013",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
