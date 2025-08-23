@@ -1,0 +1,7 @@
+{
+  "doc_id": "1973-22",
+  "date": "2016-06-29",
+  "description": "Reserved for the Department of Fiscal Policy",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

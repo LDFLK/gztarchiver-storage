@@ -1,0 +1,7 @@
+{
+  "doc_id": "1973-56",
+  "date": "2016-06-29",
+  "description": "University of Vocational Technology - Amendment to the Sinhala Notice published in Gaz  Ex. No. 1970/05 on 06.06.2016",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

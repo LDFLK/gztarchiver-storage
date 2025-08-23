@@ -1,0 +1,7 @@
+{
+  "doc_id": "1972-38",
+  "date": "2016-06-23",
+  "description": "Land Acquisition - Getamanna west, Nayakawatta, Beliatta D/S Division, Hambantota District - Kumburegedara, Harispattuwa D/S Division, Kandy District - Dimbulamure, Wellawaya, Yalabowa, Wellawaya D/S Division, Monaragala District - Peththewa, Kandamalawa, Kimbulpetiyawa, Gomarankadawala D/S Division, Trincomalee District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

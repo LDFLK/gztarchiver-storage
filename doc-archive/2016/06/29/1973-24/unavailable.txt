@@ -1,0 +1,7 @@
+{
+  "doc_id": "1973-24",
+  "date": "2016-06-29",
+  "description": "Ministry of Ports & Shipping - The Merchant Shipping (Standards of Training, Certification and Watch Keeping for Seafarers) Regulations, 2016 and the Merchant Shipping (Minimum Safe Manning) Regulations, 2016",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

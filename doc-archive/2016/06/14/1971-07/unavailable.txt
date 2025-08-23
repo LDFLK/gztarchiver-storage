@@ -1,0 +1,7 @@
+{
+  "doc_id": "1971-07",
+  "date": "2016-06-14",
+  "description": "Land Acquisition - Order Nos. 95 and 96 pf 2016 of Hanwella, Badulla D/S Division, Badulla District - Kirulapona, Thimbirigasyaya D/S Division, Colombo District - Piliyandala, Kesbewa D/S Division, Colombo District - Kadigamuwa, Galigamuwa D/S Division, Kegalle District (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

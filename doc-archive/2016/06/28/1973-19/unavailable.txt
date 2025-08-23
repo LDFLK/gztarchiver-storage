@@ -1,0 +1,7 @@
+{
+  "doc_id": "1973-19",
+  "date": "2016-06-28",
+  "description": "Ministry of Labour and Trade Union Relations - Definition made by the Arbitrator for the award made to the Industrial Dispute between Mr. Lesly Arambawela and Sri Lanka Mahaweli Authority Published in Gaz. Ex. Ord. No. 1762/34 of 14.06.2012 (S Only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

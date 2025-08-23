@@ -1,0 +1,7 @@
+{
+  "doc_id": "1973-05",
+  "date": "2016-06-27",
+  "description": "Land Acquisition - Ganemulla, Yagoda and Katwalamulla, Kossinna, Ganemulla, Gampaha D/S Division, Gampaha District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

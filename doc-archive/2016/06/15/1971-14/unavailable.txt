@@ -1,0 +1,7 @@
+{
+  "doc_id": "1971-14",
+  "date": "2016-06-15",
+  "description": "Land Acquisition - Kohondapola and Parabevila, Kohondapola and Medakalugamuwa, Polgahawela D/S Division, Kurunegala District - Kudagama, Bomunaulla, Naththambura, Hewadiwela and Kadawattiya, Rambukkana D/S Division, Kegalle District (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

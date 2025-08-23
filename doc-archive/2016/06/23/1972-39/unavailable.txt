@@ -1,0 +1,7 @@
+{
+  "doc_id": "1972-39",
+  "date": "2016-06-23",
+  "description": "Land Acquisition -Kottawa and Makumbura, Maharagama D/S Division, Colombo District - Kahawatta, Galwewa and Karambaketiya, Beliatta D/S Division, Hambontota District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

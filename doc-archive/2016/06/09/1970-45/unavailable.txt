@@ -1,0 +1,7 @@
+{
+  "doc_id": "1970-45",
+  "date": "2016-06-09",
+  "description": "Land Acquisition - Kapuduwa, Kapuduwa East, Naimbala, Thihagoda D/S Division, Matara District (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
