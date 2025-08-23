@@ -1,0 +1,7 @@
+{
+  "doc_id": "1986-39",
+  "date": "2016-09-29",
+  "description": "Land Acquisition - Wagollakada, Horowpothana D/S Division, Anuradhapura District (S Only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

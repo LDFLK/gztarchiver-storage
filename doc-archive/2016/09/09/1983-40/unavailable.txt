@@ -1,0 +1,7 @@
+{
+  "doc_id": "1983-40",
+  "date": "2016-09-09",
+  "description": "Land Acquisition - Netalaporuwa, Angunakolapelessa D/S Division, Hambantota District (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

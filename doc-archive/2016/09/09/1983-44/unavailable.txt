@@ -1,0 +1,7 @@
+{
+  "doc_id": "1983-44",
+  "date": "2016-09-09",
+  "description": "Land Acquisition - Ahugoda, Polgahawela D/S Division, Kurunegala District - Panagamuwa, Mahawatta, Rajapitiya, Weerambugedara D/S Division, Kurunegala District (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

@@ -1,0 +1,7 @@
+{
+  "doc_id": "1986-41",
+  "date": "2016-09-29",
+  "description": "Ministry of Lands - Appointed Mr. R.M.S.B. Rathnayake and Mr. R.M.P.B. Rajapakshe as acquiring Officers for acquiring duties of the Southern Expressway Project implemented under the R.D.A.",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

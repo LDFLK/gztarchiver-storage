@@ -1,0 +1,7 @@
+{
+  "doc_id": "1983-23",
+  "date": "2016-09-08",
+  "description": "Land Acquisition - Parana Halpe, Gurullagama, Divulapitiya D/S Division, Gampaha District - Parakandeniya, Gampaha D/S Division, Gampaha District (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

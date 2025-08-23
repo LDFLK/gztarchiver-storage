@@ -1,0 +1,7 @@
+{
+  "doc_id": "1985-03",
+  "date": "2016-09-19",
+  "description": "Land Acquisition - Rajagiriya, Sri Jayawardenpura, Kotte D/S Division, Colombo District - Walpola, Yakkalamulla D/S Division, Galle District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
