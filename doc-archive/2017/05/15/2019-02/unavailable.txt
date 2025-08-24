@@ -1,0 +1,7 @@
+{
+  "doc_id": "2019-02",
+  "date": "2017-05-15",
+  "description": "Land Acquisition - Kotikawatta, Kolonnawa D/S Division, Colombo District - Udapola, Deraniyagala D/S Division, Kegalle District - Dambara and Handunpalpola, Horana D/S Division, Kalutara District - Amendment Ransegoda, Mulatiyana D/S Division and No. MR/MLT/2014/150 date 08.03.2017",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

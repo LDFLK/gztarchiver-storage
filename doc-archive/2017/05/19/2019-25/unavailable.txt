@@ -1,0 +1,7 @@
+{
+  "doc_id": "2019-25",
+  "date": "2017-05-19",
+  "description": "Land Acquisition - Kandehena and Palleinguruwatta, Mawathagama D/S Division, Kurunegala District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
