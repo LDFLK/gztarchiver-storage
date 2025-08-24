@@ -1,0 +1,7 @@
+{
+  "doc_id": "2009-22",
+  "date": "2017-03-09",
+  "description": "Land Acquisition - Malambe Village, Kaduwela D/S Division, Colombo District  - Ambadeniya Village, Mawanella D/S Division, Kegalle District - Villpita Village, Aturaliya D/S Division, Matara District (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

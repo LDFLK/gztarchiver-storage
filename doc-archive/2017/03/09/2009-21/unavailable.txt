@@ -1,0 +1,7 @@
+{
+  "doc_id": "2009-21",
+  "date": "2017-03-09",
+  "description": "Land Acquisition - Ruwanpura Village, Harispattuwa D/S Division, Kandy District - Hataraliyadda Village, Hataraliyadda D/S Division, Kandy District - Wegalla village, Bulathkohupitiya D/S Division, Kegalle District (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

@@ -1,0 +1,7 @@
+{
+  "doc_id": "2010-26",
+  "date": "2017-03-16",
+  "description": "Land Acquisition - Ilwana, Kegalle D/S Division, Kegalle District. Bulugohothenna, Akurana D/S Division, Kandy District - Miniranketiya, Laggala-Pallegama D/S Division, Matale District and Gangoda, Kurunegala D/S Division, Kurunegala District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

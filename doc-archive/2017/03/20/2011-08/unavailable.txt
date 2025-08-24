@@ -1,0 +1,7 @@
+{
+  "doc_id": "2011-08",
+  "date": "2017-03-20",
+  "description": "Land Acquisition - Amendment to the Ex. Ord. Gaz. No. 1887/41 of 07.11.2014 (Walapane D/S DIvision) - Amendment to the Ex. Ord. Gaz. No. 1882/10 of 30.09.2014 (Walapane D/S Division)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

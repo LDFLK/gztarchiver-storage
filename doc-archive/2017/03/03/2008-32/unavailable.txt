@@ -1,0 +1,7 @@
+{
+  "doc_id": "2008-32",
+  "date": "2017-03-03",
+  "description": "Ministry of Labour and Trade Union Relations - Award made to the Industrial Dispute between Mrs. Pathma Weragoda Arachchi and Lake House Company Ltd. (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
