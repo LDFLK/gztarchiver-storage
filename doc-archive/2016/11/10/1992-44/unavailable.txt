@@ -1,0 +1,7 @@
+{
+  "doc_id": "1992-44",
+  "date": "2016-11-10",
+  "description": "Reserved by the Import and Export Control Department",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

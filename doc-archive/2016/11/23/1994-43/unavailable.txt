@@ -1,0 +1,7 @@
+{
+  "doc_id": "1994-43",
+  "date": "2016-11-23",
+  "description": "Land Acquisition - Udairigama, Yatinuwara D/S Division, Kandy District (S only) - Amendment to the Order No. 63 of 1995 published in Gaz. Ex. Ord. No. 879/15 of 1995 and Redemption Notice published in Gaz. Ex. Ord. No. 1980/27 of 16.08.2016",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

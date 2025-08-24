@@ -1,0 +1,7 @@
+{
+  "doc_id": "1991-48",
+  "date": "2016-11-04",
+  "description": "Land Acquisition - Lakmanagama, Dehiowita D/S Division, Kegalle District - Kiriporuwa, Bulathkohipitiya D/S Division, Kegalle District - Unawatuna, Habaraduwa D/S Division, Galle District - Sarikkamulla, Panadura D/S Division, Kalutara District (S Only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
