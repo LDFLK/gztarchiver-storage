@@ -1,0 +1,7 @@
+{
+  "doc_id": "1989-04",
+  "date": "2016-10-17",
+  "description": "Ministry of Labour & Trade Union Relations - Decision and Award made to the Industrial Dispute between A.P.H.G.C. Jayaweera (Deceased) Award made to the Industrial Dispute Between Jathika Sevaka Sangamaya (For Mr. K.W.W.P. Fernando and Lanka Electricity Board (S Only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

@@ -1,0 +1,7 @@
+{
+  "doc_id": "1987-59",
+  "date": "2016-10-07",
+  "description": "Land Title Settlement Department - Eriyagama, Gonungama, Hangiligama, Mahabellankadawala, Malwanegama, Paindikulama, Palugollegama, Thammennawa, Tambuttegama D/S Division, Anuradhapura District - Cad. Map No. 110086",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

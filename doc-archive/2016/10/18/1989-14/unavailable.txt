@@ -1,0 +1,7 @@
+{
+  "doc_id": "1989-14",
+  "date": "2016-10-18",
+  "description": "Ministry of Labour and Trade Union Relations - Award made to the Industrial Dispute between Mr. D. C. Jayasinghe and Ceylon Petroleum Storage Terminals Limited (S Only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
