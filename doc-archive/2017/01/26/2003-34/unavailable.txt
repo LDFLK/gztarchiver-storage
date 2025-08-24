@@ -1,0 +1,7 @@
+{
+  "doc_id": "2003-34",
+  "date": "2017-01-26",
+  "description": "Land Acquisition - Polgahawela, Polgahawela D/S Division, Kurunegala District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

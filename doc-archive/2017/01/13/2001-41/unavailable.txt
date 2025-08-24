@@ -1,0 +1,7 @@
+{
+  "doc_id": "2001-41",
+  "date": "2017-01-13",
+  "description": "Land Acquisition - Panagamuwa, Palapathwala, Kalundagedara, Nillakkegama & Algama, Weerambugedara D/S Division, Kurnegala District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

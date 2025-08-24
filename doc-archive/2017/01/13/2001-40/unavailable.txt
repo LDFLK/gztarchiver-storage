@@ -1,0 +1,7 @@
+{
+  "doc_id": "2001-40",
+  "date": "2017-01-13",
+  "description": "Land Acquisition - Bambaragahapelessa & Godawita, Weerambugedara D/S Division, Kurnegala District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

@@ -1,0 +1,7 @@
+{
+  "doc_id": "2002-36",
+  "date": "2017-01-19",
+  "description": "Land Acquisition - Moraliya, Ruwanwella D/S Division, Kegalle District - 15B Aththanagoda, Mawanella D/S Division, Kegalle District - Godagama, Panagoda, Homagama D/S Division, Colombo District - Nalagasdeniya, Hikkaduwa D/S Division, Galle District (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
