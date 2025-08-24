@@ -1,0 +1,7 @@
+{
+  "doc_id": "1996-42",
+  "date": "2016-12-08",
+  "description": "Colombo Municipal Council - Notifying that the Budget Draft of Dambulla Municipal Council for the Year 2017 will be open for Public inspection from 23.12.2016",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

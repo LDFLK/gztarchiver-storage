@@ -1,0 +1,7 @@
+{
+  "doc_id": "1999-34",
+  "date": "2016-12-29",
+  "description": "Land Acquisition - Thalalla, Devinuwara D/S Division, Matara District - Wealugampola, Dompe D/S Division, Gampaha District - Amendment to the Redemption Notice published in Gaz. Ex. Ord. No. 1190/11 of 27.06.2001 (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

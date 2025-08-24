@@ -1,0 +1,7 @@
+{
+  "doc_id": "1997-02",
+  "date": "2016-12-14",
+  "description": "Land Acquisition - Pahala Gettuwana Division No. 07 and Pahala Gettuwana, Kurunegala D/S Division, Kurunegala District (S & T only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

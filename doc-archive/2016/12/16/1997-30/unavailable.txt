@@ -1,0 +1,7 @@
+{
+  "doc_id": "1997-30",
+  "date": "2016-12-16",
+  "description": "Commission of Elections - Notification under the Registration of Electors Act, No. 44 of 1980 that Re-divided of Electoral District No. 11 Vanni-Vavuniya & Mullaitive divisions and No. 17 Anuradhapura Medawachchiya Division",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
