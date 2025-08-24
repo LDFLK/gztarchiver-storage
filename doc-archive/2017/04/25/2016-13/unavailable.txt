@@ -1,0 +1,7 @@
+{
+  "doc_id": "2016-13",
+  "date": "2017-04-25",
+  "description": "Presidential Secretariat - Proclamation to Summoned Parliament on 28th April, 2017 in Order to Keep the Parliament informed the Order of declaration of essential Services",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

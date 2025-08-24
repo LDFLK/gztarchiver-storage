@@ -1,0 +1,7 @@
+{
+  "doc_id": "2015-34",
+  "date": "2017-04-19",
+  "description": "Land Acquisition - Kiriporuwa, Bulathkohupitiya, Kadigamuwa, Galigamuwa D/S Division, Kegalle District - Maliduwa, Weligamkorale North, Matara District and Pugalla, Narangalla, Kuliyapitiya west D/S Division, Kurunegala District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

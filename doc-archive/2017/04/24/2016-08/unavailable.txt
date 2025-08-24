@@ -1,0 +1,7 @@
+{
+  "doc_id": "2016-08",
+  "date": "2017-04-24",
+  "description": "Land Acquisition - Maputugala and Batugampola Ingiriya D/S Division, Kalutara District (Land Lots 1-51) Correction Notice, of the Gaz. Ex. Ord. No. 2003/31 dated 26.01.2017 and Insert below mentioned Lands Lots 26 - 26A Name of the Land Baduwatta (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
