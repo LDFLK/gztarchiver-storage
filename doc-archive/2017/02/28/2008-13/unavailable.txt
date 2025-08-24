@@ -1,0 +1,7 @@
+{
+  "doc_id": "2008-13",
+  "date": "2017-02-28",
+  "description": "Land Acquisition - \"Kent watta\" Galahitiyagama, Pallepola D/S Division, Matale District - \"Mahena'' Walasgala, Dickwella D/S Division, Matara District - Amendment to the Ex. Ord. No. 1999/34 of 29.12.2016 in Devenuwara D/S Division Sec. 38(A)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

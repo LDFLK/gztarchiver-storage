@@ -1,0 +1,7 @@
+{
+  "doc_id": "2007-35",
+  "date": "2017-02-22",
+  "description": "Ministry of Labour & Trade Union Relations - Award made to Mr. H. M. N. Gunathitaka for the Industrial Dispute with the Peoples Band - Head Office",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

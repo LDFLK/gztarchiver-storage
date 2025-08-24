@@ -1,0 +1,7 @@
+{
+  "doc_id": "2005-16",
+  "date": "2017-02-08",
+  "description": "Land Acquisition - Nugepola, Ratnhapura D/S Division, Rathnapura District - Thuduwamulla, Moratuwa D/S Division, Colombo District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

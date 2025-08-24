@@ -1,0 +1,7 @@
+{
+  "doc_id": "2004-52",
+  "date": "2017-02-02",
+  "description": "Land Acquisition - Order to acquire the lands in Tammenna Adaviya, Puttalam D/S Division, Puttalam District - Yakahaluwa, Homagama D/S Division, Colombo District - Pelendagama, Rathnapura D/S Division, Rathnapura District - Malandeniya, Deraniyagala D/S Division, Kegalle District - Dambulla Town, Dambulla D/S Division, Matale District (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

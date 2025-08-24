@@ -1,0 +1,7 @@
+{
+  "doc_id": "2008-12",
+  "date": "2017-02-28",
+  "description": "Land Acquisition - Udugama, Kurudugahalanda, Meerigama,  Gampaha District - Elamanayaya, Okkampitiya, Buttala , Monaragala District - Walgamawatta, Meriswatta, Padiyathalawa, Ampara District - Sapumaltenna, Ella, 68_B, Kubukwela, Badulla",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

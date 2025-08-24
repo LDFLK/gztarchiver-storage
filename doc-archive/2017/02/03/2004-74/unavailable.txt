@@ -1,0 +1,7 @@
+{
+  "doc_id": "2004-74",
+  "date": "2017-02-03",
+  "description": "Land Acquisition - Order to acquire the lands in Udawalpola, Madamegama, Gettuwana, Thelyagonna & Wehera, Kurunegala D/S Division, Kurunegala District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

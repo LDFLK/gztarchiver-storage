@@ -1,0 +1,7 @@
+{
+  "doc_id": "2006-33",
+  "date": "2017-02-15",
+  "description": "Land Acquisition - Madamegama, Kurunegala D/S Division, Kurunegala District - 2017/49 Bambaranda South, Dikwella D/S Division, Matara District - Meemure, Ududumbara D/S Division, Kandy District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
