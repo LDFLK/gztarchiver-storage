@@ -1,0 +1,7 @@
+{
+  "doc_id": "2030-06",
+  "date": "2017-07-31",
+  "description": "Land Acquisition - Ranapana, Galugamuwa D/S Division, Kegalle District - Beliaththawila and Malagala, Padukka D/S Division, Colombo District - Aluthgama, Pathadumbara D/S Division, Kandy District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

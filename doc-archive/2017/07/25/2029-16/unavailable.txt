@@ -1,0 +1,7 @@
+{
+  "doc_id": "2029-16",
+  "date": "2017-07-25",
+  "description": "Ministry of Labour, Trade Union Relations and Sabaragamuwa Development - The award made for the Industrial Dispute between D. M. J. Kumarasiri, Y. W. Piyadasa, S. Waniganeththi and Ceylon Electricity Board, Colombo 02",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

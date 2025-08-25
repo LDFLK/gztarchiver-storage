@@ -1,0 +1,7 @@
+{
+  "doc_id": "2026-38",
+  "date": "2017-07-07",
+  "description": "Land Acquisition - Thalangama North, Kaduwela D/S Division, Colombo District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

@@ -1,0 +1,7 @@
+{
+  "doc_id": "2029-26",
+  "date": "2017-07-26",
+  "description": "Land Acquisition - Redemption of Land Lot 'B' of Pamburana, Matara D/S Division, Matara District - Redemption of Land Lot 1 & 2 of Punnaikuda Arraur Pattu D/S Division, Batticaloa District and Eec.",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
