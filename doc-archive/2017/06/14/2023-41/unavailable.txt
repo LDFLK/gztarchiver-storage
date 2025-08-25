@@ -1,0 +1,7 @@
+{
+  "doc_id": "2023-41",
+  "date": "2017-06-14",
+  "description": "Ministry of Labour & Trade Union Relations - Appointed Mr. K. A. T. Fernando to be the arbitrator for the Industrial Disputes between Mr. P. Ilankoon and the Sri Lanka Mahaweli Authority (S & E only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

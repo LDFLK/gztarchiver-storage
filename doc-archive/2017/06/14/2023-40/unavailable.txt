@@ -1,0 +1,7 @@
+{
+  "doc_id": "2023-40",
+  "date": "2017-06-14",
+  "description": "Ministry of Labour & Trade Union Relations - The award made for Industrial Dispute between Mr. D. M. Wijerathna & 31 others and Sri Lanka Transport Board - The award made for the Industrial Dispute between Jathika Kamkarusangamaya and Dyin Lanka Apparel (Pvt.) Ltd. (S  only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

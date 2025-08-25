@@ -1,0 +1,7 @@
+{
+  "doc_id": "2022-23",
+  "date": "2017-06-07",
+  "description": "Land Acquisition - Order to acquire the Lands in Millewa & Kidelpitiya, Horana D/S Division, Kalutara District - Paragammana, Kegalle D/S Division, Kegalle District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

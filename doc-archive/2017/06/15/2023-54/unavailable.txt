@@ -1,0 +1,7 @@
+{
+  "doc_id": "2023-54",
+  "date": "2017-06-15",
+  "description": "Land Acquisition - Kumpulanka, Ibbagamuwa D/S Division, Kurunegla District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

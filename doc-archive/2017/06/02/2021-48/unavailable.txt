@@ -1,0 +1,7 @@
+{
+  "doc_id": "2021-48",
+  "date": "2017-06-02",
+  "description": "Ministry of Labour & Trade Union Relations - Award made to the Industrial Disputes between Ananda Hewagama & Southern Province Road Development Authority, S. Vithanachchi  & 47 Others vs Sri Lanka Ports Authority , M. N. Fernando & Lanka Electricity Pvt. Campany",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
