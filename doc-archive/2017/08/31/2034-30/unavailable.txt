@@ -1,0 +1,7 @@
+{
+  "doc_id": "2034-30",
+  "date": "2017-08-31",
+  "description": "Ministry of Labour Trade Union Relations and Sabaragamuwa Development -  The Industrial Dispute between, Ceylon Lether Product Plc. and other part Eksath Welada Seva Sangamaya and Jathika Sevaka Sangamaya No 416, Pitakotte",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
