@@ -1,0 +1,7 @@
+{
+  "doc_id": "2045-36",
+  "date": "2017-11-16",
+  "description": "Ministry of Labour, Trade Union Relations - Award made to the Industrial Disputes between G. D. Gnanasaundaree and Agalawatta Plantation PLC (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

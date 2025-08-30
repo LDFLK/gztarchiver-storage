@@ -1,0 +1,7 @@
+{
+  "doc_id": "2045-34",
+  "date": "2017-11-15",
+  "description": "Ministry of Provincial Council & Local Government  - Correction notice to the Gaz. Ex. No. 2043/56 dated of 02.11.2017 (Amendment of Local Authorities Establishment Orders)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

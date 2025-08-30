@@ -1,0 +1,7 @@
+{
+  "doc_id": "2047-02",
+  "date": "2017-11-27",
+  "description": "Department of Fiscal Policy - Order under Sri Lanka Export Development Act, declare that a cess to the charged, w.e.f. 28.11.2017 for customs duty purposes",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
