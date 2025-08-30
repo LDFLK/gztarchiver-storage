@@ -1,0 +1,7 @@
+{
+  "doc_id": "2039-02",
+  "date": "2017-10-02",
+  "description": "Department of Trade & Investment Policy - Order to impose Special Commodity Levy on Dried Fish, Yogurt, Butter, etc., for a Six months Period",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

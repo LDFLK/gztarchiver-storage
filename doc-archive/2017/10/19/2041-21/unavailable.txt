@@ -1,0 +1,7 @@
+{
+  "doc_id": "2041-21",
+  "date": "2017-10-19",
+  "description": "Ministry of Labour, Trade Union Relations - Award made for the Industrial Dispute between S. H. Hemapala with 16 others and the Sri Lanka Electricity Board (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

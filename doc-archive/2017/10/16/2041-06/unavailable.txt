@@ -1,0 +1,7 @@
+{
+  "doc_id": "2041-06",
+  "date": "2017-10-16",
+  "description": "Land Acquisition - Mullegama, Nawagatthegama D/S Division, Puttalam District and three other acquirements in the Districts of Gampaha & Kandy (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

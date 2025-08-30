@@ -1,0 +1,7 @@
+{
+  "doc_id": "2039-08",
+  "date": "2017-10-03",
+  "description": "Land Acquisition - Kahatapitiya, Horana D/S Division, Kaluthara District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
