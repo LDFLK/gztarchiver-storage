@@ -1,0 +1,7 @@
+{
+  "doc_id": "2038-28",
+  "date": "2017-09-28",
+  "description": "Land Acquisition - -Redemption Notice of the Land in Batawala  Village, Homagama D/S Division, Colombo District - Amendment to the Gaz.Ex.No. 2026/37 of 07.07.2017 as Wagollathenne Kumbura - Medapitiya Doluwa D/S Division, Kandy District - Kotapola, Morawakkorale-west D/S Division, Matara District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
