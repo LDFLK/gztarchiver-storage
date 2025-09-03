@@ -29,6 +29,37 @@ jobs:
       - name: Create config.yaml from secret
         run: |
           echo "${{ secrets.GZTARCHIVER_CONFIG }}" > config.yaml
+
+      - name: Fetch new API token and update config
+        env:
+          CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
+          CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
+        run: |
+          # Fetch new token using Basic Auth
+          NEW_TOKEN=$(curl -k -s -X POST https://7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.choreosts.dev/oauth2/token \
+            -d "grant_type=client_credentials" \
+            -H "Authorization: Basic $(echo -n $CONSUMER_KEY:$CONSUMER_SECRET | base64)" \
+          | jq -r .access_token)
+
+          echo "✅ New API token fetched"
+
+          # Update config.yaml: replace divert_deepseek_api_key
+          python - <<EOF
+          import yaml
+
+          # Load existing config
+          with open("config.yaml", "r") as f:
+              cfg = yaml.safe_load(f)
+
+          # Replace the token
+          cfg['credentials']['divert_deepseek_api_key'] = "$NEW_TOKEN"
+
+          # Write updated config
+          with open("config.yaml", "w") as f:
+              yaml.safe_dump(cfg, f, default_flow_style=False)
+
+          print("✅ Config updated with new API token")
+          EOF          
        
       - name: Determine next year-month to process
         env:
