@@ -59,7 +59,7 @@ jobs:
               yaml.safe_dump(cfg, f, default_flow_style=False)
 
           print("✅ Config updated with new API token")
-          EOF          
+          EOF
        
       - name: Determine next year-month to process
         env:
