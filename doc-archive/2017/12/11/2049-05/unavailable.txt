@@ -1,0 +1,7 @@
+{
+  "doc_id": "2049-05",
+  "date": "2017-12-11",
+  "description": "Land Acquisition - Atthidiya South, Rathmalana D/S Division, Colombo District and 3 other notices",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

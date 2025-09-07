@@ -1,0 +1,7 @@
+{
+  "doc_id": "2049-30",
+  "date": "2017-12-14",
+  "description": "Ministry of Sports (Sri Lanka Anti-Doping Agency) - The Anti-Doping (Prohibited List) Regulations No.03 of 2017, come into effect with 01.01.2012 -  This Gazette number has been cancelled.",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

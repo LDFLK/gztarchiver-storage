@@ -1,0 +1,7 @@
+{
+  "doc_id": "2049-58",
+  "date": "2017-12-15",
+  "description": "Dept. of Trade & Investment Policy - Notify Import Duties under the Customs Ordinance, Revenue Protection Order, No. 04/2017",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
