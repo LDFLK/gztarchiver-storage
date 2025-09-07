@@ -1,0 +1,7 @@
+{
+  "doc_id": "2054-27",
+  "date": "2018-01-16",
+  "description": "Ministry of Labour and Trade Union Relations - Awards made to the Industrial Disputes between, Anthar Samagam Sevaka Sangamaya Vs. Ceylon Grain Elevators Ltd., etc. and S. M. Chandrasiri vs. Sri Lanka Engineering Corporation",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

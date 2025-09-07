@@ -1,0 +1,7 @@
+{
+  "doc_id": "2054-12",
+  "date": "2018-01-15",
+  "description": "Land Acquisition - Maggona, Beruwala, Kalutara D/S Division, and 3 other notices",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

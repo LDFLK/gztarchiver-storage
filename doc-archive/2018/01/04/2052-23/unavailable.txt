@@ -1,0 +1,7 @@
+{
+  "doc_id": "2052-23",
+  "date": "2018-01-04",
+  "description": "Ministry of Labour - Industrial Dispute between Mr. A. P. K. Weerarathna and National Water Supply & Drainage Board (rejecting the award decision given by the arbitrator)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

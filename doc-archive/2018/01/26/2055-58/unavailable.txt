@@ -1,0 +1,7 @@
+{
+  "doc_id": "2055-58",
+  "date": "2018-01-26",
+  "description": "Land Acquisition - Pahala Vatideariya, Kegalle D/S Division, Kegalle District and 3 other notices in Galle D/S Division",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
