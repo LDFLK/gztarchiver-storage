@@ -1,0 +1,7 @@
+{
+  "doc_id": "2076-20",
+  "date": "2018-06-20",
+  "description": "Land Acquisition - Uda Aparekka, Devinuwara D/S Division, Matara District and Bajjankele, Kirinda-Puhulwella D/S Division, Matara District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
