@@ -1,0 +1,7 @@
+{
+  "doc_id": "2059-20",
+  "date": "2018-02-20",
+  "description": "Land Acquisition - Palatuwa, Malimbada D/S Division, Matara District -  Kubiyangaha Ela, Naula D/S Division, Matale District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

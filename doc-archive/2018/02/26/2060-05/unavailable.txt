@@ -1,0 +1,7 @@
+{
+  "doc_id": "2060-05",
+  "date": "2018-02-26",
+  "description": "Land Acquisition - Akarella, Opanayaka D/S Division, Rathnapura District, Athala, Galigamuwa D/S Division, Kegalle District and correction Notice of Anugunakolapellessa  D/S Division, Gaz. Ex. No. 1974/28",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

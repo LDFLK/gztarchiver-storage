@@ -1,0 +1,7 @@
+{
+  "doc_id": "2060-02",
+  "date": "2018-02-26",
+  "description": "Land Acquisition - Redemption Notice of Land in Gangodawila, Maharagama D/S Division, Colombo District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
