@@ -1,0 +1,7 @@
+{
+  "doc_id": "2063-10",
+  "date": "2018-03-19",
+  "description": "Land Acquisition - Madawalamulla South, Galle Four Gravets D/S Division, Galle District - Makuluwa, Galle Four Gravets D/S Division, Galle District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

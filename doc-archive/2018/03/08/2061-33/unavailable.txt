@@ -1,0 +1,7 @@
+{
+  "doc_id": "2061-33",
+  "date": "2018-03-08",
+  "description": "Land Acquisition - Lands in Benthota D/S Division, Galle District, Akurana D/S Division, Kandy District, Wennappuwa D/S Division, Puttalam District and a land redemption in Pitawala, Ambagamuwa Korale D/S Division,  Nuwaraeliya District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
