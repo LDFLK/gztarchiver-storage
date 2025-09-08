@@ -1,0 +1,7 @@
+{
+  "doc_id": "2078-53",
+  "date": "2018-07-06",
+  "description": "Ministry of Labour and Trade Union Relations - Notify the Rejection of Decision given by the arbitrator to the Indusrial Dispute between Samitha Disanayaka & 11 other employees vs. Sri Lanka National Film Corporation (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
