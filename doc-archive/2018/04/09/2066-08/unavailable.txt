@@ -1,0 +1,7 @@
+{
+  "doc_id": "2066-08",
+  "date": "2018-04-09",
+  "description": "Land Acquisition - Amendment Notice of the Ex. Gaz. No. 2055/55 dated 26.01.2018 Page No. 2A, Hapugoda Kalawana D/S Division, Rathnapura District (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

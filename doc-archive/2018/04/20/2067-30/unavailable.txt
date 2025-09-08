@@ -1,0 +1,7 @@
+{
+  "doc_id": "2067-30",
+  "date": "2018-04-20",
+  "description": "Land Acquisition - Wewathenna, Walapane D/S Division, Nuwara Eliya District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

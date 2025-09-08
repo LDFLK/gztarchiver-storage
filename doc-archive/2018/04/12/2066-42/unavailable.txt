@@ -1,0 +1,7 @@
+{
+  "doc_id": "2066-42",
+  "date": "2018-04-12",
+  "description": "Commission of Elections - Elected - Mr. Ekanayake Mudiyanselage Dhammanthota Gedara Kumarasinghe as a member of the Laggala - Pallegama P. S.",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

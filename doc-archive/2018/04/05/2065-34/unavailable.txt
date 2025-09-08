@@ -1,0 +1,7 @@
+{
+  "doc_id": "2065-34",
+  "date": "2018-04-05",
+  "description": "Ministry of Labour, Trade Union Relations - Award made to the Industrial Dispute between D. S. M. Wijesinghe and Commercial Credit and Finance PLC",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
