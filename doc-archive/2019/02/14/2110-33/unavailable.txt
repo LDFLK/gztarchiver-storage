@@ -1,0 +1,7 @@
+{
+  "doc_id": "2110-33",
+  "date": "2019-02-14",
+  "description": "Department of Government Printing - Correction Notice for the Gazette Ex.Ord. No. 2106/11 of 16.01.2019",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
