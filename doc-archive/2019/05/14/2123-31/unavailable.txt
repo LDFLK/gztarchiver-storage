@@ -1,0 +1,7 @@
+{
+  "doc_id": "2123-31",
+  "date": "2019-05-14",
+  "description": "Ministry of Labour & Trade Union Relations - Notice no Regection  the given by arbitrator to the Industrial Disputes between A.G.J. Pushpakumara Vs. Ceylon Petroleum Corporation",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

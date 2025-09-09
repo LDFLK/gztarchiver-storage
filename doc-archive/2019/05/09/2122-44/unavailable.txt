@@ -1,0 +1,7 @@
+{
+  "doc_id": "2122-44",
+  "date": "2019-05-09",
+  "description": "Ministry of Labour & Trade Union Relations - Award made to the Industrial Disputes : I. S. S. Perera Vs. CWE, P. P. Vandhabona Vs. Ceylon Electricity Board and D. D. Thrimavitharana vs. Ceylon Fishery Harbours Corporation",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

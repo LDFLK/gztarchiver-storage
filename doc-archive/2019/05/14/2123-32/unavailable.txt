@@ -1,0 +1,7 @@
+{
+  "doc_id": "2123-32",
+  "date": "2019-05-14",
+  "description": "Ministry of Labour & Trade Union Relations - Award made to the Industrial Disputes between Inter Company Employees Union and Lanka Electricity Company (pvt) Ltd",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
