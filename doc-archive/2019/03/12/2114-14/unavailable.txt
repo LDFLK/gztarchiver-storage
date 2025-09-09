@@ -1,0 +1,7 @@
+{
+  "doc_id": "2114-14",
+  "date": "2019-03-12",
+  "description": "Ministry of City Planning, Water Supply & Higher Educations - Order to acquire the lands in Gampaha D/S Division, Gampaha District  for Gampaha Waste Water Project",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

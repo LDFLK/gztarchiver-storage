@@ -1,0 +1,7 @@
+{
+  "doc_id": "2116-23",
+  "date": "2019-03-26",
+  "description": "Ministry of Labour & Trade Union Relations - Award made to the Industrial Disputes between Mr. M. R. H. Bandara and Flexsport  innovation (pvt.) Ltd.",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

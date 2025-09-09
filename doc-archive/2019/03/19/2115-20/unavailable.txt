@@ -1,0 +1,7 @@
+{
+  "doc_id": "2115-20",
+  "date": "2019-03-19",
+  "description": "Ministry of Labour & Trade Union Relations - Award made to the Industrial Disputes - A. Gunawardane & Nagarika Sanwardana Adikariya (Urban Development Authority) and two other notices (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

@@ -1,0 +1,7 @@
+{
+  "doc_id": "2112-46",
+  "date": "2019-03-01",
+  "description": "Ministry of Labour & Trade Union Relations - Award made to the Industrial Disputes between Mr. R. Godellawatta and Lanka Petrolium Corporation",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
