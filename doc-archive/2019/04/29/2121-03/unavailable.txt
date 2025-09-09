@@ -1,0 +1,7 @@
+{
+  "doc_id": "2121-03",
+  "date": "2019-04-29",
+  "description": "Ministry of Labour & Trade Union Relations - Award made to the Industrial Disputes between Inter Company Employees Union Vs. Lanka Suger Company (Pvt) Ltd., and Mrs. M. J. Gunasekera with 9 others Vs. National Gem & Jewellery Authorities",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
