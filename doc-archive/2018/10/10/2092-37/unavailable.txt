@@ -1,0 +1,7 @@
+{
+  "doc_id": "2092-37",
+  "date": "2018-10-10",
+  "description": "Western Province Provincial Council - The Co-operative Employees Commission Statute of Western Province 2018 -  This Gazette has been cancelled - Refer the new Gazette 2097/16",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
