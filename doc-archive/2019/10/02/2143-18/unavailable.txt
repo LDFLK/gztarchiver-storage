@@ -1,0 +1,7 @@
+{
+  "doc_id": "2143-18",
+  "date": "2019-10-02",
+  "description": "Land Acquisition - Millewa, Horana D/S Division, Kalutara District and an amendment to the Gaz. Ex. No. 1855/17 of 24.03.2014, Dickwella D/S Division",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

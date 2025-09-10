@@ -1,0 +1,7 @@
+{
+  "doc_id": "2147-35",
+  "date": "2019-10-29",
+  "description": "Land Acquisition -  Redemption a land in Kohombadeniya, Rambukkana D/S Division, published in Gaz. Ex. No. 2057/25",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
