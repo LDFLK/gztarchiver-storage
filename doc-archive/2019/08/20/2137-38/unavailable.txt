@@ -1,0 +1,7 @@
+{
+  "doc_id": "2137-38",
+  "date": "2019-08-20",
+  "description": "Ministry of Justice and Prison Reforms  -  Order of the arbitration Act No. 11 of 1995",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

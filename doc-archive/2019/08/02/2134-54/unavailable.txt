@@ -1,0 +1,7 @@
+{
+  "doc_id": "2134-54",
+  "date": "2019-08-02",
+  "description": "Ministry of Labour & Trade Union Relations - Awards made to the Industrial Disputes between H. M. Ariyapala vs. Sri Lanka Transport Board and D. M. Jayantha vs. Seema Sahitha Eksath Prewurthi Samagama (Associated Newspapers of Ceylon Ltd.) (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
