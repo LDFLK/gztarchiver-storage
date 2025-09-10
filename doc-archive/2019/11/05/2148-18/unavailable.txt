@@ -1,0 +1,7 @@
+{
+  "doc_id": "2148-18",
+  "date": "2019-11-05",
+  "description": "Land Acquisition - Kudalunuka, Rideemaliyadda D/S Division,  Badulla District- This gazettes has been  Cancelled.  Do not published",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

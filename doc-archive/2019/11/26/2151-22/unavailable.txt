@@ -1,0 +1,7 @@
+{
+  "doc_id": "2151-22",
+  "date": "2019-11-26",
+  "description": "Ministry of Labour and Trade Union Relations - Rejection of decision given by the Arbitrator to the Industrial Dispute between Sri Lanka Mahaweli Authority Vs. T. M. Nandasoma & H. P. K. D. Pathirathna (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
