@@ -1,0 +1,7 @@
+{
+  "doc_id": "2142-89",
+  "date": "2019-09-27",
+  "description": "Ministry of Labour - Appointed D. M. Karunarathna as the Arbitrator to the Industrial Disputes between D. N. Weeratunga No. 104/16, Kurunegala and National Transport Commission No. 241, Park Road, Colombo 05",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
