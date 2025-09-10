@@ -1,0 +1,7 @@
+{
+  "doc_id": "2134-34",
+  "date": "2019-07-31",
+  "description": "Dept. of Trade & Investment Policy  - Duties of Customs leviable on goods, imported by or Cosigned  - Reserved  on 2019.07.31",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
