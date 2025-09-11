@@ -1,0 +1,7 @@
+{
+  "doc_id": "2188-13",
+  "date": "2020-08-10",
+  "description": "Ministry of Skills Development, Employment and Labour Relations - Award made to the  Industrial Dispute between CMU and Richard Peiris Export Limited",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

@@ -1,0 +1,7 @@
+{
+  "doc_id": "2189-23",
+  "date": "2020-08-19",
+  "description": "This gazette has been cancelled - Ministry of Urban Development Water Supply and Housing Facilities - Construction of Matale  Water treatment plant of Greator Matale Water Supply Project  Construction of Narampanawa Booster Pump House of Kundasale-Haragama Water Supply Project",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

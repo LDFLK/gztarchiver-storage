@@ -1,0 +1,7 @@
+{
+  "doc_id": "2188-33",
+  "date": "2020-08-13",
+  "description": "This Gazette has been cancelled - Ministry of Youth and Sports - Control Participants in Sports representing Sri Lanka",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
