@@ -1,0 +1,7 @@
+{
+  "doc_id": "2179-40",
+  "date": "2020-06-12",
+  "description": "Ministry of Skills Development, Employment & Labour Relations - Award made to the Industrial Dispute between A. T. C. Ceylon (pvt) Ltd. & Nidahas Welanda Kalapa Saha Podusewa Sewaka Sangamaya ; and Rejection of the decision given by the arbitrator to the Industrial Dispute between Mr. G. H. Udaya Saman and Sri Lanka Standards Institute",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
