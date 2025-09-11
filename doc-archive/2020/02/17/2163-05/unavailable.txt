@@ -1,0 +1,7 @@
+{
+  "doc_id": "2163-05",
+  "date": "2020-02-17",
+  "description": "Ministry of Women & Child Affairs and Social Security - Correction Notice to the Gazette Extraordinary No. 2158/05 of 13/01/2020",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
