@@ -1,0 +1,7 @@
+{
+  "doc_id": "2217-12",
+  "date": "2021-03-02",
+  "description": "Ministry of Labour - Award of  the Industrial Disputes between K. P. Ranaweera Vs Nortaus Lanka Garments (Pvt) Limited, H.D.K.S. Gunasekara Vs Jaya Containers Terminals Limited and H. M. Chandrapala Vs People's Bank  (S Only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

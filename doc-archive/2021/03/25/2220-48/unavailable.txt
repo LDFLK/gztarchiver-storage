@@ -1,0 +1,7 @@
+{
+  "doc_id": "2220-48",
+  "date": "2021-03-25",
+  "description": "Ministry of Labour - Award made to the Industrial Disputes between Mr. P. C. B. Dissanayaka Vs. Sri Lankan Transport Board, Ms. N. Seeliya Shanthi Vs. Sri Lankan Airlines Limited (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
