@@ -1,0 +1,7 @@
+{
+  "doc_id": "2222-04",
+  "date": "2021-04-05",
+  "description": "Ministry of Labour - Award made to the Industrial Dispute between Mr. V. G. Kelum Vs. Central Cultural Fund., Cancel to the Industrial Dispute between Ceylon Employees Federation (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

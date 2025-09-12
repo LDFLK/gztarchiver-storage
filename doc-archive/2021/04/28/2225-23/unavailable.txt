@@ -1,0 +1,7 @@
+{
+  "doc_id": "2225-23",
+  "date": "2021-04-28",
+  "description": "This Ex. Gazette has been cancelled - Ministry of Plantation - The Sri Lanka Tea Board (Quality Standard of Green Leaf) Regulations No. 02 of 2010 and Tea Control Act, No. 51 of 1957",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
