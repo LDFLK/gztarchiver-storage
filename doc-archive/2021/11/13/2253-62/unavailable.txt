@@ -1,0 +1,7 @@
+{
+  "doc_id": "2253-62",
+  "date": "2021-11-13",
+  "description": "Ministry of Labour - Industrial Dispute between J. S. U. Bulathsinhala Vs. Persis Sinargy (Private) Limited",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
