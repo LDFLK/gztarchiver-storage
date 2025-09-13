@@ -1,0 +1,7 @@
+{
+  "doc_id": "2232-02",
+  "date": "2021-06-14",
+  "description": "Department of Local Government - North Western Province - Taking action against Chairman of Wariyapola Pradeshiya Sabha",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
