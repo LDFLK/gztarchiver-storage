@@ -1,0 +1,7 @@
+{
+  "doc_id": "2249-23",
+  "date": "2021-10-14",
+  "description": "Presidential Secretariat - This Gazette Number was Cancelled",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
