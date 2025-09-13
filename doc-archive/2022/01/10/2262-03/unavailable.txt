@@ -1,0 +1,7 @@
+{
+  "doc_id": "2262-03",
+  "date": "2022-01-10",
+  "description": "\"This Gazette Extraordinary has been cancelled\" - Narammala Pradeshiya Sabha - Declared as roads and lanes owend by the Narammala Pradeshiya Sabha",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

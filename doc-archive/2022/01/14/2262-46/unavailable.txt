@@ -1,0 +1,7 @@
+{
+  "doc_id": "2262-46",
+  "date": "2022-01-14",
+  "description": "Ministry of Labour - Industrial Dispute between Royal Ceramic Lanka P.L.C. Vs. The Inter Company Employees Union (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

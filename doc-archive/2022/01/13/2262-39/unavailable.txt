@@ -1,0 +1,7 @@
+{
+  "doc_id": "2262-39",
+  "date": "2022-01-13",
+  "description": "Department of Archaeology - \"This Gazette Extraordinary has been cancelled\" - Area Reserved for Archeological purposes in Nayaru Maritime Pattu D/S Division, Mullaitivu District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
