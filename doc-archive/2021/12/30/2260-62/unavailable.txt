@@ -1,0 +1,7 @@
+{
+  "doc_id": "2260-62",
+  "date": "2021-12-30",
+  "description": "Ministry of Labour - The Collective Agreement between Midaya Ceramic Company Vs. Inter Company Employees Union (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
