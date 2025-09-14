@@ -1,8 +1,8 @@
 # Sri Lanka 🇱🇰 - Gazette Dataset
 
-Last Updated: 2025-09-15 00:41:42 +0530
+Last Updated: 2025-09-15 02:59:33 +0530
 
-19118 documents, from 2015-01-01 to 2022-08-31.
+19437 documents, from 2015-01-01 to 2022-09-30.
 
 🛠️ #Under construction
 
@@ -10,9 +10,9 @@ Last Updated: 2025-09-15 00:41:42 +0530
 
 ## 📊 Archive Status Dashboard
 
-**Last Archiver Run:** 2025-09-15 00:41:42 +0530  
-**Next Scheduled Processing:** Year 2022, Month 9  
-**Progress:** 92 of 120 months completed
+**Last Archiver Run:** 2025-09-15 02:59:33 +0530  
+**Next Scheduled Processing:** Year 2022, Month 10  
+**Progress:** 93 of 120 months completed
 
 **Summary of Documents Archived:**
 
@@ -25,10 +25,10 @@ Last Updated: 2025-09-15 00:41:42 +0530
 | 2019 | 2951 | 94 |
 | 2020 | 1950 | 76 |
 | 2021 | 2698 | 69 |
-| 2022 | 1840 | 87 |
+| 2022 | 2159 | 98 |
 
-**Total Documents:** 19118  
-**Unavailable Documents:** 1021 
+**Total Documents:** 19437  
+**Unavailable Documents:** 1032 
 
 ---
 
