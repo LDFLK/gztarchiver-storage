@@ -1,0 +1,7 @@
+{
+  "doc_id": "2276-07",
+  "date": "2022-04-19",
+  "description": "Ministry of Labour - Award made to the Industrial Disputes between Inter Company Employees union, Thalangama Vs Evary Denisan Kanka Privete Limited Biyagama and C. K. Jayawardhana, Gonawala (W.P.) Vs State Pharmaceutical Corporation",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

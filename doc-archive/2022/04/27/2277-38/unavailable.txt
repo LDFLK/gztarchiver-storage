@@ -1,0 +1,7 @@
+{
+  "doc_id": "2277-38",
+  "date": "2022-04-27",
+  "description": "Ministry of Labour - The Iudustrial Disputes  between Mr. W. V. D. M. P. Welarambo and 04 Others Vs NWSDB Case No. A/20/2017, Mrs. G. C. M. A. Jayawardana Vs Sri Lanka Foundation",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
