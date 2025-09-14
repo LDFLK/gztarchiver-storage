@@ -1,0 +1,7 @@
+{
+  "doc_id": "2288-07",
+  "date": "2022-07-11",
+  "description": "Ministry of Labour - Industrial Dispute between Mr. K. K. W. R. Kariyawasam Vs. Lanka Electricity Company (Private) Limited",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
