@@ -1,0 +1,7 @@
+{
+  "doc_id": "2297-94",
+  "date": "2022-09-17",
+  "description": "Ministry of Sports and Youth Affairs - Regulations under the Section 41 Read with Section 31 of the Sports Law No. 25 of 1973",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

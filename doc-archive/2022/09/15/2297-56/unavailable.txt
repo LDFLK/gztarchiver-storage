@@ -1,0 +1,7 @@
+{
+  "doc_id": "2297-56",
+  "date": "2022-09-15",
+  "description": "Ministry of Labour - Industrial Disputes between Mr. M. Gunapala Vs. Ceylon Electricity Board - Mr. R. J. M. P. G. Y. B. Jayasekara Vs. National Water Supply and Drainage Board (S Only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
