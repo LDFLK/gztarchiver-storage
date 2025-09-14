@@ -1,0 +1,7 @@
+{
+  "doc_id": "2265-36",
+  "date": "2022-02-02",
+  "description": "Ministry of Labour - The Industrial Disputes between C. P. Samaradeera No. 13/2, Batawa, Padukka and other part Sri Lanka Vocational Training Authority No. 354/2, Elvitigala Mawatha, Colombo 05 (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
