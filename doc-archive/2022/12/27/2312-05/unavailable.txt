@@ -1,0 +1,7 @@
+{
+  "doc_id": "2312-05",
+  "date": "2022-12-27",
+  "description": "Ministry of Labour and Foreign Employment - Industrial Disputes between I. B Feranando, No 85/5, Aluthgama and Other Part Sri Lanka Radio Ceylon Colombo 07 - Industrial Disputes between H. S. L. Perera Molligoda Wadduwa and Other Part Bata Shoes Company of Ceylon Ltd. Ratmalana",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

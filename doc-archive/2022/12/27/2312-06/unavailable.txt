@@ -1,0 +1,7 @@
+{
+  "doc_id": "2312-06",
+  "date": "2022-12-27",
+  "description": "Ministry of Labour and Foreign Employment - Industrial disputes between P. A. Muhandiramge No. 22/1, Maharagama, Lumiyar Textile Pvt., Ltd.",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

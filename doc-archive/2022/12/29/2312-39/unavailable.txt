@@ -1,0 +1,7 @@
+{
+  "doc_id": "2312-39",
+  "date": "2022-12-29",
+  "description": "Land Acquisition - Hiriwaduna, Palugawewa D/S Division Anuradhapura District. Correction Paper Gazette Extra No. 1986/04 Dated 26th September 2016 (Walpita Baddegama D/S Division Galle District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
