@@ -1,0 +1,7 @@
+{
+  "doc_id": "2314-05",
+  "date": "2023-01-09",
+  "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between Nidahas Welada Kalapa Saha Poduseva Sangamaya Colombo 10, and Other Part Reegal Kaliber Lanka Ltd. Nugegoda - The Industrial Disputes between, A. K. P. Mahinda Tissamaharamaya and Other Part Sri Lanka Transport Board Colombo 05 - The Industrial Disputes between S. Wijesuriya Parakaduwa and Other Part National James and Juwellery Authority Colombo 03",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
