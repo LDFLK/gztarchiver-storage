@@ -1,0 +1,7 @@
+{
+  "doc_id": "2320-27",
+  "date": "2023-02-20",
+  "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between Anther Samagam Sevaka Sangamaya Dehiwala Agiyo Tobacco Processing Company (Pvt.) Ltd. Biyagama (S Only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

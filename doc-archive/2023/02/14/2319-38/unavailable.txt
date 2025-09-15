@@ -1,0 +1,7 @@
+{
+  "doc_id": "2319-38",
+  "date": "2023-02-14",
+  "description": "Department of Local Government - Sabaragamuwa Province - Appointed Retired Highcourt Judge H. M. R. Anura Kumara for a Period of 3 month",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

@@ -1,0 +1,7 @@
+{
+  "doc_id": "2318-36",
+  "date": "2023-02-09",
+  "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between N. Senarath, Kelaniya and other part Rural Development Bank, Kelaniya - H. P. U. K. De Silva Wadduwa and other part Komuthi Engineering Services (Pvt.) Ltd. Rajagiriya",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
