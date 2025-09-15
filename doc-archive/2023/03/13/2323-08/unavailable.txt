@@ -1,0 +1,7 @@
+{
+  "doc_id": "2323-08",
+  "date": "2023-03-13",
+  "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between M. D. S. Ranjani Maththegoda and other part State Printing Corporation Panaluwa, Padukka - The Industrial Disputes between S. D. N. J. Pinwatta Panadura and other part National Housing Development, Colombo 02",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
