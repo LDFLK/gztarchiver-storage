@@ -1,0 +1,7 @@
+{
+  "doc_id": "2326-17",
+  "date": "2023-04-04",
+  "description": "\"This Gazette Extraordinary has been Cancelled\" - Ministry of Urban Development and Housing - Notice of Establishment of Appeal Committee for Development Permits and Secretariate Under Section 8 (J) (5) of the Urban Development Authority Law No. 41 of 1978",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
