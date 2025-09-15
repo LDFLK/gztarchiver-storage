@@ -1,0 +1,7 @@
+{
+  "doc_id": "2302-14",
+  "date": "2022-10-18",
+  "description": "Ministry of Labour - Industrial Dispute between G. K. P. G. Fernando Vs. Two others inclusive Ceylinco Leasing Corporation Limited - V. S. M. Fiushani Vs. Ceylinco Capital Investment Company (Private) Limited (S Only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
