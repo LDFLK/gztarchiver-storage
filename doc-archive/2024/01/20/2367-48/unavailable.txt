@@ -1,0 +1,7 @@
+{
+  "doc_id": "2367-48",
+  "date": "2024-01-20",
+  "description": "Land Title Settlement Department - Gampolawela, Ganga Ihala Korale D/S Division, Kandy District - Cad. Map No. 320740 (23/120190)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
