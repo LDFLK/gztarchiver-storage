@@ -1,0 +1,7 @@
+{
+  "doc_id": "2335-24",
+  "date": "2023-06-09",
+  "description": "Ministry of Labour and Foreign Employment - The Industrial disputes between Samastha Lanka Telecommunication Employee Union Colombo 01 and other part Sri Lanka Telecom Plc. Colombo 01",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
