@@ -1,0 +1,7 @@
+{
+  "doc_id": "2356-35",
+  "date": "2023-11-03",
+  "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between B. D. Gunawardena Polgasowita and other part Road Development Authority Southern Province Galle - The Industrial Disputes between W. K. A. Arachchi Pallewela and other part Sri Lanka Catering Ltd. Katunayaka (S Only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

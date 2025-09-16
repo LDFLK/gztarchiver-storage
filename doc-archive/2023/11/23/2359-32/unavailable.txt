@@ -1,0 +1,7 @@
+{
+  "doc_id": "2359-32",
+  "date": "2023-11-23",
+  "description": "Department of  Agrarian Development - Amended Agriculture Research and Production Development Areas",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

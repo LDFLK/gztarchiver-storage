@@ -1,0 +1,7 @@
+{
+  "doc_id": "2357-37",
+  "date": "2023-11-07",
+  "description": "Ministry of Labour and Foreign Employment - Correction Notice Ex. Gazette No. 2338/20 dated 27.06.2023, the Industrial Dispute between H. J. R. De Silva, Homagama and other part Sri Lanka Foreign Employment Bureau",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
