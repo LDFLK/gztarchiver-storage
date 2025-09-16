@@ -1,0 +1,7 @@
+{
+  "doc_id": "2342-55",
+  "date": "2023-07-29",
+  "description": "Ministry of Labour and Foreign Employment - The Industrial Dispute between Electricity company (Pvt) Ltd and Other Part Lanka Elctricty Company (Pvt) Ltd 12 Union",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
