@@ -1,0 +1,7 @@
+{
+  "doc_id": "2346-11",
+  "date": "2023-08-21",
+  "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between K. N. Pemalatha Naththandiya and other part Ceylon Fishery Harbor Incorporation Colombo 15 - The Industrial Disputes between N. Widdiyalantara Baddegama and other part National Housing Development Authority Colombo 02 (S only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

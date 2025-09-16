@@ -1,0 +1,7 @@
+{
+  "doc_id": "2346-45",
+  "date": "2023-08-23",
+  "description": "This Gazette Has Been Cancelled - Ministry of Plantation Industries - Amended the Tea Control Act. No 51 of 1957",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
