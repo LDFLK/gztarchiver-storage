@@ -1,0 +1,7 @@
+{
+  "doc_id": "2394-69",
+  "date": "2024-07-26",
+  "description": "Land Aquisition - Daister De Silva Mawatha, Dematagoda, Thimbirigasyaya D/S Division, Colombo District. -  Borella, Thimbirigasyaya D/S Division, Colombo District.",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

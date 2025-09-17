@@ -1,0 +1,7 @@
+{
+  "doc_id": "2394-79",
+  "date": "2024-07-27",
+  "description": "Land Aquisition - Uduwawala, Harispattuwa, D/S Division, Kandy District (Section 5)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
