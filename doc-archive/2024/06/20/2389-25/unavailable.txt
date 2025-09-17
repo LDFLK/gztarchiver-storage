@@ -1,0 +1,7 @@
+{
+  "doc_id": "2389-25",
+  "date": "2024-06-20",
+  "description": "Land Acquisition - Magala, Deraniyagala D/S Division, Kegalle District - Galagedara, Thumpane D/S Division, Kandy District (Section 05)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
