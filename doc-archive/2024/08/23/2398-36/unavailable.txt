@@ -1,0 +1,7 @@
+{
+  "doc_id": "2398-36",
+  "date": "2024-08-23",
+  "description": "Election Commission - Cancellation of Extra Gazette No .2398 /17 of 21.08.2024",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
