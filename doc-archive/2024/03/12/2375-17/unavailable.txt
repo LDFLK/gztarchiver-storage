@@ -1,0 +1,7 @@
+{
+  "doc_id": "2375-17",
+  "date": "2024-03-12",
+  "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between N. P. Madarasingha No. 494/E, Halbarawa Road, Malabe and other part Ceylon Petroleum Storage Terminals Ltd. Kolonnawa",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
