@@ -1,0 +1,7 @@
+{
+  "doc_id": "2404-35",
+  "date": "2024-10-03",
+  "description": "Department of Lab our - Industrial Dispute - \"Rejection of an Arbitrator's Decision\"  Between Mr.G.L.M. Rathnayaka and S/L Rupavahini Coporation. (Sinhala Only)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
