@@ -1,0 +1,7 @@
+{
+  "doc_id": "2412-39",
+  "date": "2024-11-30",
+  "description": "Ministry of Labour - Industrial Dispute between 1) Mr. Thudesh Niranthaka Mohotti and RDA 2) Mr. D.C. Johe and Kent Trophees and Awards (Pvt) Ltd",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

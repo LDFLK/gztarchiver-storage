@@ -1,0 +1,7 @@
+{
+  "doc_id": "2412-40",
+  "date": "2024-11-30",
+  "description": "Ministry of Labour - Industrial Dispute between 1) Mr. S.R. Weeraddana and CML - MYD Construction Ltd 2) A.M.R.K. Abeykoon and Bank of Ceylon",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
