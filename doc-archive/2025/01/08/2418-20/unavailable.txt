@@ -1,0 +1,7 @@
+{
+  "doc_id": "2418-20",
+  "date": "2025-01-08",
+  "description": "Land Aquisition - Ekala, Ja- ela D/S Division, Gampaha District Order No.91of 2024. - Pannila, Kiranodama, Kanawatta  D/S Division, Ratnapura District Order No.95 of 2024.",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

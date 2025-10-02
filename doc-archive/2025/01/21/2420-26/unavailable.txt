@@ -1,0 +1,7 @@
+{
+  "doc_id": "2420-26",
+  "date": "2025-01-21",
+  "description": "Presidential Secretarial - Appointed Dr. Anil Jasinghe as the Secretary to the ministry of Health and Mass Media With Effect From 15th January 2025.",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
