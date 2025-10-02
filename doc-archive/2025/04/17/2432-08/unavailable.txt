@@ -1,0 +1,7 @@
+{
+  "doc_id": "2432-08",
+  "date": "2025-04-17",
+  "description": "Ministry of Labour â€“ Industrial Dispute between J.K. De Silva and Ethihad Airways",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
