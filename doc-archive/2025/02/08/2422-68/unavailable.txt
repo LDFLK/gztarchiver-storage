@@ -1,0 +1,7 @@
+{
+  "doc_id": "2422-68",
+  "date": "2025-02-08",
+  "description": "Land Title Settlement Department â€“ Gurulupitigama, Giribawa D/S/ Division, Kurunegala District. Cad map No. 420968 (24/0790",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
