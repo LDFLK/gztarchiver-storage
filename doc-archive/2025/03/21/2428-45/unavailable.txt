@@ -1,0 +1,7 @@
+{
+  "doc_id": "2428-45",
+  "date": "2025-03-21",
+  "description": "Department of Labour - Industrial Dispute between J.S.E. Karunaratnne and People's Bank, Colombo 02",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
