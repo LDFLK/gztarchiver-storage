@@ -1,6 +1,6 @@
 # Sri Lanka 🇱🇰 - Gazette Dataset
 
-Last Updated: 2025-09-18 15:02:31 +0530
+Last Updated: 2025-10-02 18:07:58 +0530
 
 25777 documents, from 2015-01-01 to 2024-12-31.
 
@@ -10,9 +10,9 @@ Last Updated: 2025-09-18 15:02:31 +0530
 
 ## 📊 Archive Status Dashboard
 
-**Last Archiver Run:** 2025-09-18 15:02:31 +0530  
-**Next Scheduled Processing:** ✅ ALL COMPLETE  
-**Progress:** All 10 years (132 months total) processed - Archive complete!
+**Last Archiver Run:** 2025-10-02 18:07:58 +0530  
+**Next Scheduled Processing:** ✅ 2025 COMPLETE (up to current month)  
+**Progress:** All 10 years (120 months) + 2025 up to current month (10 months) - Archive complete!
 
 **Summary of Documents Archived:**
 
@@ -36,7 +36,8 @@ Last Updated: 2025-09-18 15:02:31 +0530
 
 ### 🔄 Processing Schedule (Every 3 Hours, Sri Lankan Time)
 Processes **one month per run** in order:  
-2015: Jan→Feb→Mar→...→Dec → 2016: Jan→Feb→Mar→...→Dec → ... → 2024: Jan→Feb→Mar→...→Dec → **COMPLETE**
+2015: Jan→Feb→Mar→...→Dec → 2016: Jan→Feb→Mar→...→Dec → ... → 2024: Jan→Feb→Mar→...→Dec → **COMPLETE**  
+2025: Jan→Feb→Mar→...→Current Month → **STOP**
 
 **Estimated Time:** ~36 hours per year (12 months × 3 hours each)
 
