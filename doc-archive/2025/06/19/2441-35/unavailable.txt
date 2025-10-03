@@ -1,0 +1,7 @@
+{
+  "doc_id": "2441-35",
+  "date": "2025-06-19",
+  "description": "Land Aquisition - Etanwala, Laggala, Pallegama D/S Division, Matale District, Land Aquisition -  Pitawala,, Laggala, Pallegama D/S Division, Matale District  Land Aquisition Mahalakotuwa, Laggala, Pallegama D/S Division, Matale DistrictSec-38 (a)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

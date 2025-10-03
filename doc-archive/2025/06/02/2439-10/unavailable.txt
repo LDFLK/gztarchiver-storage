@@ -1,0 +1,7 @@
+{
+  "doc_id": "2439-10",
+  "date": "2025-06-02",
+  "description": "Dept. of Local Government - Eastern Province - Notification made under section 66 (c)  First Meeting of 30 Local Government Institutions. 2025",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
