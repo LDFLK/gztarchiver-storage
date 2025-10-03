@@ -2,8 +2,8 @@ name: gztarchiver
 
 on:
   schedule:
-    - cron: "0 */3 * * *"  # every 3 hours
-  workflow_dispatch:        # allows manual trigger
+    - cron: "45 18 * * *" # Runs daily at 23:45 SGT, which is 18:45 UTC
+  workflow_dispatch:      # Allows manual trigger
 
 env:
   TZ: Asia/Colombo  # Set Sri Lankan Time zone globally
@@ -17,15 +17,15 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.TARGET_REPO_PAT }}
-       
+        
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
-       
+        
       - name: Install archiver package
         run: pip install git+https://github.com/LDFLK/gztarchiver.git
-       
+        
       - name: Create config.yaml from secret
         run: |
           echo "${{ secrets.GZTARCHIVER_CONFIG }}" > config.yaml
@@ -60,109 +60,44 @@ jobs:
 
           print("✅ Config updated with new API token")
           EOF
-       
-      - name: Determine next month to process
+        
+      - name: Archive current day
         env:
-          TZ: Asia/Colombo  # Ensure Sri Lankan time for this step
+          TZ: Asia/Colombo
         run: |
-          # Get current month in Sri Lankan time
-          CURRENT_SYSTEM_MONTH=$(date '+%-m')  # %-m removes leading zero
+          CURRENT_YEAR=$(date '+%Y')
+          CURRENT_MONTH=$(date '+%m')
+          CURRENT_DAY=$(date '+%d')
           
-          # Define months
-          declare -a MONTHS=(1 2 3 4 5 6 7 8 9 10 11 12)
+          echo "🔄 Processing exact date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DAY"
           
-          # Check if month counter file exists, if not create it
-          if [[ ! -f month_counter.txt ]]; then
-            echo "0" > month_counter.txt
-          fi
-          
-          # Read current month index
-          MONTH_INDEX=$(cat month_counter.txt)
-          
-          # Check if already completed
-          if [[ "$MONTH_INDEX" == "COMPLETED" ]]; then
-            echo "✅ All months up to current month already processed. Archive is complete!"
-            echo "🛑 Workflow stopping - no more processing needed."
-            exit 0
-          fi
-          
-          # Get the month to process
-          CURRENT_MONTH=${MONTHS[$MONTH_INDEX]}
-          
-          # Check if we've caught up to or passed the current month
-          if [[ $CURRENT_MONTH -gt $CURRENT_SYSTEM_MONTH ]]; then
-            echo "✅ All months up to current month processed. Archive is complete!"
-            echo "COMPLETED" > month_counter.txt
-            exit 0
-          fi
-          
-          echo "🔄 Processing year: 2025, month: $CURRENT_MONTH"
-          echo "📅 Month: $((MONTH_INDEX + 1)) of $CURRENT_SYSTEM_MONTH"
-          
-          # Run the archiver for this month
-          gztarchiver --year 2025 --month $CURRENT_MONTH --lang en --config config.yaml
-          
-          # Update counter for next run
-          NEXT_MONTH_INDEX=$((MONTH_INDEX + 1))
-          
-          # Check if next month would exceed current month
-          if [[ $NEXT_MONTH_INDEX -ge ${#MONTHS[@]} ]] || [[ ${MONTHS[$NEXT_MONTH_INDEX]} -gt $CURRENT_SYSTEM_MONTH ]]; then
-            echo "✅ COMPLETED! All months up to current month processed."
-            echo "COMPLETED" > month_counter.txt
-          else
-            echo "$NEXT_MONTH_INDEX" > month_counter.txt
-            echo "➡️  Next run will process: 2025, month: ${MONTHS[$NEXT_MONTH_INDEX]}"
-          fi
+          gztarchiver --year $CURRENT_YEAR --month $CURRENT_MONTH --day $CURRENT_DAY --lang en --config config.yaml
           
           # Clean up metadata
           rm -rf metadata
-       
+        
       - name: Commit and push changes
         env:
-          TZ: Asia/Colombo  # Ensure Sri Lankan time for commit timestamps
+          TZ: Asia/Colombo
         run: |
-          # Configure git with bot user credentials
           git config user.name "gzt-archiver-bot[bot]"
           git config user.email "gzt-archiver-bot[bot]@users.noreply.github.com"
-          git add doc-archive month_counter.txt
+          git add doc-archive
           
-          # Create commit message with current processing info
-          MONTH_INDEX=$(cat month_counter.txt)
-          
-          if [[ "$MONTH_INDEX" == "COMPLETED" ]]; then
-            COMMIT_MSG="🎉 Final archive update - All 2025 months completed - $(date '+%Y-%m-%d %H:%M:%S %Z')"
-          else
-            declare -a MONTHS=(1 2 3 4 5 6 7 8 9 10 11 12)
-            # Get the previously processed month
-            PREV_MONTH_INDEX=$((MONTH_INDEX - 1))
-            if [[ $PREV_MONTH_INDEX -ge 0 ]]; then
-              PROCESSED_MONTH=${MONTHS[$PREV_MONTH_INDEX]}
-              COMMIT_MSG="🔄 Auto-update archive - 2025 Month $PROCESSED_MONTH - $(date '+%Y-%m-%d %H:%M:%S %Z')"
-            else
-              COMMIT_MSG="🔄 Auto-update archive - $(date '+%Y-%m-%d %H:%M:%S %Z')"
-            fi
-          fi
+          COMMIT_MSG="🔄 Auto-update archive - $(date '+%Y-%m-%d') - $(date '+%H:%M:%S %Z')"
           
           git commit -m "$COMMIT_MSG" || echo "No changes to commit"
-          git push origin main 
-             
+          git push origin main
+              
       - name: Update README with status
         env:
-          TZ: Asia/Colombo  # Ensure Sri Lankan time for README timestamps
+          TZ: Asia/Colombo
         run: |
-          # Get timestamp in Sri Lankan time
           TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S %Z')
           
-          # Read current month info
-          MONTH_INDEX=$(cat month_counter.txt)
-          CURRENT_SYSTEM_MONTH=$(date '+%-m')
-          declare -a MONTHS=(1 2 3 4 5 6 7 8 9 10 11 12)
-          
-          # Count documents
           TOTAL_DOCS=$(find doc-archive -type f -name "*.pdf" | wc -l)
           TOTAL_UNAVAILABLE=$(find doc-archive -type f -name "unavailable.txt" | wc -l)
           
-          # Extract date range from directory structure
           if [ $TOTAL_DOCS -gt 0 ]; then
             ALL_DATES=$(find doc-archive -type f \( -name "*.pdf" -o -name "unavailable.txt" \) | \
               grep -oE '[0-9]{4}/[0-9]{2}/[0-9]{2}' | \
@@ -180,7 +115,6 @@ jobs:
             DATE_RANGE=""
           fi
           
-          # Generate per-year summary
           SUMMARY_TABLE=$(
             find doc-archive -type f -name "*.pdf" | awk -F'/' '{print $2}' | sort | uniq -c > /tmp/archived_counts.txt
             find doc-archive -type f -name "unavailable.txt" | awk -F'/' '{print $2}' | sort | uniq -c > /tmp/unavailable_counts.txt
@@ -209,42 +143,20 @@ jobs:
             }'
           )
           
-          # Determine 2025 status
-          if [[ "$MONTH_INDEX" == "COMPLETED" ]]; then
-            NEXT_PROCESSING="✅ 2025 COMPLETE (up to current month)"
-            TOTAL_YEARS="11 years (2015-2025)"
-          else
-            CURRENT_MONTH=${MONTHS[$MONTH_INDEX]}
-            NEXT_PROCESSING="2025, Month $CURRENT_MONTH"
-            TOTAL_YEARS="10 years (2015-2024) + 2025 in progress"
-          fi
-          
-          # Calculate total months processed
-          if [[ "$MONTH_INDEX" == "COMPLETED" ]]; then
-            TOTAL_MONTHS_PROCESSED=$((120 + CURRENT_SYSTEM_MONTH))
-            PROGRESS_STATUS="All 10 years (120 months) + 2025 up to current month ($CURRENT_SYSTEM_MONTH months) - Archive complete!"
-          else
-            TOTAL_MONTHS_PROCESSED=$((120 + MONTH_INDEX))
-            PROGRESS_STATUS="120 months (2015-2024) complete, processing 2025 ($((MONTH_INDEX)) of $CURRENT_SYSTEM_MONTH months done)"
-          fi
-          
-          # Write README.md
           cat <<EOF > README.md
           # Sri Lanka 🇱🇰 - Gazette Dataset
           
           Last Updated: $TIMESTAMP
           
-          $TOTAL_DOCS documents, $DATE_RANGE.
-    
-          🛠️ #Under construction
+          **A daily archive of the Sri Lankan Government Gazette.**
           
           ---
           
           ## 📊 Archive Status Dashboard
           
-          **Last Archiver Run:** $TIMESTAMP  
-          **Next Scheduled Processing:** $NEXT_PROCESSING  
-          **Progress:** $PROGRESS_STATUS
+          **Total Documents Archived:** $TOTAL_DOCS  
+          **Unavailable Documents:** $TOTAL_UNAVAILABLE  
+          **Archived Date Range:** $DATE_RANGE
           
           **Summary of Documents Archived:**
           
@@ -252,23 +164,14 @@ jobs:
           |------|---------------|-----------------|
           $SUMMARY_TABLE
           
-          **Total Documents:** $TOTAL_DOCS  
-          **Unavailable Documents:** $TOTAL_UNAVAILABLE 
-          
           ---
           
-          ### 🔄 Processing Schedule (Every 3 Hours, Sri Lankan Time)
-          Processes **one month per run** in order:  
-          2015: Jan→Feb→Mar→...→Dec → 2016: Jan→Feb→Mar→...→Dec → ... → 2024: Jan→Feb→Mar→...→Dec → **COMPLETE**  
-          2025: Jan→Feb→Mar→...→Current Month → **STOP**
-          
-          **Estimated Time:** ~36 hours per year (12 months × 3 hours each)
+          **Processing Schedule:** Daily at 23:45, Sri Lankan Time.
           
           ---
           #OpenData #Govgazette #LankaDataFoundation
           EOF
           
-          # Commit and push README.md with bot user
           git config user.name "gzt-archiver-bot[bot]"
           git config user.email "gzt-archiver-bot[bot]@users.noreply.github.com"
           git add README.md
