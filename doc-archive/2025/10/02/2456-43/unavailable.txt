@@ -1,0 +1,7 @@
+{
+  "doc_id": "2456-43",
+  "date": "2025-10-02",
+  "description": "Data Protection Authority - Personal Data Protection (Cadre Positions and Scheme of Recruitments) Rules",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
