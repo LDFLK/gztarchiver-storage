@@ -1,0 +1,7 @@
+{
+  "doc_id": "2449-10",
+  "date": "2025-08-12",
+  "description": "Telecommunication Regulatory Commission of S/L- Sri Lanka Telecommunication Act, No. 25 of 1991 Request for Publication of Broadband Quality of Services (QOS) Rules",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

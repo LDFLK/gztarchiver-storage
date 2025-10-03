@@ -1,0 +1,7 @@
+{
+  "doc_id": "2451-22",
+  "date": "2025-08-27",
+  "description": "Ministry of Labour 1) Industrial Dispute between B.A.S.C. Abeywardhana and National Housing Development Authority 2) Industrial Dispute between S. Maduweera and Bank of Ceylon",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

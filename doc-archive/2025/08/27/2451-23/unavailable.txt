@@ -1,0 +1,7 @@
+{
+  "doc_id": "2451-23",
+  "date": "2025-08-27",
+  "description": "Ministry of Labour 1) Industrial Dispute between C.J. Wijeweera and Mahaweli Authority of Sri Lanka. 2) Industrial Dispute between P.A.R Jayasinghe and State Ingineering Corporation of Sri Lanka. 3) Industrial Dispute between Susantha Wijesinghe and Lanka Fisheries Corporation",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
