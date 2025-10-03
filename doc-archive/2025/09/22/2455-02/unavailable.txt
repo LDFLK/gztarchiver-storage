@@ -1,0 +1,7 @@
+{
+  "doc_id": "2455-02",
+  "date": "2025-09-22",
+  "description": "Ministry of Labour - Industrial Dispute between W.A.A. Chaminda and Sri Lanka pats Authority\nIndustrial Dispute between R.M.P.R.P. Rajapakshe and Lanka Fisheries Harbour Coporation",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

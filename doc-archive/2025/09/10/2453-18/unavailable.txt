@@ -1,0 +1,7 @@
+{
+  "doc_id": "2453-18",
+  "date": "2025-09-10",
+  "description": "Land Aquisition - Dombagammana, Nivithigala D/S Division, Ratnapura District  Land Aquisition - Part of Karagahawela, Bibile D/S Division, Monaragala District Sec 05",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

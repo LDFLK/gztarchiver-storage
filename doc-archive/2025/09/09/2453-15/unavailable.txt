@@ -1,0 +1,7 @@
+{
+  "doc_id": "2453-15",
+  "date": "2025-09-09",
+  "description": "Land Acquisition - Wetakedeniya, Ganga IhalaKorale D/S Division, Kandy District Sec 07",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

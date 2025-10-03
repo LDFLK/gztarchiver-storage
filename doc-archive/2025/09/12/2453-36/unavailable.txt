@@ -1,0 +1,7 @@
+{
+  "doc_id": "2453-36",
+  "date": "2025-09-12",
+  "description": "Ministry of Justice and National Integration- Order Under Section 03 of the Judicature  Act, No. 02 of 1978",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
