@@ -1,0 +1,7 @@
+{
+  "doc_id": "2443-72",
+  "date": "2025-07-05",
+  "description": "Land Acquisition - Deraniyagala, Deraniyagala D/S Division Kegalle District. Kahagalla, Haputale D/S Division Badulla District.",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

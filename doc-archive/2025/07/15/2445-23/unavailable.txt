@@ -1,0 +1,7 @@
+{
+  "doc_id": "2445-23",
+  "date": "2025-07-15",
+  "description": "Ministry of Digital Economy - Personal Data Protection Act, No. 09 of 2022 - Scheme of Recruitment",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

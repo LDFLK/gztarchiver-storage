@@ -1,0 +1,7 @@
+{
+  "doc_id": "2446-37",
+  "date": "2025-07-22",
+  "description": "Ministry of Labour - Industrial dispute between K. H. Chaminda and Palm Paradise Cabanas Limited 2.Industrial dispute between S. M. Dias and R. D. A. Southern Province",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

@@ -1,0 +1,7 @@
+{
+  "doc_id": "2446-06",
+  "date": "2025-07-21",
+  "description": "Dept. of Forest Conversation- Forest Conversation Ordinance Order Under Section 3 Thulhirikanda Forest Reserve",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

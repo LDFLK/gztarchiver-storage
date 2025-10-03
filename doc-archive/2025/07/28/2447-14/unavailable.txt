@@ -1,0 +1,7 @@
+{
+  "doc_id": "2447-14",
+  "date": "2025-07-28",
+  "description": "Dept. of Fiscal Policy - Inland Revenue Act, No. 24 of 2017 Bilateral Agreement of Kingdom Saudi Arabia",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
