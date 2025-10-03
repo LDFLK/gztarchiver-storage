@@ -3,7 +3,8 @@ name: Deploy Documents to GitHub Pages
 on:
   push:
     branches:
-      - main  
+      - main
+  workflow_dispatch:   
 
 jobs:
   deploy:
@@ -17,5 +18,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.TARGET_REPO_PAT }}
-          publish_dir: doc-archive 
-          destination_dir: ''  
+          publish_dir: doc-archive
+          destination_dir: ''
