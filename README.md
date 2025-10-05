@@ -1,6 +1,6 @@
 # Sri Lanka 🇱🇰 - Gazette Dataset
 
-Last Updated: 2025-10-05 21:36:11 +0530
+Last Updated: 2025-10-06 01:49:19 +0530
 
 **A daily archive of the Sri Lankan Government Gazette.**
 
