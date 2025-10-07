@@ -61,12 +61,13 @@ jobs:
           print("✅ Config updated with new API token")
           EOF
       
-      - name: Archive three days of data
+      - name: Archive four days of data
         env:
           TZ: Asia/Colombo
         run: |
-          # Get dates for day before previous, previous, and current day
+          # Get dates for the last 3 days + today
           DATES=(
+            $(date --date="3 days ago" +'%Y-%m-%d')
             $(date --date="2 days ago" +'%Y-%m-%d')
             $(date --date="1 day ago" +'%Y-%m-%d')
             $(date +'%Y-%m-%d')
