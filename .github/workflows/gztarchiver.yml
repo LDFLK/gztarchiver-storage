@@ -2,7 +2,7 @@ name: gztarchiver
 
 on:
   schedule:
-    - cron: "0 20 * * *" # Runs daily at 20:00 SGT, which is 14:30 UTC
+    - cron: "30 14 * * *" # Runs daily at 20:00 SGT, which is 14:30 UTC
   workflow_dispatch:      # Allows manual trigger
 
 env:
