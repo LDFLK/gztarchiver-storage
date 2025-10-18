@@ -1,0 +1,7 @@
+{
+  "doc_id": "2458-45",
+  "date": "2025-10-16",
+  "description": "Ministry of Urban Development , Construction and Housing - Approval of the Development plan for kegalle Urban Council and part of kegalle Pradeshiya sabha Area",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
