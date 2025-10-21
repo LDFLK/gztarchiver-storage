@@ -17,14 +17,16 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.TARGET_REPO_PAT }}
+          fetch-depth: 1
           
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
+          cache: "pip"
         
       - name: Install archiver package
-        run: pip install git+https://github.com/LDFLK/gztarchiver.git
+        run: pip install --upgrade git+https://github.com/LDFLK/gztarchiver.git
         
       - name: Create config.yaml from secret
         run: |
@@ -84,6 +86,11 @@ jobs:
             # Clean up metadata after each run to prevent issues
             rm -rf metadata
           done
+          
+      - name: Clean up
+        run: |
+          rm -rf ~/.cache/pip
+          du -sh .
           
       - name: Commit and push changes
         env:
