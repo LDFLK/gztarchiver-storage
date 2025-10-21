@@ -26,7 +26,7 @@ jobs:
           cache: "pip"
         
       - name: Install archiver package
-        run: pip install --upgrade git+https://github.com/LDFLK/gztarchiver.git
+        run: pip install git+https://github.com/LDFLK/gztarchiver.git
         
       - name: Create config.yaml from secret
         run: |
