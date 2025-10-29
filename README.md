@@ -1,6 +1,6 @@
 # Sri Lanka 🇱🇰 - Gazette Dataset
 
-Last Updated: 2025-10-28 20:18:17 +0530
+Last Updated: 2025-10-29 20:03:15 +0530
 
 **A daily archive of the Sri Lankan Government Gazette.**
 
@@ -9,7 +9,7 @@ Last Updated: 2025-10-28 20:18:17 +0530
 ## 📊 Archive Status Dashboard
 
 **Total Documents Archived:** 27782  
-**Unavailable Documents:** 1727  
+**Unavailable Documents:** 1728  
 **Archived Date Range:** from 2015-01-01 to 2025-10-27
 
 **Summary of Documents Archived:**
@@ -26,7 +26,7 @@ Last Updated: 2025-10-28 20:18:17 +0530
 | 2022 | 3050 | 141 |
 | 2023 | 2943 | 127 |
 | 2024 | 2506 | 105 |
-| 2025 | 2005 | 420 |
+| 2025 | 2005 | 421 |
 
 ---
 
