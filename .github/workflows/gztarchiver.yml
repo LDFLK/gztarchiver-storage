@@ -37,7 +37,7 @@ jobs:
           CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
         run: |
           # Fetch new token using Basic Auth
-          NEW_TOKEN=$(curl -k -s -X POST https://7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.choreosts.dev/oauth2/token \
+          NEW_TOKEN=$(curl -k -s -X POST https://api.asgardeo.io/t/lankadatafoundation/oauth2/token \
             -d "grant_type=client_credentials" \
             -H "Authorization: Basic $(echo -n $CONSUMER_KEY:$CONSUMER_SECRET | base64)" \
           | jq -r .access_token)
