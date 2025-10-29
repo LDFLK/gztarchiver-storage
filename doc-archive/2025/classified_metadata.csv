@@ -1,2 +1,2 @@
 Document ID,Document Date,Gazette Type,Reasoning
-2460-01,2025-10-27,Error,API request failed: 404 Client Error: Not Found for url: https://eg-aaf8ece1-3077-4a52-ab05-183a424f6d93-prod.e1-us-east-azure.bijiraapis.dev/data-platform/dee/v1.0/v1/chat/completions
+2460-01,2025-10-27,Error,API request failed: 401 Client Error: Unauthorized for url: https://eg-aaf8ece1-3077-4a52-ab05-183a424f6d93-prod.e1-us-east-azure.bijiraapis.dev/data-platform/dee/v1.0/v1/chat/completions
