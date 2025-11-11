@@ -1,0 +1,7 @@
+{
+  "doc_id": "2461-45",
+  "date": "2025-11-08",
+  "description": "Land Acquisition - Meepitiya, Pasbagekorale D/S/D, Kandy District \n                           - Pallegama, Pasbagekorale D/S/D, Kandy District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
