@@ -1,4 +1,1 @@
 Document ID,Document Date,Gazette Type,Reasoning
-2457-30,2025-10-10,Error,API request failed: 401 Client Error: Unauthorized for url: https://aaf8ece1-3077-4a52-ab05-183a424f6d93-prod.e1-us-east-azure.bijiraapis.dev/data-platform/dee/v1.0/v1/chat/completions
-2457-33,2025-10-10,Error,API request failed: 401 Client Error: Unauthorized for url: https://aaf8ece1-3077-4a52-ab05-183a424f6d93-prod.e1-us-east-azure.bijiraapis.dev/data-platform/dee/v1.0/v1/chat/completions
-2457-34,2025-10-10,Error,API request failed: 401 Client Error: Unauthorized for url: https://aaf8ece1-3077-4a52-ab05-183a424f6d93-prod.e1-us-east-azure.bijiraapis.dev/data-platform/dee/v1.0/v1/chat/completions
