@@ -72,6 +72,7 @@ jobs:
             $(date --date="2 days ago" +'%Y-%m-%d')
             $(date --date="1 day ago" +'%Y-%m-%d')
             $(date +'%Y-%m-%d')
+            '2025-10-10'
           )
           
           for DATE in "${DATES[@]}"; do
