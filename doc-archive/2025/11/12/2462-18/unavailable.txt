@@ -1,0 +1,7 @@
+{
+  "doc_id": "2462-18",
+  "date": "2025-11-12",
+  "description": "Land Title Settlement Dept - Pemaduwa, Mahawilachchiya D/S/D, Anuradhapura District ( 25/1200134)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
