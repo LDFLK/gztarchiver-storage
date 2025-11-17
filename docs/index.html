@@ -296,7 +296,7 @@
     <script>
         async function loadStats() {
             try {
-                const response = await fetch('../README.md');
+                const response = await fetch('https://raw.githubusercontent.com/LDFLK/gztarchiver-storage/main/README.md');
                 const text = await response.text();
                 
                 const lastUpdatedMatch = text.match(/Last Updated:\s*([^\n]+)/);
