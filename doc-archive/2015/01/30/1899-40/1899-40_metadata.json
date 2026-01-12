@@ -1,0 +1,11 @@
+{
+  "document_id": "1899-40",
+  "description": "Dept. of Labour - The Cost of Living index number for the month of January 2015 appliable to workers in the Cocoa, Cardomom and Pepper Growing and Manufacturing Trade was 183.2 and the Special Allowance payable to the workers for a normal Working day in the Month of February 2015 is Rs. 569.43",
+  "document_date": "2015-01-30",
+  "document_type": "Unknown",
+  "reasoning": "API request failed: 504 Server Error: Gateway Timeout for url: https://eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev/sample/deep-seek/v1.0/v1/chat/completions",
+  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2015/01/30/1899-40",
+  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2015/01/30/1899-40/1899-40_english.pdf",
+  "source": "https://documents.gov.lk/view/extra-gazettes/2015/1/1899-40_E.pdf",
+  "availability": "Available"
+}

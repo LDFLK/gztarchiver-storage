@@ -1,0 +1,11 @@
+{
+  "document_id": "1933-01",
+  "description": "Sri Lanka Customs - Rates of Exchange effective from 21.09.2015 - 27.09.2015",
+  "document_date": "2015-09-21",
+  "document_type": "Unknown",
+  "reasoning": "API request failed: 504 Server Error: Gateway Timeout for url: https://eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev/sample/deep-seek/v1.0/v1/chat/completions",
+  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2015/09/21/1933-01",
+  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2015/09/21/1933-01/1933-01_english.pdf",
+  "source": "https://documents.gov.lk/view/extra-gazettes/2015/9/1933-01_E.pdf",
+  "availability": "Available"
+}
