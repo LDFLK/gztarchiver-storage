@@ -1,0 +1,7 @@
+{
+  "doc_id": "2468-13",
+  "date": "2025-12-23",
+  "description": "Ministry of Labour - Collective agreement between Premium Exports Ceylon (Pvt) Limited and The Ceylon Mercntile Industrial",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

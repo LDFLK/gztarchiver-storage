@@ -1,7 +1,0 @@
-{
-  "doc_id": "2462-22",
-  "date": "2025-11-13",
-  "description": "Land Acquisition - Papiliyana, Kesbewa D/S/D, Colombo District, katuwawala , Boralesgamuwa, Kesbewa D/S/D, Colmobo District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

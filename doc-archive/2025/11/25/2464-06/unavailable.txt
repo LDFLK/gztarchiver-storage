@@ -1,0 +1,7 @@
+{
+  "doc_id": "2464-06",
+  "date": "2025-11-25",
+  "description": "Land Acquisition - Millakanda Watte, Bulathsinghala D/S/D, Kalutara District",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

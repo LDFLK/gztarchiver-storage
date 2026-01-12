@@ -1,0 +1,11 @@
+{
+  "document_id": "2457-17",
+  "description": "Land Title Settlement Dept - Yakkaduwa, Ja-ela D/S/D , Gampaha District (7855)",
+  "document_date": "2025-10-10",
+  "document_type": "Error",
+  "reasoning": "API request failed: 401 Client Error: Unauthorized for url: https://aaf8ece1-3077-4a52-ab05-183a424f6d93-prod.e1-us-east-azure.bijiraapis.dev/data-platform/dee/v1.0/v1/chat/completions",
+  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2025/10/10/2457-17",
+  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2025/10/10/2457-17/2457-17_english.pdf",
+  "source": "https://documents.gov.lk/view/extra-gazettes/2025/10/2457-17_E.pdf",
+  "availability": "Available"
+}

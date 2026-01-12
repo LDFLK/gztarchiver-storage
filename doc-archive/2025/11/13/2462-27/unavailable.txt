@@ -1,0 +1,7 @@
+{
+  "doc_id": "2462-27",
+  "date": "2025-11-13",
+  "description": "Land Title Settlement Dept- Palayakulama,Nachchaduwa D/S/D, Anuradhapura District (25/14-204-00091)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

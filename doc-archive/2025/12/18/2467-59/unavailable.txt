@@ -1,0 +1,7 @@
+{
+  "doc_id": "2467-59",
+  "date": "2025-12-18",
+  "description": "Land Title Settlement Dept - udugama, Galigamuwa D/S/D, Kegalle Distrcit (25/14-204-00146)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

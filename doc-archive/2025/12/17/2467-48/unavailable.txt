@@ -1,0 +1,7 @@
+{
+  "doc_id": "2467-48",
+  "date": "2025-12-17",
+  "description": "Department of Local Government - Western Province - Appointed Chairman and Vice Chairman for the Seethawaka Pradeshiya Sabha",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

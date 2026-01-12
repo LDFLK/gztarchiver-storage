@@ -1,0 +1,7 @@
+{
+  "doc_id": "2467-44",
+  "date": "2025-12-16",
+  "description": "Land Title Settlement Dept - Kariwila, Hambantota D/S/D, Hambantota District (25/14-204-00221)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

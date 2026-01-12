@@ -1,0 +1,7 @@
+{
+  "doc_id": "2461-25",
+  "date": "2025-11-06",
+  "description": "Land Title Settlement Dept - T.R. Pathaberiya, Kuruvita D/S/D, Rathnapura District (25-14-204-00073)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

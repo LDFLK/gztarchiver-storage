@@ -1,7 +1,0 @@
-{
-  "doc_id": "2462-30",
-  "date": "2025-11-13",
-  "description": "Land Acquisition - Maragane, Panduwasnuwara East Division , Kurunegala District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

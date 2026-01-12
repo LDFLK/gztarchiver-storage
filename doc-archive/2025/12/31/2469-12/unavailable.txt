@@ -1,0 +1,7 @@
+{
+  "doc_id": "2469-12",
+  "date": "2025-12-31",
+  "description": "Department of Trade and Investment Policy - Special Commodity Levy Act, No. 48 of 2007 Order under Section 2 and 5",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}

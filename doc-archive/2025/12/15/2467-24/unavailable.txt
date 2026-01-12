@@ -1,0 +1,7 @@
+{
+  "doc_id": "2467-24",
+  "date": "2025-12-15",
+  "description": "Land Title Settlement Dept- Bakmigolla, Ibbagamuwa D/S/D, Kurunegala District (25/0474)",
+  "download_url": "N/A",
+  "availability": "Unavailable"
+}
