@@ -72,7 +72,6 @@ jobs:
             $(date --date="2 days ago" +'%Y-%m-%d')
             $(date --date="1 day ago" +'%Y-%m-%d')
             $(date +'%Y-%m-%d')
-            '2025-10-10'
           )
           
           for DATE in "${DATES[@]}"; do
@@ -84,7 +83,12 @@ jobs:
             gztarchiver --year $YEAR --month $MONTH --day $DAY --lang en --config config.yaml
             
             # Clean up metadata after each run to prevent issues
-            rm -rf metadata
+            if [ -d "meta_data" ]; then
+              echo "🧹 Removing metadata folder"
+              rm -rf meta_data
+            else
+              echo "ℹ️ No metadata directory found"
+            fi
           done
           
       - name: Clean up
