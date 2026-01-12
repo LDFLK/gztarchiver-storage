@@ -1,0 +1,11 @@
+{
+  "document_id": "2136-14",
+  "description": "Land Acquisition - Kaduruwela, Thamankaduwa D/S Division, Polonnaruwa District and Kendala, Hikkaduwa D/S Division, Galle District.",
+  "document_date": "2019-08-13",
+  "document_type": "Unknown",
+  "reasoning": "API request failed: HTTPSConnectionPool(host='eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev', port=443): Read timed out. (read timeout=30)",
+  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2019/08/13/2136-14",
+  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2019/08/13/2136-14/2136-14_english.pdf",
+  "source": "https://documents.gov.lk/view/extra-gazettes/2019/8/2136-14_E.pdf",
+  "availability": "Available"
+}
