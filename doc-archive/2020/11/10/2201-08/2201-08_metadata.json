@@ -1,0 +1,11 @@
+{
+  "document_id": "2201-08",
+  "description": "Consumer Affairs Authority - The Consumer Affairs Authority orders that no Importer, Distributor, Supplier or Trader shall sell, expose, officer or display for sale, or supply for sale the item above the maximum price given below. (Order No. 71)",
+  "document_date": "2020-11-10",
+  "document_type": "Unknown",
+  "reasoning": "API request failed: HTTPSConnectionPool(host='eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev', port=443): Read timed out. (read timeout=30)",
+  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2020/11/10/2201-08",
+  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2020/11/10/2201-08/2201-08_english.pdf",
+  "source": "https://documents.gov.lk/view/extra-gazettes/2020/11/2201-08_E.pdf",
+  "availability": "Available"
+}
