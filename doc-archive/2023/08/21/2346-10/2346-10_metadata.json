@@ -1,0 +1,11 @@
+{
+  "document_id": "2346-10",
+  "description": "Land Title Settlement Department - Budanapitiya, Kurunegala D/S Division, Kurunegala District - Cad. Map No. 83/55040(420356)",
+  "document_date": "2023-08-21",
+  "document_type": "Unknown",
+  "reasoning": "API request failed: 502 Server Error: Bad Gateway for url: https://eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev/sample/deep-seek/v1.0/v1/chat/completions",
+  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2023/08/21/2346-10",
+  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2023/08/21/2346-10/2346-10_english.pdf",
+  "source": "https://documents.gov.lk/view/extra-gazettes/2023/8/2346-10_E.pdf",
+  "availability": "Available"
+}
