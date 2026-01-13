@@ -1,0 +1,7 @@
+{
+  "doc_id": "2471-01",
+  "date": "2026-01-12",
+  "description": "Sri Lanka Customs - Rates of Exchange",
+  "download_url": "https://documents.gov.lk/view/extra-gazettes/2026/1/2471-01_E.pdf",
+  "availability": "Unavailable"
+}
