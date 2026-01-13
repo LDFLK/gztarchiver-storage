@@ -36,13 +36,14 @@ jobs:
           CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
           CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
         run: |
-          # Fetch new token using Basic Auth
-          NEW_TOKEN=$(curl -k -s -X POST https://api.asgardeo.io/t/lankadatafoundation/oauth2/token \
-            -d "grant_type=client_credentials" \
-            -H "Authorization: Basic $(echo -n $CONSUMER_KEY:$CONSUMER_SECRET | base64)" \
+          NEW_TOKEN=$(curl -k --http1.1 -s -X POST https://api.asgardeo.io/t/lankadatafoundation/oauth2/token \
+            -H "Authorization: Basic $(printf "%s" "$CONSUMER_KEY:$CONSUMER_SECRET" | base64 -w0)" \
+            -H "Content-Type: application/x-www-form-urlencoded" \
+            -d "grant_type=client_credentials&scope=default" \
           | jq -r .access_token)
-
+          
           echo "✅ New API token fetched"
+          echo "TOKEN: $NEW_TOKEN"
 
           # Update config.yaml: replace divert_deepseek_api_key
           python - <<EOF
@@ -53,13 +54,14 @@ jobs:
               cfg = yaml.safe_load(f)
 
           # Replace the token
-          cfg['credentials']['divert_deepseek_api_key'] = "$NEW_TOKEN"
+          cfg['credentials']['divert_deepseek_api_key'] = "${NEW_TOKEN}"
 
           # Write updated config
           with open("config.yaml", "w") as f:
               yaml.safe_dump(cfg, f, default_flow_style=False)
 
           print("✅ Config updated with new API token")
+          print("Updated")
           EOF
       
       - name: Archive four days of data
