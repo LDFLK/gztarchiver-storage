@@ -4,8 +4,8 @@
   "document_date": "2020-02-15",
   "document_type": "Unknown",
   "reasoning": "API request failed: HTTPSConnectionPool(host='eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev', port=443): Read timed out. (read timeout=30)",
-  "file_path": "https://github.com/LDFLK/gztarchiver-storage/blob/main/doc-archive/2020/02/15/2162-71/2162-71_english.pdf",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2020/02/15/2162-71/2162-71_english.pdf",
+  "file_path": "/doc-archive/2020/02/15/2162-71/2162-71_english.pdf",
+  "download_url": "/doc-archive/2020/02/15/2162-71/2162-71_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2020/2/2162-71_E.pdf",
   "availability": "Available"
 }
