@@ -187,6 +187,37 @@ jobs:
           $SUMMARY_TABLE
           
           ---
+
+          ## 📄 Document Usage Instructions
+
+          ### View Document Online
+
+          1. Get the `file_path` from the metadata object
+          2. Use this URL pattern to view on GitHub:
+
+          ```
+          https://github.com/{github-user}/{github-repository}/blob/{github-branch}/{file_path}
+          ```
+
+          **Example:**
+          ```
+          https://github.com/LDFLK/gztarchiver-storage/blob/main/doc-archive/2026/01/05/2470-06/2470-06_english.pdf
+          ```
+
+          ### Download Document
+
+          1. Get the `download_url` from the metadata object
+          2. Use this URL pattern to download the raw file:
+
+          ```
+          https://raw.githubusercontent.com/{github-user}/{github-repository}/{github-branch}/{file_path}
+          ```
+
+          **Example:**
+          ```
+          https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2026/01/05/2470-06/2470-06_english.pdf
+          ```
+          ---
           
           **Processing Schedule:** Daily at 20:00, Sri Lankan Time.
           
