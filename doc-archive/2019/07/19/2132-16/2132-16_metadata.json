@@ -4,8 +4,8 @@
   "document_date": "2019-07-19",
   "document_type": "Unknown",
   "reasoning": "API request failed: HTTPSConnectionPool(host='eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev', port=443): Max retries exceeded with url: /sample/deep-seek/v1.0/v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f45f10afc50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-  "file_path": "https://github.com/LDFLK/gztarchiver-storage/blob/main/doc-archive/2019/07/19/2132-16/2132-16_english.pdf",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2019/07/19/2132-16/2132-16_english.pdf",
+  "file_path": "/doc-archive/2019/07/19/2132-16/2132-16_english.pdf",
+  "download_url": "/doc-archive/2019/07/19/2132-16/2132-16_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2019/7/2132-16_E.pdf",
   "availability": "Available"
 }
