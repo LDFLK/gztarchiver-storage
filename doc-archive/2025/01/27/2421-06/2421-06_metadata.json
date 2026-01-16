@@ -1,11 +1,11 @@
 {
   "document_id": "2421-06",
-  "description": "Land Acquisition \u00e2\u20ac\u201c Homagama, Homagama D/S/ Division, Colombo District Order No.03 of 2025\nLand Acquisition \u00e2\u20ac\u201c Magammana, Homagama D/S/ Division, Colombo District. Section \u00e2\u20ac\u201c 38(a)",
+  "description": "Land Acquisition â€“ Homagama, Homagama D/S/ Division, Colombo District Order No.03 of 2025\nLand Acquisition â€“ Magammana, Homagama D/S/ Division, Colombo District. Section â€“ 38(a)",
   "document_date": "2025-01-27",
   "document_type": "Unknown",
   "reasoning": "API request failed: 404 Client Error: Not Found for url: https://eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev/sample/deep-seek/v1.0/v1/chat/completions",
-  "file_path": "https://github.com/LDFLK/gztarchiver-storage/blob/main/doc-archive/2025/01/27/2421-06/2421-06_english.pdf",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2025/01/27/2421-06/2421-06_english.pdf",
+  "file_path": "/doc-archive/2025/01/27/2421-06/2421-06_english.pdf",
+  "download_url": "/doc-archive/2025/01/27/2421-06/2421-06_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2025/1/2421-06_E.pdf",
   "availability": "Available"
 }
