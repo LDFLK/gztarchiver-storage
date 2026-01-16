@@ -4,8 +4,8 @@
   "document_date": "2015-07-21",
   "document_type": "Unknown",
   "reasoning": "API request failed: 502 Server Error: Bad Gateway for url: https://eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev/sample/deep-seek/v1.0/v1/chat/completions",
-  "file_path": "https://github.com/LDFLK/gztarchiver-storage/blob/main/doc-archive/2015/07/21/1924-22/1924-22_english.pdf",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2015/07/21/1924-22/1924-22_english.pdf",
+  "file_path": "/doc-archive/2015/07/21/1924-22/1924-22_english.pdf",
+  "download_url": "/doc-archive/2015/07/21/1924-22/1924-22_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2015/7/1924-22_E.pdf",
   "availability": "Available"
 }
