@@ -209,6 +209,7 @@ jobs:
           1. Get the `download_url` from the metadata object
           2. Use this URL pattern to download the raw file:
 
+          #### Option 1
           ```
           https://raw.githubusercontent.com/{github-user}/{github-repository}/{github-branch}/{file_path}
           ```
@@ -216,6 +217,16 @@ jobs:
           **Example:**
           ```
           https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2026/01/05/2470-06/2470-06_english.pdf
+          ```
+
+          #### Option 2
+          ```
+          https://github.com/{github-user}/{github-repository}/blob/{github-branch}/{file_path}?raw=true
+          ```
+
+          **Example:**
+          ```
+          https://github.com/LDFLK/gztarchiver-storage/blob/main/doc-archive/2026/01/05/2470-06/2470-06_english.pdf?raw=true
           ```
           ---
           
