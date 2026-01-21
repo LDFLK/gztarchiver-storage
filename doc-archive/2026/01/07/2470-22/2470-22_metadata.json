@@ -3,9 +3,8 @@
   "description": "Election Commission - Filling of a Vacancy in the Office of member of the Dehiowita Pradheshiya Sabha",
   "document_date": "2026-01-07",
   "document_type": "ELECTIONS",
-  "reasoning": "The gazette content is specifically about filling a vacancy in a local government body (Dehiowita Pradeshiya Sabha) due to a member's absence, as per the Local Authorities Elections Ordinance. It details the process of nomination by a political party and the official declaration by the returning officer. This falls squarely under electoral processes and the administration of local authority elections, making it an **Elections Gazette (Type 7)**.",
-  "file_path": "https://ldflk.github.io/gztarchiver-storage/doc-archive/2026/01/07/2470-22/2470-22_english.pdf",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2026/01/07/2470-22/2470-22_english.pdf",
+  "categorisation": "The gazette content is specifically about filling a vacancy in a local government body (Dehiowita Pradeshiya Sabha) due to a member's absence, as per the Local Authorities Elections Ordinance. It details the process of nomination by a political party and the official declaration by the returning officer. This falls squarely under electoral processes and the administration of local authority elections, making it an **Elections Gazette (Type 7)**.",
+  "file_path": "/doc-archive/2026/01/07/2470-22/2470-22_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2026/1/2470-22_E.pdf",
   "availability": "Available"
 }

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2469-37",
-  "date": "2026-01-04",
-  "description": "Land Acquisition - Ettampitiya, Haliela D/S/D, Badulla District (Section 05)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
