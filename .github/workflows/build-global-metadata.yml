@@ -1,0 +1,92 @@
+name: Build Global Metadata
+
+permissions:
+  contents: write  
+
+on:
+  push:
+    paths:
+      - "doc-archive/**/*_metadata.json"  
+  workflow_dispatch:                        
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Merge metadata
+        run: |
+          python3 - <<'EOF'
+          import json
+          from pathlib import Path
+
+          DOC_DIR = Path("doc-archive")
+          OUT_FILE = Path("metadata/global_metadata.json")
+
+          # Load existing global metadata
+          if OUT_FILE.exists():
+              with open(OUT_FILE, "r") as f:
+                  global_meta_list = json.load(f)
+          else:
+              global_meta_list = []
+
+          # Helper: find object in list by file path (unique key)
+          def find_existing(global_list, path):
+              for i, obj in enumerate(global_list):
+                  if obj.get("file_path") == path:
+                      return i
+              return None
+
+          # Walk through all *_metadata.json files in doc-archive, sorted by year folder + filename
+          for metadata_file in sorted(DOC_DIR.rglob("*_metadata.json")):
+              with open(metadata_file, "r") as f:
+                  data = json.load(f)
+
+                  # store relative path temporarily to detect updates
+                  data["file_path"] = str(metadata_file)
+
+                  # Check if this file already exists
+                  idx = find_existing(global_meta_list, str(metadata_file))
+                  if idx is not None:
+                      global_meta_list[idx] = data
+                  else:
+                      global_meta_list.append(data)
+
+          # Sort by document_date
+          def parse_date(obj):
+              date = obj.get("document_date", "")
+              return date or "0000-00-00"
+
+          global_meta_list.sort(key=parse_date)
+
+          # Remove temporary file_path before writing final JSON
+          for obj in global_meta_list:
+              obj.pop("file_path", None)
+
+          # Ensure output folder exists
+          OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+
+          # Write final global metadata
+          with open(OUT_FILE, "w") as f:
+              json.dump(global_meta_list, f, indent=2)
+
+          print(f"✅ global_metadata.json updated: {len(global_meta_list)} items")
+          EOF
+
+      - name: Commit and push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add metadata/global_metadata.json
+          git commit -m "Update global metadata" || echo "No changes to commit"
+          git push
