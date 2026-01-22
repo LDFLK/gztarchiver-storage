@@ -1,7 +1,0 @@
-{
-  "doc_id": "2329-06",
-  "date": "2023-04-24",
-  "description": "Land Title Settlement Department - Maththegoda, Homagama D/S Division, Colombo District - Cad. Map No. 520008 (7588)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

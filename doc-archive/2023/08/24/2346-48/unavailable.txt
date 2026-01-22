@@ -1,7 +1,0 @@
-{
-  "doc_id": "2346-48",
-  "date": "2023-08-24",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between Y. V. De Alwis, Kelaniya and Other Part Sri Lanka Board Casting Co-operation Colombo 07 - The Industrial Disputes between I. M. P. Ilangasinha Kegalla and Other Part Sri Lanka Mahaweli Authority Colombo 08",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

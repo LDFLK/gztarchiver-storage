@@ -1,7 +1,0 @@
-{
-  "doc_id": "2337-06",
-  "date": "2023-06-19",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between R. A. Kumararayaka Gowinna, and other part Sri Lanka Higher Technical Education Institute, Colombo 10 - The Industrial Disputes between H. K. K. Hinatigala, Megoda and other part Urban Development Authority Battaramulla (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

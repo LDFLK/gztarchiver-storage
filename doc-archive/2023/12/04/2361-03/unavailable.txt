@@ -1,7 +1,0 @@
-{
-  "doc_id": "2361-03",
-  "date": "2023-12-04",
-  "description": "Ministry of Labour and Foreign Employment - Lanka Security Service Union Piliyandala and other part Sri Lanka Mahaweli Authority Colombo 10 (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

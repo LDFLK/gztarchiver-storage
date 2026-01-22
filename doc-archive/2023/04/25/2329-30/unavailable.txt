@@ -1,7 +1,0 @@
-{
-  "doc_id": "2329-30",
-  "date": "2023-04-25",
-  "description": "Land Title Settlement Department - Maha Hagoda, Rathgama D/S Division, Galle District - Cad. Map No. 810140 (23/0088)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

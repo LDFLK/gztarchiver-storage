@@ -1,7 +1,0 @@
-{
-  "doc_id": "2341-04",
-  "date": "2023-07-17",
-  "description": "Ministry of Labour and Foreign Employement - The Industrial disputes between \"Meedaya Ceramic Company (Pvt.) Ltd.\" Pannipitiya and other part Inter Company Employees Union Dehiwala - The Industrial disputes between Royal Ceramic Lanka PLC Horana and other part Inter company Employees Union Dehiwala (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

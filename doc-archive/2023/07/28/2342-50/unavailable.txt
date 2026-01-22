@@ -1,7 +1,0 @@
-{
-  "doc_id": "2342-50",
-  "date": "2023-07-28",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial Dispute between Sri Lanka Broadcasting Cooperation and Other Part Sri Lanka Broadcasting Technical Officers Union Colombo 07 - Industrial Disputes between H. K. K. Henetigala Meegoda and Other Part Urban development Authority Battaramulla",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

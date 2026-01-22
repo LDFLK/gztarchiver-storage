@@ -1,7 +1,0 @@
-{
-  "doc_id": "2344-14",
-  "date": "2023-08-07",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between Association of Water Treatment Plant Technicians Ratmalana and other Part National Water Supply and Drainage Board Ratmalana Extra Gaz. No. 2315/68 dated 21.01.2023 Amended",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

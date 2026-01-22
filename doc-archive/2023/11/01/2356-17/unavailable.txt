@@ -1,7 +1,0 @@
-{
-  "doc_id": "2356-17",
-  "date": "2023-11-01",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between S. Ranasingha Ragama and other part Sri Lanka Transport Board Colombo 05 - The Industrial Disputes between C. Wijekoon Badulla and other part Sri Lanka Transport Board",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

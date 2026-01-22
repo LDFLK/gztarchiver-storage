@@ -1,7 +1,0 @@
-{
-  "doc_id": "2338-38",
-  "date": "2023-06-28",
-  "description": "Land Acquisition - Moratuwa, Mawathagama D/S Division, Kurugegala District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

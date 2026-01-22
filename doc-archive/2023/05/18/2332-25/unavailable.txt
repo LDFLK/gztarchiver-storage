@@ -1,7 +1,0 @@
-{
-  "doc_id": "2332-25",
-  "date": "2023-05-18",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial Dispute between N. Senarath No. 125/5, Kelaniya and other part Regional Development Bank Kelaniya",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

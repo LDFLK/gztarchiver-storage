@@ -1,7 +1,0 @@
-{
-  "doc_id": "2339-04",
-  "date": "2023-07-04",
-  "description": "Central Bank of Sri Lanka - Reserved",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2326-13",
-  "date": "2023-04-03",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial disputes between K. P. Pemasiri Kahaduwa, B. A. D. Jayantha, Pannipitiya and other part Royal Colombo Golf Club, Colombo 08 - The Industrial disputes between H. M. R. Kumaratunga, Monaragala and other part Sri Lanka Transport Board, Colombo 05",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

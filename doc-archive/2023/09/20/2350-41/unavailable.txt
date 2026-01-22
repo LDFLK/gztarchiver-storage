@@ -1,7 +1,0 @@
-{
-  "doc_id": "2350-41",
-  "date": "2023-09-20",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between D. R. S. Perera No. 21 Dehiwala and other part Sri Lanka National Film Corporation Colombo 07 - The Industrial Disputes between W. K. A. Indumathi Kahathuduwa and other part Sri Lanka Foreign Bureau Battaramulla (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

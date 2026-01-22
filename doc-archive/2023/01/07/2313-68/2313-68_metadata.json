@@ -2,10 +2,9 @@
   "document_id": "2313-68",
   "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between H. M. W. Abeyrathna No. 90 Matale and other Part Sri Lanka Transport Board Colombo 5 - The Industrial Disputes between M. S. M. Huseni Colombo 13 and other Part Sri Lanka Ports Authorities Colombo 01",
   "document_date": "2023-01-07",
-  "document_type": "Unknown",
-  "reasoning": "API request failed: 404 Client Error: Not Found for url: https://eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev/sample/deep-seek/v1.0/v1/chat/completions",
+  "document_type": "NOT CATEGORISED",
+  "categorisation": "Uncategorised as of - 2026-01-22 14:36 UTC.",
   "file_path": "/doc-archive/2023/01/07/2313-68/2313-68_english.pdf",
-  "download_url": "/doc-archive/2023/01/07/2313-68/2313-68_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2023/1/2313-68_E.pdf",
   "availability": "Available"
 }

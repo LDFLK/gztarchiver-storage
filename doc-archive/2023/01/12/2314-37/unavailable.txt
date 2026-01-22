@@ -1,7 +1,0 @@
-{
-  "doc_id": "2314-37",
-  "date": "2023-01-12",
-  "description": "Ministry of Labour and Foreign Employment - United Trade Services Union Colombo 02 and other part Ceylon Lether Products, Balummahara, Mudungoda",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

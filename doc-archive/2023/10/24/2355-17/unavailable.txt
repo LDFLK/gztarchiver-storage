@@ -1,7 +1,0 @@
-{
-  "doc_id": "2355-17",
-  "date": "2023-10-24",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial disputes between R. Y. G. S. Gayan Yapa Colombo 12 and other part State Plantation Corporation Colombo 12 (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

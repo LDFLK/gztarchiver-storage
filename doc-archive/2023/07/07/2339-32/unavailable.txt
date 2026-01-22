@@ -1,7 +1,0 @@
-{
-  "doc_id": "2339-32",
-  "date": "2023-07-07",
-  "description": "Ministry of Investment Promotion - \"This Gazette Extraordinary has been Cancelled\" The Colombo Port City (Guidelines on the Grant of Exceptions or Incentives to Businesses of Strategic Importance) Regulations No 01 of 2023",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

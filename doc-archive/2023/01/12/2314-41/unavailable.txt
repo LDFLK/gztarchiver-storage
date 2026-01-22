@@ -1,7 +1,0 @@
-{
-  "doc_id": "2314-41",
-  "date": "2023-01-12",
-  "description": "Elections Commission - Local Authority Elections - 2023, Appoint Assistant Returning Officers for the Administrative District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

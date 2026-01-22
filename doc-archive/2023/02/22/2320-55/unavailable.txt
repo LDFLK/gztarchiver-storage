@@ -1,7 +1,0 @@
-{
-  "doc_id": "2320-55",
-  "date": "2023-02-22",
-  "description": "Ministry of Labour - The Industrial Dispute between Cane Research Institute Thaksana Seva Neladari Sangamaya, Udawalawa and other part Cane Research Institute, Udawalawa (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

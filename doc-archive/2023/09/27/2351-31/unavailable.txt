@@ -1,7 +1,0 @@
-{
-  "doc_id": "2351-31",
-  "date": "2023-09-27",
-  "description": "Divisional Secretariate - Bamunakotuwa - Esala Festival of Gonnava Sri Vishnu Maha Devalaya - 2023",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

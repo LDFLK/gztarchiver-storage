@@ -1,7 +1,0 @@
-{
-  "doc_id": "2355-63",
-  "date": "2023-10-27",
-  "description": "Election Commission - Registration of Elector's Act, No. 9(3) Registration District - Colombo, Vanni, Batticaloa, Digamadulla, Trinco and Rathnapura",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
