@@ -1,7 +1,0 @@
-{
-  "doc_id": "2040-17",
-  "date": "2017-10-12",
-  "description": "Reserved  for Presidential Secretariat",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

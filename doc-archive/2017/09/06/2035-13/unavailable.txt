@@ -1,7 +1,0 @@
-{
-  "doc_id": "2035-13",
-  "date": "2017-09-06",
-  "description": "Land Acquisition - Karagahawela and Pallemallehewa, Bibila D/S Division, Monaragala District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2034-22",
-  "date": "2017-08-30",
-  "description": "Land Acquisition - Olaboduwa and Thalagala D/S Division, Horana, Kalutara District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

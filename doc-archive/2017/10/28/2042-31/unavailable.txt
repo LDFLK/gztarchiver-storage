@@ -1,7 +1,0 @@
-{
-  "doc_id": "2042-31",
-  "date": "2017-10-28",
-  "description": "Land Acquisition - Thanabaddegama, Welivitiya-Divitura D/S Division, Galle District - Sagabogama, Udunuwara D/S Division, Kandy District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

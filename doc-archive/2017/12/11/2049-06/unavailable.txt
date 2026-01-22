@@ -1,7 +1,0 @@
-{
-  "doc_id": "2049-06",
-  "date": "2017-12-11",
-  "description": "Land Acquisition - Weddagala, Kalawana D/S Division, Rathnapura District and 3 other notices (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

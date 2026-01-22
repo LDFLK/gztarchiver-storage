@@ -1,7 +1,0 @@
-{
-  "doc_id": "2043-15",
-  "date": "2017-10-30",
-  "description": "Land Acquisition - Mapalana, Kamburupitiya D/S Division, Matara District, Madawalamulla-South, Kadawath Sathara D/S Division, Galle District, Naotunna, Devinuwara D/S Division, Matara District and Naiwala , Minuwangoda DS Division, Gampaha Distric",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

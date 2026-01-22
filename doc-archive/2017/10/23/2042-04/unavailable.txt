@@ -1,7 +1,0 @@
-{
-  "doc_id": "2042-04",
-  "date": "2017-10-23",
-  "description": "Land Acquisition - Aluthwela, Badulla D/S Division, Badulla District - Welikada Sri Jayawardenapura D/S Division, Colombo District - Golahela, Kegalle D/S Division,  Kegalle District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

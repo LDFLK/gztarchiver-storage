@@ -3,9 +3,8 @@
   "description": "Department of Census & Statistics - National Consumer Price Index for the month of January, 2017",
   "document_date": "2017-02-22",
   "document_type": "ORGANISATIONAL",
-  "reasoning": "This gazette notification announces the National Consumer Price Index figure for January 2017, as computed by the Department of Census and Statistics. It does not involve government structure/personnel (Types 1-3) and does not fit any of the specialized categories (land, legal, commercial, elections, public service, or judicial). The content is a statistical announcement related to economic data, which falls under general administrative matters not covered by the other categories, making it Miscellaneous (Type 10).",
+  "categorisation": "This gazette notification announces the National Consumer Price Index figure for January 2017, as computed by the Department of Census and Statistics. It does not involve government structure/personnel (Types 1-3) and does not fit any of the specialized categories (land, legal, commercial, elections, public service, or judicial). The content is a statistical announcement related to economic data, which falls under general administrative matters not covered by the other categories, making it Miscellaneous (Type 10).",
   "file_path": "/doc-archive/2017/02/22/2007-36/2007-36_english.pdf",
-  "download_url": "/doc-archive/2017/02/22/2007-36/2007-36_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2017/2/2007-36_E.pdf",
   "availability": "Available"
 }

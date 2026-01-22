@@ -1,7 +1,0 @@
-{
-  "doc_id": "2032-35",
-  "date": "2017-08-18",
-  "description": "Ministry of Labour Trade Union Relations and Sabaragamuwa Development -  The award made for the Industrial Dispute between  W. A. D. L. A. F. Perera Mawaiththara Piliyandala and the other part Colombo Commercial Company (Engineering) Ltd., Colombo 8",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

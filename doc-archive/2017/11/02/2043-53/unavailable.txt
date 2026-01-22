@@ -1,7 +1,0 @@
-{
-  "doc_id": "2043-53",
-  "date": "2017-11-02",
-  "description": "Land Acquisition - Cancellation of the Gaz. Ex. No. 1885/51 of 2014.10.24, Godakawela D/S Division - Amendment to the Gaz. Ex. No. 1990/19 of 26.10.2016, Rambukkana D/S Division, Kegalle District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

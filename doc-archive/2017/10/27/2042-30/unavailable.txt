@@ -1,7 +1,0 @@
-{
-  "doc_id": "2042-30",
-  "date": "2017-10-27",
-  "description": "Land Acquisition - Haandupalpola, Horana D/S Division, Kalutara District (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

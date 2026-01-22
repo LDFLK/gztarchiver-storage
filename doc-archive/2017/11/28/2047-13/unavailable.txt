@@ -1,7 +1,0 @@
-{
-  "doc_id": "2047-13",
-  "date": "2017-11-28",
-  "description": "Land Acquisition - Nakiyadeniya, Yakkalamulla D/S Division, Galle District - Reelpola, Badulla D/S Division, Badulla District - Katuwangoda, Malimbada D/S Division, Matara District (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

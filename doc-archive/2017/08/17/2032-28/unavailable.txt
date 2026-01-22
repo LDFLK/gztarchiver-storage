@@ -1,7 +1,0 @@
-{
-  "doc_id": "2032-28",
-  "date": "2017-08-17",
-  "description": "Land Acquisition - Olaboduwa, Horana D/S Division, Kaluthara District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

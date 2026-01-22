@@ -1,7 +1,0 @@
-{
-  "doc_id": "2050-12",
-  "date": "2017-12-20",
-  "description": "Norther Province Provincial Council - Northern Province Supplementary Provision for Appropriation Statute, No. 10 of 2017",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

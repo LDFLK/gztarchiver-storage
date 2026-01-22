@@ -1,7 +1,0 @@
-{
-  "doc_id": "2050-46",
-  "date": "2017-12-22",
-  "description": "Land Acquisition - Dodamgolla, Pitagahagedara Sthreepuragedara, Ella D/S Division, Badulla District, Badulla District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

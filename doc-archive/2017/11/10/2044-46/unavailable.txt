@@ -1,7 +1,0 @@
-{
-  "doc_id": "2044-46",
-  "date": "2017-11-10",
-  "description": "Land Acquisition - Galbadagama, Polgahawela, Kurunegala District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

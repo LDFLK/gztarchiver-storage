@@ -1,7 +1,0 @@
-{
-  "doc_id": "2049-12",
-  "date": "2017-12-12",
-  "description": "Land Acquisition - Kirindigala, Balangoda D/S Division, Rathnapura District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

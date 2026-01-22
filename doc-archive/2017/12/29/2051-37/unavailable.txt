@@ -1,7 +1,0 @@
-{
-  "doc_id": "2051-37",
-  "date": "2017-12-29",
-  "description": "Land Acquisition - Boyagane,  Kurunegala D/S Division, Kurunegala  District and three other notices in Kandy, Colombo, Hambanthota",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

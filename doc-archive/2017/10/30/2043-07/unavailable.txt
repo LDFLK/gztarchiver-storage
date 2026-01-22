@@ -1,7 +1,0 @@
-{
-  "doc_id": "2043-07",
-  "date": "2017-10-30",
-  "description": "Ministry of Labour, Trade Union Relations - The Collective Agreements, entered into between ; Perera & Sons Bakers (Pvt) Ltd., & the Folld Beverages & Tobacco Industries Employees Union, Asian Paints (Lanka) Ltd., and All Ceylon Commercial & Industrial Workers Union, Finlays Properties (Pvt) Ltd., and the Food, Beverages & Tobacco Industries Employees Union",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

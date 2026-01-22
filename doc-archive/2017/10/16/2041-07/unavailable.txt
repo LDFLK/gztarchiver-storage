@@ -1,7 +1,0 @@
-{
-  "doc_id": "2041-07",
-  "date": "2017-10-16",
-  "description": "Land Acquisition - Atulugama, Dehiowita D/S Division, Kegalle District and two other acquirements and Amendment to the Gaz. Ex. No. 1886/48 of 30.10.2014 by the Ministry of Lands (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

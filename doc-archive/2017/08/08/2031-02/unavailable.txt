@@ -1,7 +1,0 @@
-{
-  "doc_id": "2031-02",
-  "date": "2017-08-08",
-  "description": "Land Acquisition - Order to acquire the land in Matugobe Kotapola D/S Division, Matara District  - Egoda Kolonnawa Kolonnawa  D/S Division, Colombo District - Aththanagoda, Mawanella D/S DIvision, Kegalle District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2050-04",
-  "date": "2017-12-18",
-  "description": "Land Acquisition - Madawalamulla & Dangedara, Galle Four Gravets D/S Division, Galle District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

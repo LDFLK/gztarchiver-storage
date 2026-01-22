@@ -1,7 +1,0 @@
-{
-  "doc_id": "2047-41",
-  "date": "2017-11-30",
-  "description": "Central Bank of Sri Lanka - Balance sheet as at 31.10.2017",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

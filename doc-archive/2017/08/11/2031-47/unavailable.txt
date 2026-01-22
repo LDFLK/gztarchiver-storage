@@ -1,7 +1,0 @@
-{
-  "doc_id": "2031-47",
-  "date": "2017-08-11",
-  "description": "Land Acquisition - Gonapeenuwala-West, D/S Division, Gonapeenuwala, Galle District and Udumulla, Balangoda D/S Division, Ratnapura District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

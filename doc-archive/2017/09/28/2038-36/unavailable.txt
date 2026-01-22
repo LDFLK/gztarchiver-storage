@@ -1,7 +1,0 @@
-{
-  "doc_id": "2038-36",
-  "date": "2017-09-28",
-  "description": "Ministry of Labour, Trade Union Relations & Sabaragamuwa Development - Award made to the Industrial Dispute between R. P. Ashoka Rajapaksha and State Engineering Co-operation (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

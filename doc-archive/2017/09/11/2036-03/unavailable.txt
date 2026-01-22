@@ -1,7 +1,0 @@
-{
-  "doc_id": "2036-03",
-  "date": "2017-09-11",
-  "description": "Land Acquisition  - Kedelpitiya Horana D/S Division, Kalutara District - Mahawela, Harliela D/S Division, Badulla District  - Wadigune, Badulla D/S Division,  Badulla District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

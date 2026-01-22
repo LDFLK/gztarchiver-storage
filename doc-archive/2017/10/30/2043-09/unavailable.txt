@@ -1,7 +1,0 @@
-{
-  "doc_id": "2043-09",
-  "date": "2017-10-30",
-  "description": "Ministry of Labour, Trade Union Relations - Notification that rejecting the decision of  Arbitrator to the Industrial Disputes between M. N. Fernando & the Sri Lanka Electricity Company (Pvt) Ltd., and between W. D. V.. Harischandra & the Chillow Plantation Company",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

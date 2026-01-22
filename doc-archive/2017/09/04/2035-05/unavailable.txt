@@ -1,7 +1,0 @@
-{
-  "doc_id": "2035-05",
-  "date": "2017-09-04",
-  "description": "Land Acquisition - Arawwala, Kesbewa D/S Division, Colombo District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
