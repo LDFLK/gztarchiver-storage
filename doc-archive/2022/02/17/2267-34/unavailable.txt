@@ -1,7 +1,0 @@
-{
-  "doc_id": "2267-34",
-  "date": "2022-02-17",
-  "description": "Reserved for Department of Fiscal Policy",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

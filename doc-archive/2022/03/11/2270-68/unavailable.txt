@@ -1,7 +1,0 @@
-{
-  "doc_id": "2270-68",
-  "date": "2022-03-11",
-  "description": "Ministry of Labour - Award to the Industrial Dispute between M. K. D. Manoj Gunaruwan and R. Menikgamaarchchi Vs. National Water Supply and Drainage Board (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

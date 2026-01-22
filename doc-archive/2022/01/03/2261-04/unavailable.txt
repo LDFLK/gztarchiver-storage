@@ -1,7 +1,0 @@
-{
-  "doc_id": "2261-04",
-  "date": "2022-01-03",
-  "description": "Department of Local Government - North Western Province - Removal of the Chairman of the Wariyapola Pradeshiya Sabha",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

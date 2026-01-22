@@ -1,7 +1,0 @@
-{
-  "doc_id": "2312-33",
-  "date": "2022-12-28",
-  "description": "\"This Gazette Extraordinary has been cancelled\" - Elections Commission - The Political Parties that are considered at Present as recognized Political Parties for the purposes of Elections. Amendment Gaz. Published under No. 2315/05, dated 2023.01.16",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

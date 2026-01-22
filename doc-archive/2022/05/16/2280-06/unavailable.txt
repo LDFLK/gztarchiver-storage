@@ -1,7 +1,0 @@
-{
-  "doc_id": "2280-06",
-  "date": "2022-05-16",
-  "description": "Land Title Settlement Department - Ulpathwewa (Block 04) Hingurakgoda D/S Division, Polonnaruwa District - Cad. Map No. 120017",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2279-07",
-  "date": "2022-05-09",
-  "description": "Ministry of Labour - Industrial dispute between B. Rajamuni, Eksath Weladaseva Sevaka Sangamaya & Other parts State Timber Corporations (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

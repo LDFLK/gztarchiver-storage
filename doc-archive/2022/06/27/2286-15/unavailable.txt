@@ -1,7 +1,0 @@
-{
-  "doc_id": "2286-15",
-  "date": "2022-06-27",
-  "description": "Ministry of Labour - Award made to the Industrial Dispute between H. T. M. Thushanthi Vs Chater house International (Private) Limited",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

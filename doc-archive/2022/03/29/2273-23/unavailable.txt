@@ -1,7 +1,0 @@
-{
-  "doc_id": "2273-23",
-  "date": "2022-03-29",
-  "description": "Land Title Settlement Department - Ikiriyagoda, Redeemaliyadda D/S Division, Badulla District - Cad. Map No. 710031",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

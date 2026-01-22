@@ -1,7 +1,0 @@
-{
-  "doc_id": "2294-72",
-  "date": "2022-08-27",
-  "description": "Ministry of Labour - The Industrial Disputes between Mr. H. S. L. Perera Vs. Bata Shoe Company of Ceylon Limited - Mr. NandanaSenarath Vs. Regional Development Bank (S & E only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

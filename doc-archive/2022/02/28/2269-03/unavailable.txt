@@ -1,7 +1,0 @@
-{
-  "doc_id": "2269-03",
-  "date": "2022-02-28",
-  "description": "District Secretariat - Jaffna - The Pilgrimages (Jaffna District) Regulation - 1951",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

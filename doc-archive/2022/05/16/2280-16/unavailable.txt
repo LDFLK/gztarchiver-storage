@@ -1,7 +1,0 @@
-{
-  "doc_id": "2280-16",
-  "date": "2022-05-16",
-  "description": "Land Title Settlement Department - Madithiyawala, Divulapitiya D/S Division, Gampaha District - Cad. Map No. 510022",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

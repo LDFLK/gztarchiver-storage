@@ -1,7 +1,0 @@
-{
-  "doc_id": "2294-64",
-  "date": "2022-08-26",
-  "description": "Ministry of Labour - The Industrial Disputes between Samastha Lanka Motor Sevaka Samithiya Vs. Sri Lanka Transport Board (E only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

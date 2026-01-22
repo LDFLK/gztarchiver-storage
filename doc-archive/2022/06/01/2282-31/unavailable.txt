@@ -1,7 +1,0 @@
-{
-  "doc_id": "2282-31",
-  "date": "2022-06-01",
-  "description": "Land Title Settlement Department - Pothupitiya, Kalutara D/S Division, Kalutara District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

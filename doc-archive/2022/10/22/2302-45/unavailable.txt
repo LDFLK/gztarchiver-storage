@@ -1,7 +1,0 @@
-{
-  "doc_id": "2302-45",
-  "date": "2022-10-22",
-  "description": "Land Title Settlement Department - Dewata, Four Gravets Galle D/S Division, Galle District - Cad. Map No. 810014",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2307-65",
-  "date": "2022-11-25",
-  "description": "Land Acquisition - Angammana, Udapalatha D/S Division, Kandy District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

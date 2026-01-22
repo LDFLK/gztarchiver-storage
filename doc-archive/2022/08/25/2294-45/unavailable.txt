@@ -1,7 +1,0 @@
-{
-  "doc_id": "2294-45",
-  "date": "2022-08-25",
-  "description": "Ministry of Labour and Foreign Employees - The Industrial Disputes between S. Priyani Malkanthi Marthinu Vs. Land Reforms Commission - Mihin Lanka Employees Union, Ragama Vs. Mihin Lanka (Private) Limited, Colombo 02 (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

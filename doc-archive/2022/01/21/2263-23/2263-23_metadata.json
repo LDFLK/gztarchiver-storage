@@ -3,9 +3,8 @@
   "description": "Election Commission - Lists the Orders Issued for Recognition as a Political Party, Parliamentary Elections",
   "document_date": "2022-01-21",
   "document_type": "ELECTIONS",
-  "reasoning": "This gazette content specifically deals with electoral processes, specifically the criteria and requirements for political party recognition under the Parliamentary Elections Act. It contains a notice from the Commissioner General of Elections and detailed criteria for political party registration, which falls squarely under the Elections category (Type 7) as it involves electoral commission decisions and party registration matters.",
+  "categorisation": "This gazette content specifically deals with electoral processes, specifically the criteria and requirements for political party recognition under the Parliamentary Elections Act. It contains a notice from the Commissioner General of Elections and detailed criteria for political party registration, which falls squarely under the Elections category (Type 7) as it involves electoral commission decisions and party registration matters.",
   "file_path": "/doc-archive/2022/01/21/2263-23/2263-23_english.pdf",
-  "download_url": "/doc-archive/2022/01/21/2263-23/2263-23_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2022/1/2263-23_E.pdf",
   "availability": "Available"
 }

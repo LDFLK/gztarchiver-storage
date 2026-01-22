@@ -1,7 +1,0 @@
-{
-  "doc_id": "2312-42",
-  "date": "2022-12-29",
-  "description": "Land Acquisition - Daluwela, Yatawatta D/S Division, Matale District - Wattarantenna, Four Gravets and Gangawata Korale D/S Division, Kandy District.",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

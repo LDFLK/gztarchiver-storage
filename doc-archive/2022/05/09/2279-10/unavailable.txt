@@ -1,7 +1,0 @@
-{
-  "doc_id": "2279-10",
-  "date": "2022-05-09",
-  "description": "Governor of Uva Province - Governor of Uva Province A. J. M. Mussammil has relocated of Kataragama Pradeshiya Sabha from 09.05.2022 Mid Night",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

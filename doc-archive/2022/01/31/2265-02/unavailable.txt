@@ -1,7 +1,0 @@
-{
-  "doc_id": "2265-02",
-  "date": "2022-01-31",
-  "description": "Central Bank of Sri Lanka - Balance sheet as at 31st December 2021",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

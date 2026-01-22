@@ -1,7 +1,0 @@
-{
-  "doc_id": "2289-31",
-  "date": "2022-07-20",
-  "description": "Ministry of Labour - Industrial Dispute between Mr. G. G. Nimal ranatunga Vs Sri Lanka Transport Board",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

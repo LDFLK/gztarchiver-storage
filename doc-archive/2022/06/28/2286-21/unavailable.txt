@@ -1,7 +1,0 @@
-{
-  "doc_id": "2286-21",
-  "date": "2022-06-28",
-  "description": "Buthtala Prade - Standers by Laws",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

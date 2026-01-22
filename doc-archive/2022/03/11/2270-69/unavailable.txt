@@ -1,7 +1,0 @@
-{
-  "doc_id": "2270-69",
-  "date": "2022-03-11",
-  "description": "Ministry of Labour - Award made to the Industrial Dispute between D. P. N. K. Janaranjana Peries Vs. ITN Rupavahini Service (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

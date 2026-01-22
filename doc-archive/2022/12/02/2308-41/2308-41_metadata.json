@@ -2,10 +2,9 @@
   "document_id": "2308-41",
   "description": "Land Title Settlement Department - Ruwanpura, Kothmale D/S Division, Nuwara Eliya District - Cad. Map No. 330306",
   "document_date": "2022-12-02",
-  "document_type": "Unknown",
-  "reasoning": "API request failed: 404 Client Error: Not Found for url: https://eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev/sample/deep-seek/v1.0/v1/chat/completions",
+  "document_type": "NOT CATEGORISED",
+  "categorisation": "Uncategorised as of - 2026-01-22 14:47 UTC.",
   "file_path": "/doc-archive/2022/12/02/2308-41/2308-41_english.pdf",
-  "download_url": "/doc-archive/2022/12/02/2308-41/2308-41_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2022/12/2308-41_E.pdf",
   "availability": "Available"
 }

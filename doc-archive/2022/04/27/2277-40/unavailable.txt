@@ -1,7 +1,0 @@
-{
-  "doc_id": "2277-40",
-  "date": "2022-04-27",
-  "description": "Ministry of Labour - The Iudustrial Disputes  between Mr. C. D. Thilakaratne Vs Lumiyar Textiles (Private) Limited",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

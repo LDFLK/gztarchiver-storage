@@ -2,10 +2,9 @@
   "document_id": "2312-21",
   "description": "Land Title Settlement Dept. - Mailawalana, Dompe D/S Division, Gampaha District - Cad. Map No. 511000 (22/602)",
   "document_date": "2022-12-28",
-  "document_type": "Unknown",
-  "reasoning": "API request failed: 403 Client Error: Forbidden for url: https://eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev/sample/deep-seek/v1.0/v1/chat/completions",
+  "document_type": "NOT CATEGORISED",
+  "categorisation": "Uncategorised as of - 2026-01-22 14:47 UTC.",
   "file_path": "/doc-archive/2022/12/28/2312-21/2312-21_english.pdf",
-  "download_url": "/doc-archive/2022/12/28/2312-21/2312-21_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2022/12/2312-21_E.pdf",
   "availability": "Available"
 }

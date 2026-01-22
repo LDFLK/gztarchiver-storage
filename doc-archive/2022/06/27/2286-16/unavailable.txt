@@ -1,7 +1,0 @@
-{
-  "doc_id": "2286-16",
-  "date": "2022-06-27",
-  "description": "Ministry of Labour - Award made to the Industrial Disputes between H. E. K. Silva Vs Sri Lanka Foreign Employment Bureau",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

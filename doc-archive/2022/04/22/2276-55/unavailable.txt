@@ -1,7 +1,0 @@
-{
-  "doc_id": "2276-55",
-  "date": "2022-04-22",
-  "description": "Ministry of Labour - Award to the Industrial Dispute between Nandasiri Lokukaluge, Rajagiriya Vs. Sri Lanka Telecom PLC. Colombo 01 (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2272-08",
-  "date": "2022-03-21",
-  "description": "Ministry of Labour - Industrial Dispute between R. M. T. K. Ranaraja and M. P. P. Wijewardhana Vs. Dayana Trading Company (Private) Limited (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

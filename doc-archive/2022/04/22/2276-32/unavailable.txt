@@ -1,7 +1,0 @@
-{
-  "doc_id": "2276-32",
-  "date": "2022-04-22",
-  "description": "Land Title Settlement Department - Aththidiya South, Rathmalana D/S Division, Colombo District - Cad. Map No. 521002",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

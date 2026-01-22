@@ -1,7 +1,0 @@
-{
-  "doc_id": "2280-02",
-  "date": "2022-05-16",
-  "description": "Land Title Settlement Department - Heendeniya, Atthanagalla D/S Division, Gampaha District - Cad. Map No. 510626",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
