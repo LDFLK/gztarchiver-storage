@@ -1,7 +1,0 @@
-{
-  "doc_id": "2394-49",
-  "date": "2024-07-25",
-  "description": "Land Aquisition - Meethiriyala, Dompe D/S Division, Gampaha District.",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

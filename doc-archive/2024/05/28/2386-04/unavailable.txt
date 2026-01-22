@@ -1,7 +1,0 @@
-{
-  "doc_id": "2386-04",
-  "date": "2024-05-28",
-  "description": "Ministry Of Lab our and Foreign Employment - The Industrial Disputes between S.M. Fawmi Dehiwala and other part state Timber Cooperation Battaramulla.",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

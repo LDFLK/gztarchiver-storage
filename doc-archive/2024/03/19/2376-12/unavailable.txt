@@ -1,7 +1,0 @@
-{
-  "doc_id": "2376-12",
-  "date": "2024-03-19",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial disputes between  D. Kularathna Payagala and other part Sri Lanka Transport Board Colombo 05 (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

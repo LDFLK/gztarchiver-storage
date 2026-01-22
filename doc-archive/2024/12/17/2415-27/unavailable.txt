@@ -1,7 +1,0 @@
-{
-  "doc_id": "2415-27",
-  "date": "2024-12-17",
-  "description": "Land Title Settlement Dept. - Hapugala, Bope - Paddala D/S Division, Galle District - Cad. Map No. 810181",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

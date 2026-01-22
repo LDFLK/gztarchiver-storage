@@ -1,7 +1,0 @@
-{
-  "doc_id": "2409-22",
-  "date": "2024-11-06",
-  "description": "Land Title Settlement Department - Tissamaharamaya, Tissamaharamaya D/S Division, Hambantota District - Cad. Map No. 830067 (24/0667)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

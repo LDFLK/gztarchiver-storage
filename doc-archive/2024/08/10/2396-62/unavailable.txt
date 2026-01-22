@@ -1,7 +1,0 @@
-{
-  "doc_id": "2396-62",
-  "date": "2024-08-10",
-  "description": "Ministry of Lab our & Foreign Employment - The Industrial Dis puts Between K.S.T.M. Kularayna Athurugiriya and other Part Sri Lanka Foreign Employment Bureau Battaramulla The Industrial Dis puts K.A.Nilantha Bemmulla and other Part Sri Lanka Transport Board Colombo-05.",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

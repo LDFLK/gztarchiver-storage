@@ -1,7 +1,0 @@
-{
-  "doc_id": "2399-02",
-  "date": "2024-08-26",
-  "description": "Election Commission - Directions to Prevent the Direct or Indirect Use of Movable or Immovable Properties",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

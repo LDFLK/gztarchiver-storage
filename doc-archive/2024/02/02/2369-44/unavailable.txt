@@ -1,7 +1,0 @@
-{
-  "doc_id": "2369-44",
-  "date": "2024-02-02",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial Dispute between S.A. Kamalasena, Buttala and Other Part Lanka Sugar (Pvt) Ltd. Colombo 04 and Lanka Sugar (Pvt) Ltd. Pelwatta",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

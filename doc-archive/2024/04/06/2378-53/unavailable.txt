@@ -1,7 +1,0 @@
-{
-  "doc_id": "2378-53",
-  "date": "2024-04-06",
-  "description": "Land Acquisition - Rambuke Ela, Akurana D/S Division, Kandy District - Welikadamulla, Attanagalla D/S Division, Gampaha District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

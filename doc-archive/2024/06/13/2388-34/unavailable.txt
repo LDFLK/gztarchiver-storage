@@ -1,7 +1,0 @@
-{
-  "doc_id": "2388-34",
-  "date": "2024-06-13",
-  "description": "Nawalapitiya Urban Council - Correction Notice Provincial Council of the Central Province Nawalapitiya Urban Council. (Sinhala Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

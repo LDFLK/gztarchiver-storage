@@ -1,7 +1,0 @@
-{
-  "doc_id": "2382-07",
-  "date": "2024-04-30",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial Dispute between Road Development Staff Union Colombo 12 and Other Part Roaad Development Authority Western Province",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2412-30",
-  "date": "2024-11-29",
-  "description": "Minister of Lab our and Foreign Employment - Industrial Dispute between R. visaka kanthi Include 16 Employees and Ceylon Chocolate Limited Industrial Dispute Between R.U.S. Fernando and Mercantile Produce Brokers (Pvt) Ltd.",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2407-21",
-  "date": "2024-10-24",
-  "description": "Land Title Settlement Department - Baddegama, Kurunegala D/S Division, Kurunegala District - Cad. Map No. 420360 (24/0190)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

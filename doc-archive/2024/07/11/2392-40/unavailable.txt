@@ -1,7 +1,0 @@
-{
-  "doc_id": "2392-40",
-  "date": "2024-07-11",
-  "description": "Land Aquisition - Millapitiya, Walapane D/S Division, Nuwara Eliya District. (Section 05)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

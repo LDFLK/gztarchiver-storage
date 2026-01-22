@@ -1,7 +1,0 @@
-{
-  "doc_id": "2405-13",
-  "date": "2024-10-08",
-  "description": "Minister Lab our and Foreign Employment - Industrial Dispute - Rejection Order. between H.M.N.G. Herath and S/L  State Engineering Cooperation. (Sinhala Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

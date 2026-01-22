@@ -1,7 +1,0 @@
-{
-  "doc_id": "2408-07",
-  "date": "2024-10-28",
-  "description": "Land Acquisition - Betwarth State, Thumpane, Galagedara D/S Division, Kandy District - Heenpenwala, Thumpane, Galagedara D/S Division, Kandy District (Section 33)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2391-34",
-  "date": "2024-07-05",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between M.K.A.R. Rathnayaka, Battaramulla and Other Part People's Bank Head Office Colombo 02, The Industrial Disputes between P.H.P.K. Hearth Thalangama North and Other Part National Language Education and Training Center Pannipitiya",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

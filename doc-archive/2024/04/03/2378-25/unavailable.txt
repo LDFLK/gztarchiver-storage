@@ -1,7 +1,0 @@
-{
-  "doc_id": "2378-25",
-  "date": "2024-04-03",
-  "description": "Ministry of Posts, Shipping and Aviation - Sri Lanka Aerodromes (Zoning) Regulations 1975",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

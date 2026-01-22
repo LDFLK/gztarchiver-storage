@@ -1,7 +1,0 @@
-{
-  "doc_id": "2369-30",
-  "date": "2024-02-01",
-  "description": "Land Acquisition - Niloba Pallebedda Kandiyaya Medawathuyaya, Mahaoya D/S Division, Ampara District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2381-26",
-  "date": "2024-04-24",
-  "description": "Kalmunai Municipal council - Notice with regard to Fees Charged on the Supply of waste Disposal Management Services within Kalmunai Municipality",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
