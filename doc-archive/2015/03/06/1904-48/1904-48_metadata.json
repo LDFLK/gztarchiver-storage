@@ -2,10 +2,9 @@
   "document_id": "1904-48",
   "description": "Land Title Settlement Department - Amendments : Uduwana, Homagama D/S Division, Colombo District - Cad. Map No. 520002",
   "document_date": "2015-03-06",
-  "document_type": "Unknown",
-  "reasoning": "API request failed: 504 Server Error: Gateway Timeout for url: https://eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev/sample/deep-seek/v1.0/v1/chat/completions",
+  "document_type": "NOT CATEGORISED",
+  "categorisation": "Uncategorised as of - 2026-01-22 15:37 UTC.",
   "file_path": "/doc-archive/2015/03/06/1904-48/1904-48_english.pdf",
-  "download_url": "/doc-archive/2015/03/06/1904-48/1904-48_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2015/3/1904-48_E.pdf",
   "availability": "Available"
 }

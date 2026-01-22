@@ -1,7 +1,0 @@
-{
-  "doc_id": "1945-36",
-  "date": "2015-12-16",
-  "description": "Land Title Settlement Department - Kirindivita, Gampaha D/S Division, Gampaha District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

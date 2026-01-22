@@ -2,10 +2,9 @@
   "document_id": "1935-49",
   "description": "Ministry of Labour and Trade Union Relations - Awards made to the Industrial Disputes between Mr. S. M. Serasinghe and Mr. R. M. Nandapala of the one part and National Housing Development Authority of the other part and between Inter Company Employees Union and Airport and Aviation Services (Sri Lanka) Ltd.",
   "document_date": "2015-10-09",
-  "document_type": "Unknown",
-  "reasoning": "API request failed: 404 Client Error: Not Found for url: https://eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev/sample/deep-seek/v1.0/v1/chat/completions",
+  "document_type": "NOT CATEGORISED",
+  "categorisation": "Uncategorised as of - 2026-01-22 15:37 UTC.",
   "file_path": "/doc-archive/2015/10/09/1935-49/1935-49_english.pdf",
-  "download_url": "/doc-archive/2015/10/09/1935-49/1935-49_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2015/10/1935-49_E.pdf",
   "availability": "Available"
 }

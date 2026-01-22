@@ -1,7 +1,0 @@
-{
-  "doc_id": "1936-04",
-  "date": "2015-10-12",
-  "description": "Land Acquisition - Pusseela, Ududumbara D/S Division, Kandy District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

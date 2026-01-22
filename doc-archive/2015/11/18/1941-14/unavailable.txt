@@ -1,7 +1,0 @@
-{
-  "doc_id": "1941-14",
-  "date": "2015-11-18",
-  "description": "Land Acquisition - Galaha, Deltota D/S Division, Kandy District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

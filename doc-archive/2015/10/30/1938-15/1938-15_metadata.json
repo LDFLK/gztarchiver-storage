@@ -2,10 +2,9 @@
   "document_id": "1938-15",
   "description": "Forest Department - Order to declare that the Kodigahakanda Forest in Ihala Athuraliya, Athuraliya D/S Division, Matara District and the Boralugoda Forest in Boralugoda, the Patrakanda alias Relagala Forest in Hedigalla, both of Palinda uwara D/S Division and the Kumarakanda Forest in Lihiniyawa, Walallawita D/S Division all of Kalutara District and the Medapihilla Forest in Medapihilla and Talagoda, Naula D/S Division, Matale District as Reserved Forests",
   "document_date": "2015-10-30",
-  "document_type": "Unknown",
-  "reasoning": "API request failed: 404 Client Error: Not Found for url: https://eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev/sample/deep-seek/v1.0/v1/chat/completions",
+  "document_type": "NOT CATEGORISED",
+  "categorisation": "Uncategorised as of - 2026-01-22 15:37 UTC.",
   "file_path": "/doc-archive/2015/10/30/1938-15/1938-15_english.pdf",
-  "download_url": "/doc-archive/2015/10/30/1938-15/1938-15_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2015/10/1938-15_E.pdf",
   "availability": "Available"
 }

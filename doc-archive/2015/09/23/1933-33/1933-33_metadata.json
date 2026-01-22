@@ -2,10 +2,9 @@
   "document_id": "1933-33",
   "description": "Western Province - Removal from the Offices of the Chairman and a member of Director Board of Provincial Road Development Authority 02 members of Road Passenger Transport Authority and the Chairman and 02 members of Director Board of Industrial Development Authority of the Western Province with immediate effect",
   "document_date": "2015-09-23",
-  "document_type": "Unknown",
-  "reasoning": "API request failed: 504 Server Error: Gateway Timeout for url: https://eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev/sample/deep-seek/v1.0/v1/chat/completions",
+  "document_type": "NOT CATEGORISED",
+  "categorisation": "Uncategorised as of - 2026-01-22 15:37 UTC.",
   "file_path": "/doc-archive/2015/09/23/1933-33/1933-33_english.pdf",
-  "download_url": "/doc-archive/2015/09/23/1933-33/1933-33_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2015/9/1933-33_E.pdf",
   "availability": "Available"
 }
