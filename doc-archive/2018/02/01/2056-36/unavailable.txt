@@ -1,7 +1,0 @@
-{
-  "doc_id": "2056-36",
-  "date": "2018-02-01",
-  "description": "Land Acquisition - Naapana, Pathadumbara D/S Division, Kandy District and 2 other notices (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

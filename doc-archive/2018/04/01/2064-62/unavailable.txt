@@ -1,7 +1,0 @@
-{
-  "doc_id": "2064-62",
-  "date": "2018-04-01",
-  "description": "Dept. of Inland Revenue -  Notice specify the value to be placed on benefit",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

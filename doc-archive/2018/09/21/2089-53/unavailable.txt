@@ -1,7 +1,0 @@
-{
-  "doc_id": "2089-53",
-  "date": "2018-09-21",
-  "description": "Ministry of Labour and Trade Union Relations - Notify the Award made to the industrial disputes between A. A. S. J. Perera & Ceylon Petroleum Storage Terminals Ltd.",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2104-17",
-  "date": "2018-12-31",
-  "description": "Reserved by the Legal Affairs Department",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

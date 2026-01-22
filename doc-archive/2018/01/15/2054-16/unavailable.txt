@@ -1,7 +1,0 @@
-{
-  "doc_id": "2054-16",
-  "date": "2018-01-15",
-  "description": "Land Acquisition - Karasnagala, Attanagalla D/S Division, Gampaha District and 3 other notices",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

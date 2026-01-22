@@ -1,7 +1,0 @@
-{
-  "doc_id": "2068-21",
-  "date": "2018-04-25",
-  "description": "Land Acquisition - Horagolla, Gampaha D/S Division, Gampaha District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

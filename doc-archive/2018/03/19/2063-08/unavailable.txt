@@ -1,7 +1,0 @@
-{
-  "doc_id": "2063-08",
-  "date": "2018-03-19",
-  "description": "Land Acquisition - Udaaparakka, Kada Wadduwa, Devenuwara D/S Division, Matara District  - Kulegedaragama, Kanda natiya D/S Division, Badulla District - Diyabubula, Matale D/S Division, Matale District - Weherabanda, Kurunegala D/S Division, Kurunegala District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

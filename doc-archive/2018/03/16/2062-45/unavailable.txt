@@ -1,7 +1,0 @@
-{
-  "doc_id": "2062-45",
-  "date": "2018-03-16",
-  "description": "Ministry of Finance and Mass Media - Revenue Protection Act No. 19 of 1962",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

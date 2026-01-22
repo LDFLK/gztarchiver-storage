@@ -1,7 +1,0 @@
-{
-  "doc_id": "2097-32",
-  "date": "2018-11-15",
-  "description": "Ministry of Labour & Trade Union Relations - Collective Agreement entered into between Piramal Glass Ceylon PLC. and Inter Company Employees Union",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

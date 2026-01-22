@@ -1,7 +1,0 @@
-{
-  "doc_id": "2073-47",
-  "date": "2018-06-01",
-  "description": "Ministry of Labour and Trade Union Relations - Notify the Award made to the Industrial Disputes between \"Sanastha Lanka Welenda ha Karmaantha Kamdaru Sanganaya and Gestetner of Ceylon PLC\"",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

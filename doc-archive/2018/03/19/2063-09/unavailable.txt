@@ -1,7 +1,0 @@
-{
-  "doc_id": "2063-09",
-  "date": "2018-03-19",
-  "description": "Land Acquisition - Kandewaththa, Galwadugoda Galle four Gravets, Galle District - Deddugoda Galle Four Gravets D/S Division, Galle District - Maligaspe, Galle four Gravets D/S Division, Gall District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

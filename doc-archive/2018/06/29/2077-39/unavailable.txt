@@ -1,7 +1,0 @@
-{
-  "doc_id": "2077-39",
-  "date": "2018-06-29",
-  "description": "Ministry of Labour and Trade Union Relations - The award made to the Industrial Disputes between M. A. S. P. Senarathna and State Timber Corporation (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

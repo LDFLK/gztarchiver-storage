@@ -1,7 +1,0 @@
-{
-  "doc_id": "2094-02",
-  "date": "2018-10-22",
-  "description": "Elections Commission - Discriptions of Electoral Areas (Only S & T)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

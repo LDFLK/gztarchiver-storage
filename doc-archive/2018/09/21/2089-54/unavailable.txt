@@ -1,7 +1,0 @@
-{
-  "doc_id": "2089-54",
-  "date": "2018-09-21",
-  "description": "Ministry of Labour and Trade Union Relations - Notify the Collective Agreement entered into between Swisstek Aluminium Limited and the Inter Company Employees Union",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

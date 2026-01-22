@@ -1,7 +1,0 @@
-{
-  "doc_id": "2082-35",
-  "date": "2018-08-01",
-  "description": "Ministry of Labour & Trade Union Relations - Seemasahitha Kantale Seeni Karmanthayathanaya and Sureka Kannangara Vs. Sri Lanka Hastha Karmantha Mandalaya",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

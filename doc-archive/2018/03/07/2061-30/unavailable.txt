@@ -1,7 +1,0 @@
-{
-  "doc_id": "2061-30",
-  "date": "2018-03-07",
-  "description": "Ministry of Labour, Trade Union Relations - Revocation of Order and appointed Mr. K. M. Sarathchandra as the arbitrator to the Industrial Disputes between T. H. Dharmasena with 3 others an National Savings Bank",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2068-16",
-  "date": "2018-04-24",
-  "description": "Ministry of Labour, Trade Union Relations - Notify the Award made to the Industrial Disputes between Maagampura Waraya Sewaka Sangamaya and Sri Lanka Ports Authority",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

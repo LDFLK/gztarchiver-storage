@@ -1,7 +1,0 @@
-{
-  "doc_id": "2054-49",
-  "date": "2018-01-18",
-  "description": "Uva Province Provincial Council - Notify the removal from the post of Minister of Health etc., w.e.f. 18.01.2018 (This Gazette has been cancelled)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
