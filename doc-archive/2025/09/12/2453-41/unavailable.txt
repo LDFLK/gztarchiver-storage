@@ -1,7 +1,0 @@
-{
-  "doc_id": "2453-41",
-  "date": "2025-09-12",
-  "description": "Land Title Settlement Dept. - Waduressagama, Nachchaduwa D/S Division, Anuradhapura District (25/1200102)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

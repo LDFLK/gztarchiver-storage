@@ -1,7 +1,0 @@
-{
-  "doc_id": "2453-12",
-  "date": "2025-09-08",
-  "description": "Land Title Settlement Dept. - Doratiyawa, Mallawapitiya D/S Division, Kurunegala District (25/5514168)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

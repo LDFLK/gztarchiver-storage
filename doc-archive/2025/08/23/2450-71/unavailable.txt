@@ -1,7 +1,0 @@
-{
-  "doc_id": "2450-71",
-  "date": "2025-08-23",
-  "description": "Land Title Settlement Dept. - Ballapana Udabage, Galigamuwa D/S Division, Kegalle District (25/0342)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

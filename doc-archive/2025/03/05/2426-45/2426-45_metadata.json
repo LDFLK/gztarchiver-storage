@@ -2,10 +2,9 @@
   "document_id": "2426-45",
   "description": "Land Acquisition â€“ Matale-Udupihilla Road, Mathale D/S , Matale District. Section â€“ 33",
   "document_date": "2025-03-05",
-  "document_type": "Unknown",
-  "reasoning": "API request failed: 404 Client Error: Not Found for url: https://eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev/sample/deep-seek/v1.0/v1/chat/completions",
+  "document_type": "NOT CATEGORISED",
+  "categorisation": "Uncategorised as of - 2026-01-22 13:38 UTC.",
   "file_path": "/doc-archive/2025/03/05/2426-45/2426-45_english.pdf",
-  "download_url": "/doc-archive/2025/03/05/2426-45/2426-45_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2025/3/2426-45_E.pdf",
   "availability": "Available"
 }

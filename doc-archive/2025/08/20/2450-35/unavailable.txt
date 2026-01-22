@@ -1,7 +1,0 @@
-{
-  "doc_id": "2450-35",
-  "date": "2025-08-20",
-  "description": "Land Title Settlement Dept. - Kalupedigama, Balangoda D/S Division, Ratnapura District (25/0304)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

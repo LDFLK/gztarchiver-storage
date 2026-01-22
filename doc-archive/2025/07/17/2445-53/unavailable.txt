@@ -1,7 +1,0 @@
-{
-  "doc_id": "2445-53",
-  "date": "2025-07-17",
-  "description": "Land Title Settlement Dept. - Kaluarachchigama, Nachchduwa D/S Division, Anuradhapura District (25/0260)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

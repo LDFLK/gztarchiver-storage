@@ -1,7 +1,0 @@
-{
-  "doc_id": "2450-66",
-  "date": "2025-08-23",
-  "description": "Land Title Settlement Dept. - Thopawewa, Thamankaduwa D/S Division, Polonnaruwa District (25/0339)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2454-65",
-  "date": "2025-09-20",
-  "description": "Land Title Settlement Dept. - Bodirajapura, Mihinthale D/S Division, Anuradhapura District (25/1200110)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

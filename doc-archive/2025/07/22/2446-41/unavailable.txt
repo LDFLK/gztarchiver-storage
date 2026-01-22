@@ -1,7 +1,0 @@
-{
-  "doc_id": "2446-41",
-  "date": "2025-07-22",
-  "description": "Ministry of Labour - Industrial dispute between T. S. Ranasinghe and State Timber Corporation 2.Industrial dispute between P. D. Vijithapriya Wijerathne included 09 others and State Timber Corporation",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

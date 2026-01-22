@@ -1,7 +1,0 @@
-{
-  "doc_id": "2449-23",
-  "date": "2025-08-13",
-  "description": "2449/23",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2459-03",
-  "date": "2025-10-21",
-  "description": "Ministry of Labour - Industrial Dispute between W.M. Piyaseeli and Sri Lanka Transport Board\nIndustrial Dispute between J.H.M.R. Jayamaha and National Development Bank.",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

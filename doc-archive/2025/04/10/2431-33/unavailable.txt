@@ -1,7 +1,0 @@
-{
-  "doc_id": "2431-33",
-  "date": "2025-04-10",
-  "description": "The Institute of Chartered Accountants of Sri Lanka - Financial Statements for the Year Ended 31st  December 2024",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

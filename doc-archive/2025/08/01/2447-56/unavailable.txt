@@ -1,7 +1,0 @@
-{
-  "doc_id": "2447-56",
-  "date": "2025-08-01",
-  "description": "Ministry of Labour - 1) Industrial Dispute between I D Wijemanna and Local Authorities Institutes of Sri Lanka  2) Industrial Dispute between Malindu Sandaruwan Jayasooriya and Thambapanni Leisure (Pvt) Ltd",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

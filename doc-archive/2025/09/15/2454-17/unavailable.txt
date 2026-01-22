@@ -1,7 +1,0 @@
-{
-  "doc_id": "2454-17",
-  "date": "2025-09-15",
-  "description": "M/Of Agricultureivestock",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

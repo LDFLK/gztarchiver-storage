@@ -1,7 +1,0 @@
-{
-  "doc_id": "2454-47",
-  "date": "2025-09-18",
-  "description": "Land Title Settlement Dept- Batapola, Divulapitiya D/S/D  Division  , Gamapaha District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2463-16",
-  "date": "2025-11-19",
-  "description": "Land Title Settle Dept -Wellangiriya, Bingiriya D/S/D, Kurunegala District (25/1200136)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

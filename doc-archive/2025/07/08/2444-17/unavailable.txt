@@ -1,7 +1,0 @@
-{
-  "doc_id": "2444-17",
-  "date": "2025-07-08",
-  "description": "Land Acquisition - Lewala, Balathkchypitiya D/S Division Kegalle District, Pannapitiya, Balathkchypitiya D/S Division Kegalle District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

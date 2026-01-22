@@ -1,7 +1,0 @@
-{
-  "doc_id": "2464-20",
-  "date": "2025-11-26",
-  "description": "Land Acquisition - Dunukewththa, Mawathagama D/S/D, Kurunegala District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2450-69",
-  "date": "2025-08-23",
-  "description": "Land Title Settlement Dept. - Hiththatiya Meda, Matara D/S Division, Matara District (25/0286)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

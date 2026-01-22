@@ -1,7 +1,0 @@
-{
-  "doc_id": "2459-14",
-  "date": "2025-10-22",
-  "description": "Land Accqussion - Mathugobe, Kotapola D/S/D , Matara District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

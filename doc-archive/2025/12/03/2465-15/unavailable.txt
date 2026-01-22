@@ -1,7 +1,0 @@
-{
-  "doc_id": "2465-15",
-  "date": "2025-12-03",
-  "description": "Kaluthara Municipal Council - Draft Budget for 2026.",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

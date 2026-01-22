@@ -1,7 +1,0 @@
-{
-  "doc_id": "2450-58",
-  "date": "2025-08-23",
-  "description": "Land Title Settlement Dept. -New Town Polonnaruwa, Thamankaduwa D/S Division, Polonnaruwa District (25/1200090)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

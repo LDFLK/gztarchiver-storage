@@ -1,7 +1,0 @@
-{
-  "doc_id": "2466-61",
-  "date": "2025-12-13",
-  "description": "Land Acquisition - Parabawila, Polgahawela D/S/D, Kurunegala District \nCarrigenda, Kurunegala D/S/D, Kurunegala District\nErrata, Hakmena D/S/D, Kurunegala",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

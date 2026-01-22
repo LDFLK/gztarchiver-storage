@@ -1,7 +1,0 @@
-{
-  "doc_id": "2452-45",
-  "date": "2025-09-06",
-  "description": "M/ of Defence Sri Lanka Armed Service Long Service Medal and Clasp",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

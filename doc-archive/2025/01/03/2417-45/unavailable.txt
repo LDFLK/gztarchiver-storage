@@ -1,7 +1,0 @@
-{
-  "doc_id": "2417-45",
-  "date": "2025-01-03",
-  "description": "Minister of lab -our and Foreign Employment - Industrial Dispute Between 08 Employees Inclusive of Mr. W.Saman Fernando and Ceylon German Technical Training Institute.",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

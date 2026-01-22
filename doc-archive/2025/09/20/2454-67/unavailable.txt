@@ -1,7 +1,0 @@
-{
-  "doc_id": "2454-67",
-  "date": "2025-09-20",
-  "description": "Land Title Settlement Dept. - Karaudeniya, Ruwanwella D/S Division, Kegalle District (25/1420400001)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

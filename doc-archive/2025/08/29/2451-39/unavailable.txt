@@ -1,7 +1,0 @@
-{
-  "doc_id": "2451-39",
-  "date": "2025-08-29",
-  "description": "Haguranketha Pradeshiya Sabha- Imposing Miscellenous Charges- 2025",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

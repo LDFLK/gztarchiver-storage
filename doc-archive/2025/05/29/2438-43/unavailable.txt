@@ -1,7 +1,0 @@
-{
-  "doc_id": "2438-43",
-  "date": "2025-05-29",
-  "description": "Monaragala Pradeshiya Sabha - Declaration of Developed areas",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

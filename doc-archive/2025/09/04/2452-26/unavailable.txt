@@ -1,7 +1,0 @@
-{
-  "doc_id": "2452-26",
-  "date": "2025-09-04",
-  "description": "Land Title Settlement Dept. - Udwariyagala, Doluwa D/S Division, kandy District (25/0327)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

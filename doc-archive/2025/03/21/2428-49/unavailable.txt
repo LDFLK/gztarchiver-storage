@@ -1,7 +1,0 @@
-{
-  "doc_id": "2428-49",
-  "date": "2025-03-21",
-  "description": "Elections Commission - Local Authority Election - 2025 Notice under Section 38(1) Poll Gazette - Kandy District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

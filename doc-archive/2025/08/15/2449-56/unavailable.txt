@@ -1,7 +1,0 @@
-{
-  "doc_id": "2449-56",
-  "date": "2025-08-15",
-  "description": "Land Title Settlement Dept. - Higurakdamana, Lankapura D/S Division, Polonnaruwa District (25-14-204-0032)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

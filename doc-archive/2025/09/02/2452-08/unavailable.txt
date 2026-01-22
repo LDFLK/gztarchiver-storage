@@ -1,7 +1,0 @@
-{
-  "doc_id": "2452-08",
-  "date": "2025-09-02",
-  "description": "Ministry of Labour - 1) Industrial dispute between Chilaw Plantation Limited and Ceylon Estate Staffs' Union 2) Industrial dispute between National Savings Bank and Union Front of National Savings Bank (Maintanace Staff)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

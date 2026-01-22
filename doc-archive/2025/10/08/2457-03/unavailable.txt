@@ -1,7 +1,0 @@
-{
-  "doc_id": "2457-03",
-  "date": "2025-10-08",
-  "description": "Ministry of Public Administration, Provincial Council and Local Government - Appointments under the Notaries Ordinance",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

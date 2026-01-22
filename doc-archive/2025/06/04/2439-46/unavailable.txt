@@ -1,7 +1,0 @@
-{
-  "doc_id": "2439-46",
-  "date": "2025-06-04",
-  "description": "Dept of Local Government Sabaragamuwa Province - Notice Under Section 66 (c) First meeting of 17 Local Government Institutions - 2025",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2454-61",
-  "date": "2025-09-20",
-  "description": "Ministry of Labour - Industrial Dispute between R. P. K. Ranjani and Ceylon Fisheries Corporation",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

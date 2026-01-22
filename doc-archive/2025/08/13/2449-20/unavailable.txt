@@ -1,7 +1,0 @@
-{
-  "doc_id": "2449-20",
-  "date": "2025-08-13",
-  "description": "Land Title Settlement Dept. - Bathgampaththuwa, Hingurakgoda North D/S Division, Polonnaruwa District (25/0071)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

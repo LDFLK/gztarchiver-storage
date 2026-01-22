@@ -1,7 +1,0 @@
-{
-  "doc_id": "2450-62",
-  "date": "2025-08-23",
-  "description": "Land Title Settlement Dept. - Iyanner Kovilady, Nallur D/S Division, Jaffna District (25/0600)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

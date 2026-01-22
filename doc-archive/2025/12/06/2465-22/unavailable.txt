@@ -1,7 +1,0 @@
-{
-  "doc_id": "2465-22",
-  "date": "2025-12-06",
-  "description": "Land Acuqisstion - Manelwewa, Mahivilachchiya D/S/D, Anuradhapura District \nWeliwewa, Mahivilachchiya D/S/D, Anuradhapura District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

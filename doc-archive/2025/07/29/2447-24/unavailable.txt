@@ -1,7 +1,0 @@
-{
-  "doc_id": "2447-24",
-  "date": "2025-07-29",
-  "description": "Ministry of Labour - Industrial dispute between Mr. P. A. Bogoda and Upali Newspapers (Pvt) Ltd 2.W. M. Ashaka Damayanthi and Sri Lanka Mahaweli Authority 3. D. M. Dissanayaka and SLTB",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

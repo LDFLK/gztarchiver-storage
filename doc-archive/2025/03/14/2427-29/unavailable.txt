@@ -1,7 +1,0 @@
-{
-  "doc_id": "2427-29",
-  "date": "2025-03-14",
-  "description": "Ministry of Labour â€“ Industrial Dispute between D.C. John and Kent Trophies and Awards (Pvt) Limited.",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

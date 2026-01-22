@@ -1,7 +1,0 @@
-{
-  "doc_id": "2463-09",
-  "date": "2025-11-18",
-  "description": "Ministry of Labour - Industrial Dispute between B.A. Weerasinghe and Sri Lanka transport Board H.G. Rathnayake and Sri Lanka transport Board",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

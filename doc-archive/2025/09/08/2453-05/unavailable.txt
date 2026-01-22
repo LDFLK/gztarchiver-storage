@@ -1,7 +1,0 @@
-{
-  "doc_id": "2453-05",
-  "date": "2025-09-08",
-  "description": "Land Title Settlement Dept. - Maduwanweka, Emabilipitiya D/S Division, Ratnapura District (25/0316)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

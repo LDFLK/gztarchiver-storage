@@ -1,7 +1,0 @@
-{
-  "doc_id": "2468-16",
-  "date": "2025-12-23",
-  "description": "Ministry of Labour - Industrial Dispute between 1 ) G.L. Nimal Weerasiri and Upali Newspapers ( Pvt) Limited \n2 ) I.P.P. Upul Kumara and National Housing Development Authority",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

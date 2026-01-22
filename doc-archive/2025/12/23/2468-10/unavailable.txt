@@ -1,7 +1,0 @@
-{
-  "doc_id": "2468-10",
-  "date": "2025-12-23",
-  "description": "Secretariat of the Governor - Eastern Province - Delegation of Power Concerning the Provincial Public Service of the Eastern Province",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

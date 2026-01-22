@@ -1,7 +1,0 @@
-{
-  "doc_id": "2421-19",
-  "date": "2025-01-30",
-  "description": "Public Utilities Commission of Sri Lanka - Statement of Estimated Expenditure of the Public Utilities Commission of Sri Lanka for the Financial Year 2025",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

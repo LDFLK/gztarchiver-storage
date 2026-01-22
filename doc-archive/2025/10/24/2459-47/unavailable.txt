@@ -1,7 +1,0 @@
-{
-  "doc_id": "2459-47",
-  "date": "2025-10-24",
-  "description": "Election Commission - Elected and Declared New Member of the Athuraliya Pradeshiya Sabha.",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

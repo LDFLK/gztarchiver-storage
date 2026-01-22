@@ -1,7 +1,0 @@
-{
-  "doc_id": "2458-47",
-  "date": "2025-10-17",
-  "description": "Legal Affairs Department - Institute of Charted Accountants Act, No 23 of 1959 Order Under Subsection (5) of Section 7",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

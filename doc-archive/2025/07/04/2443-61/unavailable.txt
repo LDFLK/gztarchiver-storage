@@ -1,7 +1,0 @@
-{
-  "doc_id": "2443-61",
-  "date": "2025-07-04",
-  "description": "Election Commission - Elected Chairman and Vice Chairman of 03 Local Government Institutions in Western Province",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

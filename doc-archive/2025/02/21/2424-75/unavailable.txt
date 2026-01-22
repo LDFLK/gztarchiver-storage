@@ -1,7 +1,0 @@
-{
-  "doc_id": "2424-75",
-  "date": "2025-02-21",
-  "description": "Land Title Settlement Dept. - Bataediriya, Elapatha  D/S Division, Ratnapura District - Cad. Map No.620503 (24/0777)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

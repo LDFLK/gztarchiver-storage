@@ -1,7 +1,0 @@
-{
-  "doc_id": "2457-17",
-  "date": "2025-10-10",
-  "description": "Land Title Settlement Dept - Yakkaduwa, Ja-ela D/S/D , Gampaha District (7855)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2459-02",
-  "date": "2025-10-21",
-  "description": "Ministry Of Labour - Industrial Dispute between Inter Companies Worker's Union and Coca-cola beverages Sri Lanka Limited. \nIndustrial Dispute between Ashoka Damayanthi kumari and Sri Lanka Ports Authority",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

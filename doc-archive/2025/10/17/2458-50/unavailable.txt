@@ -1,7 +1,0 @@
-{
-  "doc_id": "2458-50",
-  "date": "2025-10-17",
-  "description": "Ruwanwella Pradeshiya Sabha - Roads and Paths",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

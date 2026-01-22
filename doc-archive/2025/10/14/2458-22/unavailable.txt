@@ -1,7 +1,0 @@
-{
-  "doc_id": "2458-22",
-  "date": "2025-10-14",
-  "description": "Land Title Settlement Dept - T.R. Magalla, Galle Four Gravets D/S/D, Galle District (25/0295)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

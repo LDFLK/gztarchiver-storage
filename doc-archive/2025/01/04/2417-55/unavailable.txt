@@ -1,7 +1,0 @@
-{
-  "doc_id": "2417-55",
-  "date": "2025-01-04",
-  "description": "Minister of Urban Development Construction and Housing - The Urban Development Authority Law No.41 of 1978 of the National State Assembly Cancellation of the Vesting Order Under Section 15 (1).",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

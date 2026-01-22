@@ -1,7 +1,0 @@
-{
-  "doc_id": "2421-11",
-  "date": "2025-01-29",
-  "description": "Minister of Lab our - Industrial Dispute Collective Agreement. (English only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2417-60",
-  "date": "2025-01-04",
-  "description": "Land Title Settlement Dept. - Veediyawatta, Gampaha D/S Division, Gampaha District - (24/55054)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

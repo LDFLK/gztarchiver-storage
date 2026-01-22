@@ -1,7 +1,0 @@
-{
-  "doc_id": "2457-19",
-  "date": "2025-10-10",
-  "description": "Land Title Settlement Dept - Hadabima Janapadya, Doluwa D/S/D , Kandy District (25/0395)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
