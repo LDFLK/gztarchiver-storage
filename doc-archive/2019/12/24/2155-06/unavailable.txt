@@ -1,7 +1,0 @@
-{
-  "doc_id": "2155-06",
-  "date": "2019-12-24",
-  "description": "Governor's Office of the Western Province - Regulations on Accounts relating to the Financial Administration in Municipal Councils",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

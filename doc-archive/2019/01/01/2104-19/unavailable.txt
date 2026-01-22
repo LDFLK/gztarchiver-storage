@@ -1,7 +1,0 @@
-{
-  "doc_id": "2104-19",
-  "date": "2019-01-01",
-  "description": "Reserved by the Central Bank of Sri Lanka",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

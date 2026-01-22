@@ -1,7 +1,0 @@
-{
-  "doc_id": "2139-02",
-  "date": "2019-09-02",
-  "description": "Land Title Settlement Department - Aluthgama Bogamuwa, Gampaha D/S Division, Gampaha District - Cad. Map No. 511800 and others",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2149-05",
-  "date": "2019-11-11",
-  "description": "Ministry of Labour and  Trade Union Relations - Award made to the Industrial Dispute between S. A. N.  Priyadarshani and Sri Lanka Rupavahini Corporation",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

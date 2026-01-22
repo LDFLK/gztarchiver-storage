@@ -1,7 +1,0 @@
-{
-  "doc_id": "2148-15",
-  "date": "2019-11-04",
-  "description": "This Gazette has been cancelled - Ministry of Transport & Civil Aviation - National Civil Aviation Policy",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

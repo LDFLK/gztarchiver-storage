@@ -2,10 +2,9 @@
   "document_id": "2114-33",
   "description": "Land Title Settlement Department - Bidunkada, Thalawa D/S Division, Anuradhapura District - Cad. Map No. 110180 and other Land Parcels",
   "document_date": "2019-03-14",
-  "document_type": "Unknown",
-  "reasoning": "API request failed: HTTPSConnectionPool(host='eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev', port=443): Read timed out. (read timeout=30)",
+  "document_type": "NOT CATEGORISED",
+  "categorisation": "Uncategorised as of - 2026-01-22 15:00 UTC.",
   "file_path": "/doc-archive/2019/03/14/2114-33/2114-33_english.pdf",
-  "download_url": "/doc-archive/2019/03/14/2114-33/2114-33_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2019/3/2114-33_E.pdf",
   "availability": "Available"
 }

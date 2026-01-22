@@ -1,7 +1,0 @@
-{
-  "doc_id": "2137-06",
-  "date": "2019-08-19",
-  "description": "Ministry of Labour and Trade Union Relations - Award made to the Industrial Dispute Between T. M. Piyatilaka and C.E.B. award made to the Industrial Dispute Between H. N. Perera and Lanka Petrolium Corporation award made to the Industrial Dispute Between K. L. E. Harendra and SLBC",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

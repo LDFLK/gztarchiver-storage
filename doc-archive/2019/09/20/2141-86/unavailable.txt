@@ -1,7 +1,0 @@
-{
-  "doc_id": "2141-86",
-  "date": "2019-09-20",
-  "description": "Reserved for Election Commission",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

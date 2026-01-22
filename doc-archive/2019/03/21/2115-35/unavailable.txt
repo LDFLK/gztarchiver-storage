@@ -1,7 +1,0 @@
-{
-  "doc_id": "2115-35",
-  "date": "2019-03-21",
-  "description": "Office of the Cabinet of Ministers - Appointed three Officers as Deputy Secretaries of the Treasury",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

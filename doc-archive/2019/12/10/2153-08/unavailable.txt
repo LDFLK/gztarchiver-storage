@@ -1,7 +1,0 @@
-{
-  "doc_id": "2153-08",
-  "date": "2019-12-10",
-  "description": "Ministry of Industries and Commerce -   The Socities Ordiance - Samastha Lanka Ginikeli Nispadkayange Sangamaya, Kibulapitiya",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

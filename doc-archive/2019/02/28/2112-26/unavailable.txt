@@ -1,7 +1,0 @@
-{
-  "doc_id": "2112-26",
-  "date": "2019-02-28",
-  "description": "Land Acquisition - Bangalawatta, Galigamuwa D/S Division, Kegalle District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2140-31",
-  "date": "2019-09-10",
-  "description": "Land Acquisition - Kudagama, Rambukkana D/S Division, Kegalle District - Amendment of the Ex. Gaz. No. 1987/46 dated 07.10.2016, Gampaha D/S Division",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

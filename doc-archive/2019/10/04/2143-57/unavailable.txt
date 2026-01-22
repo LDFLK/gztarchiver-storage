@@ -1,7 +1,0 @@
-{
-  "doc_id": "2143-57",
-  "date": "2019-10-04",
-  "description": "Ministry of Labour & Trade Union Relations - Award made to the Industrial Disputes - K. Pemarathna vs. Ceylon Electricity Board and V. B. Samarasinghe vs. Ceylon Petroleum Corporation",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

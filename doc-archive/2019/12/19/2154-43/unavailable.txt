@@ -1,7 +1,0 @@
-{
-  "doc_id": "2154-43",
-  "date": "2019-12-19",
-  "description": "Land Title Settlement Department - Bobugammana, Divulapitiya D/S Division, Gampaha District - Cad. Map No. 510041 and others",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2107-53",
-  "date": "2019-01-25",
-  "description": "Ministry of Labour & Trade Union Relations - Rejection of the Desition given by the arbitrator for the Industrial Dispute. (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

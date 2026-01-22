@@ -1,7 +1,0 @@
-{
-  "doc_id": "2112-14",
-  "date": "2019-02-26",
-  "description": "Land Acquisition - Naiwala, Minuwangoda D/S Division, Gampaha District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
