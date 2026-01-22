@@ -1,7 +1,0 @@
-{
-  "doc_id": "2235-09",
-  "date": "2021-07-05",
-  "description": "Ministry of Labour - Industrial Disputes between D. S. G. R. Tharenda Vs. Home Lands Holdings Private (Ltd.) - Ceylon Estate and Industrial Employees Union Vs. Dol Lanka Private (Ltd.) and Weerasinha Manpower Suppler (Pvt.) Ltd. (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

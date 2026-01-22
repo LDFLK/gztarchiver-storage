@@ -1,7 +1,0 @@
-{
-  "doc_id": "2228-17",
-  "date": "2021-05-18",
-  "description": "Land Acquisition - Pahala Yagoda, Gampaha D/S Division, Gampaha District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

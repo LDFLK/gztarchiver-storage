@@ -1,7 +1,0 @@
-{
-  "doc_id": "2225-37",
-  "date": "2021-04-29",
-  "description": "Election Commission - Notice under Section 9(3) of the Registration of Elector''s Act, Electoral District No. 13. Digamadulla",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -2,10 +2,9 @@
   "document_id": "2211-33",
   "description": "Department of Labour, Labour Standards Division - Appoint the members of the Wages Board for the Tea Growing and Manufacturing Trade and Rubber Cultivation and Raw Rubber processing Trade - Special allowance payble to workers in the Cocoa, Cardamom and Pepper growing and manufacturing Trade",
   "document_date": "2021-01-19",
-  "document_type": "Unknown",
-  "reasoning": "API request failed: 404 Client Error: Not Found for url: https://eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev/sample/deep-seek/v1.0/v1/chat/completions",
+  "document_type": "NOT CATEGORISED",
+  "categorisation": "Uncategorised as of - 2026-01-22 14:52 UTC.",
   "file_path": "/doc-archive/2021/01/19/2211-33/2211-33_english.pdf",
-  "download_url": "/doc-archive/2021/01/19/2211-33/2211-33_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2021/1/2211-33_E.pdf",
   "availability": "Available"
 }

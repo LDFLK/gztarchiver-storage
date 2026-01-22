@@ -2,10 +2,9 @@
   "document_id": "2226-66",
   "description": "Land Title Settlement Department - Phoddaramalla, Kalutara D/S Division, Kalutara District - Cad Mad No. 530014 and Others",
   "document_date": "2021-05-08",
-  "document_type": "Unknown",
-  "reasoning": "API request failed: HTTPSConnectionPool(host='eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev', port=443): Read timed out. (read timeout=30)",
+  "document_type": "NOT CATEGORISED",
+  "categorisation": "Uncategorised as of - 2026-01-22 14:52 UTC.",
   "file_path": "/doc-archive/2021/05/08/2226-66/2226-66_english.pdf",
-  "download_url": "/doc-archive/2021/05/08/2226-66/2226-66_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2021/5/2226-66_E.pdf",
   "availability": "Available"
 }

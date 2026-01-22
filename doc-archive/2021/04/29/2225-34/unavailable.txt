@@ -1,7 +1,0 @@
-{
-  "doc_id": "2225-34",
-  "date": "2021-04-29",
-  "description": "Elections Commission - Notice Under Section 9(3) of the Registration of Electors Act, (Electoral District No. 07 Galle)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

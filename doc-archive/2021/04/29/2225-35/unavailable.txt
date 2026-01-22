@@ -1,7 +1,0 @@
-{
-  "doc_id": "2225-35",
-  "date": "2021-04-29",
-  "description": "Election Commission  - Notice under 9 (3) of the Registration of Electors Act (Electoral District No, 08 Matara)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

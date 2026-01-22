@@ -2,10 +2,9 @@
   "document_id": "2209-57",
   "description": "Land Title Settlement Department - Erawwala, Kesbewa D/S Division, Colombo District - Cad. Map No. 521230",
   "document_date": "2021-01-07",
-  "document_type": "Unknown",
-  "reasoning": "API request failed: 404 Client Error: Not Found for url: https://eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev/sample/deep-seek/v1.0/v1/chat/completions",
+  "document_type": "NOT CATEGORISED",
+  "categorisation": "Uncategorised as of - 2026-01-22 14:52 UTC.",
   "file_path": "/doc-archive/2021/01/07/2209-57/2209-57_english.pdf",
-  "download_url": "/doc-archive/2021/01/07/2209-57/2209-57_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2021/1/2209-57_E.pdf",
   "availability": "Available"
 }

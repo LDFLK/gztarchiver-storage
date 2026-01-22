@@ -1,7 +1,0 @@
-{
-  "doc_id": "2258-67",
-  "date": "2021-12-18",
-  "description": "Land Title Settlement Department - Kimbulapitiya, Katana D/S Division, Gampaha District - Cad. Map No. 511208",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
