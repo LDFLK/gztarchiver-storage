@@ -1,7 +1,0 @@
-{
-  "doc_id": "2208-09",
-  "date": "2020-12-28",
-  "description": "Ministry of Labour - Collective Agreement between Lanka Electricity (pvt) Ltd. and Employees Union (43/2018)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

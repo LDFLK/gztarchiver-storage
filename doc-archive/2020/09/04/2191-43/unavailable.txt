@@ -1,7 +1,0 @@
-{
-  "doc_id": "2191-43",
-  "date": "2020-09-04",
-  "description": "Divisional Secretarial - Kothmale - Perahera Festival of Kothmale Morape Sri Kataragama Devalaya 2020",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

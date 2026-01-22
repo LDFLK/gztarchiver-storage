@@ -1,7 +1,0 @@
-{
-  "doc_id": "2185-36",
-  "date": "2020-07-21",
-  "description": "Land Acquisition - Malambe, Kaduwela D/S Division, Colombo District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

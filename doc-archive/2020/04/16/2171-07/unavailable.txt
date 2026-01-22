@@ -1,7 +1,0 @@
-{
-  "doc_id": "2171-07",
-  "date": "2020-04-16",
-  "description": "Reserved by Import & Expert Control Department",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

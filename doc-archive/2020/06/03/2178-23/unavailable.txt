@@ -1,7 +1,0 @@
-{
-  "doc_id": "2178-23",
-  "date": "2020-06-03",
-  "description": "Elections Commission - Directions to prevent the misuse of movable and immovable properties  - Parliament Election 2020 - This Gazette has been cancelled",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

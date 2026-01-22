@@ -1,7 +1,0 @@
-{
-  "doc_id": "2159-34",
-  "date": "2020-01-23",
-  "description": "Election Commission - Revision of Registers of Elector's - Jaffna District (S & T Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

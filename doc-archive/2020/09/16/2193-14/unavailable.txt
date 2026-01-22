@@ -1,7 +1,0 @@
-{
-  "doc_id": "2193-14",
-  "date": "2020-09-16",
-  "description": "Department of Trade and Investment Policy - Dried leguminous Vegetables, shelled whether or not Skinned or Split (Revenue Protection Order No. 06/2020)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2164-50",
-  "date": "2020-02-27",
-  "description": "Land Acquisition - Pothana, Dambulla D/S Division, Matale District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

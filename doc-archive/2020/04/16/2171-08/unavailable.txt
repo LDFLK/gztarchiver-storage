@@ -1,7 +1,0 @@
-{
-  "doc_id": "2171-08",
-  "date": "2020-04-16",
-  "description": "Reserved by Department of Trade and Investment Policy",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
