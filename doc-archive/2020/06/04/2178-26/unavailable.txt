@@ -1,7 +1,0 @@
-{
-  "doc_id": "2178-26",
-  "date": "2020-06-04",
-  "description": "Ministry of Skills Development, Employment & Labour Relations - Award made to the Industrial Disputes between D. I. H. A. Yatawara and Sri Lanka Foreign Employment Bureau",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

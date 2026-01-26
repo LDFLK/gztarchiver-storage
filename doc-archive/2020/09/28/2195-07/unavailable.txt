@@ -1,7 +1,0 @@
-{
-  "doc_id": "2195-07",
-  "date": "2020-09-28",
-  "description": "Land Acquisition - Uduwawala, Harispattuwa D/S Division, Kandy District and Amendments Akuressa, Pannala D/S Division, Kurunegala District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

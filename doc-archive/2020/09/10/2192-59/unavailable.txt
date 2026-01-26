@@ -1,7 +1,0 @@
-{
-  "doc_id": "2192-59",
-  "date": "2020-09-10",
-  "description": "National Police Commission - Procedural Rules on appointment, promotion and transfer of Police Officers",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

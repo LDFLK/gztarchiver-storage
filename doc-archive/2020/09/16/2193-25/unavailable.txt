@@ -1,7 +1,0 @@
-{
-  "doc_id": "2193-25",
-  "date": "2020-09-16",
-  "description": "Presidential Secretariat - (This Gazette has been cancelled)  Appointed as members of the Presidential Task Force for Education Affairs in the Sri Lanka",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

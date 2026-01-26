@@ -1,7 +1,0 @@
-{
-  "doc_id": "2183-15",
-  "date": "2020-07-06",
-  "description": "This Gazette has been cancelled - Ministry of Tourism and Aviation - Order appoint the Ceylon Petroleum Corporation as the Service Provider for the Provision of aeronautical Service",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

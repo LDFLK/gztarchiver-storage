@@ -3,9 +3,8 @@
   "description": "Election Commission - Members elected to the Parliament (under Article 99A) - 2020",
   "document_date": "2020-08-10",
   "document_type": "ELECTIONS",
-  "reasoning": "This gazette content is a declaration of election results for the Parliamentary Election 2020, specifically notifying the names of persons elected as Members of Parliament under Article 99A of the Constitution. It is issued by the Election Commission and falls squarely within the definition of Type 7 (Elections Gazettes), which covers \"Election results and declarations.\"",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2020/08/10/2188-02",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2020/08/10/2188-02/2188-02_english.pdf",
+  "categorisation": "This gazette content is a declaration of election results for the Parliamentary Election 2020, specifically notifying the names of persons elected as Members of Parliament under Article 99A of the Constitution. It is issued by the Election Commission and falls squarely within the definition of Type 7 (Elections Gazettes), which covers \"Election results and declarations.\"",
+  "file_path": "/doc-archive/2020/08/10/2188-02/2188-02_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2020/8/2188-02_E.pdf",
   "availability": "Available"
 }

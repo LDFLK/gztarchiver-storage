@@ -1,7 +1,0 @@
-{
-  "doc_id": "2189-26",
-  "date": "2020-08-19",
-  "description": "Divisional Secretariat, Hanguranketha - Published of the Hanguranketha Sri maha Vishnu Devala Perahera - 2020",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

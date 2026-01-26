@@ -1,7 +1,0 @@
-{
-  "doc_id": "2198-36",
-  "date": "2020-10-22",
-  "description": "Land Acquisition - Pahalawewa , D/S Division Galewela, Maatale Distirict",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

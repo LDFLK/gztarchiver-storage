@@ -1,7 +1,0 @@
-{
-  "doc_id": "2165-56",
-  "date": "2020-03-05",
-  "description": "Land Title Settlement Department - Mailawalana, Dompe D/S Division, Gampaha District - Cad. Map No.511000 and others",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

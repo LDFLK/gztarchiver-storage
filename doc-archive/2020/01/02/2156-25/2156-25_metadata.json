@@ -3,9 +3,8 @@
   "description": "Land Title Settlement Department - Calling for claims to land parcel in Harispattuwa D/S Division, Kandy District and other land parcels",
   "document_date": "2020-01-02",
   "document_type": "LAND",
-  "reasoning": "This gazette content exclusively deals with land-related matters, specifically calling for claims to land parcels under the Registration of Title Act. It involves land ownership claims, cadastral maps, land title settlements, and property registration processes. The content focuses entirely on land administration and property rights without any government personnel changes, organizational restructuring, or other specialized categories. This fits perfectly within the Land Gazettes classification (Type 4) as it concerns \"land registrations, property ownership, land titles\" and \"land acquisitions, transfers, or disposals.\"",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2020/01/02/2156-25",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2020/01/02/2156-25/2156-25_english.pdf",
+  "categorisation": "This gazette content exclusively deals with land-related matters, specifically calling for claims to land parcels under the Registration of Title Act. It involves land ownership claims, cadastral maps, land title settlements, and property registration processes. The content focuses entirely on land administration and property rights without any government personnel changes, organizational restructuring, or other specialized categories. This fits perfectly within the Land Gazettes classification (Type 4) as it concerns \"land registrations, property ownership, land titles\" and \"land acquisitions, transfers, or disposals.\"",
+  "file_path": "/doc-archive/2020/01/02/2156-25/2156-25_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2020/1/2156-25_E.pdf",
   "availability": "Available"
 }

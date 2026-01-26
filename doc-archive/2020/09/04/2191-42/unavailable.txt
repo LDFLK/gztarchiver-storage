@@ -1,7 +1,0 @@
-{
-  "doc_id": "2191-42",
-  "date": "2020-09-04",
-  "description": "Ministry of Labour - Award made to the Industrial Disputes between N. V. F. Corayai Vs Ceylon Petroleum Corporation, M. I. M. Rizvi and Including 51 Employees Vs. Ceylon Bank (P.C.C.) and Other Notices",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

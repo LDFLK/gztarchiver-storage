@@ -1,7 +1,0 @@
-{
-  "doc_id": "2186-40",
-  "date": "2020-07-31",
-  "description": "Ministry of Skill Development, Employment and Labour Relations - Collective Agreement entered into between Lanka Tiles PLC and Inter Company Employees Union",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

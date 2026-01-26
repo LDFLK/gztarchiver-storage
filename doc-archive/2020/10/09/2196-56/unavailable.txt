@@ -1,7 +1,0 @@
-{
-  "doc_id": "2196-56",
-  "date": "2020-10-09",
-  "description": "Ministry of Labour - Award made to the Industrial dispute between T. Nelson A. Fernando Vs Sri Lanka Transport Board",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

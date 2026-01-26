@@ -1,7 +1,0 @@
-{
-  "doc_id": "2159-24",
-  "date": "2020-01-23",
-  "description": "Election Commission - Revision of Registers of Electors 2019 - Gampaha District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
