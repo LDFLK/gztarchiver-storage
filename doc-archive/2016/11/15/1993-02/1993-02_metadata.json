@@ -3,9 +3,8 @@
   "description": "Ministry of Defence - Name Lists of the Regular Naval Personnel and Volunteer Naval Personnel recommended for the Sri Lanka Armed Services Long Service Medal and Clasp",
   "document_date": "2016-11-15",
   "document_type": "PEOPLE",
-  "reasoning": "This gazette exclusively lists named individuals (naval personnel) receiving a specific award (Sri Lanka Armed Services Long Service Medal and Clasp). It contains the names, ranks, and office numbers of the personnel but provides no details about their specific duties, responsibilities, or portfolio descriptions. This fits the definition of a People Gazette (Type 2), which covers government personnel changes and appointments without detailing their specific responsibilities.",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2016/11/15/1993-02",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2016/11/15/1993-02/1993-02_english.pdf",
+  "categorisation": "This gazette exclusively lists named individuals (naval personnel) receiving a specific award (Sri Lanka Armed Services Long Service Medal and Clasp). It contains the names, ranks, and office numbers of the personnel but provides no details about their specific duties, responsibilities, or portfolio descriptions. This fits the definition of a People Gazette (Type 2), which covers government personnel changes and appointments without detailing their specific responsibilities.",
+  "file_path": "/doc-archive/2016/11/15/1993-02/1993-02_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2016/11/1993-02_E.pdf",
   "availability": "Available"
 }

@@ -1,7 +1,0 @@
-{
-  "doc_id": "1982-26",
-  "date": "2016-08-31",
-  "description": "Land Acquisition - Daraluwa and Pitiyegedara, Attanagalla D/S Division, Gampaha District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
