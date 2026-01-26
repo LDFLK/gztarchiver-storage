@@ -1,7 +1,0 @@
-{
-  "doc_id": "2224-51",
-  "date": "2021-04-24",
-  "description": "Ministry of Labour - Industrial Dispute between Mrs. D. H. M. Upulani Vs state Timber Corporation",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

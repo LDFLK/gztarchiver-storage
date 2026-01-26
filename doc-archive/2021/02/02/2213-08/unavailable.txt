@@ -1,7 +1,0 @@
-{
-  "doc_id": "2213-08",
-  "date": "2021-02-02",
-  "description": "Reserved for Import and Export Control Department",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

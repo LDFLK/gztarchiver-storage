@@ -1,7 +1,0 @@
-{
-  "doc_id": "2225-40",
-  "date": "2021-04-29",
-  "description": "Election Commission - Notice under Section 09 (3) the Recognition of Elector's Act ( Electral District Puttalam)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

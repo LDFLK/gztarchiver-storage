@@ -1,7 +1,0 @@
-{
-  "doc_id": "2210-17",
-  "date": "2021-01-13",
-  "description": "Land Acquisition - Gatamanna, Beliatta in Hambanthota District - Palle Uparekka, Devinuwara D/S Division, Matara District - Correction Notice to Ex.Gaz.No. 1921/59 dated 03.07.2015",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

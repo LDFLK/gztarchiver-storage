@@ -1,7 +1,0 @@
-{
-  "doc_id": "2209-30",
-  "date": "2021-01-06",
-  "description": "Land Acquisition - Ingiriya, Nimalagama, Ingiriya D/S Division, Kalutara District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

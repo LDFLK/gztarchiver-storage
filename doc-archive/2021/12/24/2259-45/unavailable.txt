@@ -1,7 +1,0 @@
-{
-  "doc_id": "2259-45",
-  "date": "2021-12-24",
-  "description": "Land Acquisition - Meegahawela, Naththandiya D/S Division, Puttalam District - Mudukauwa, Naththandiya D/S Division, Puttalam District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

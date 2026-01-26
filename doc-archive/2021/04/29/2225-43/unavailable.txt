@@ -1,7 +1,0 @@
-{
-  "doc_id": "2225-43",
-  "date": "2021-04-29",
-  "description": "Election Commission - Electoral District, No. 21 Rathnapura",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
