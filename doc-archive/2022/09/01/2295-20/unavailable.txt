@@ -1,7 +1,0 @@
-{
-  "doc_id": "2295-20",
-  "date": "2022-09-01",
-  "description": "Ministry of Labour - Industrial Dispute between 06 People including Mr. P. A. M. Ratnapala Vs. Sri Lanka Transport Board (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

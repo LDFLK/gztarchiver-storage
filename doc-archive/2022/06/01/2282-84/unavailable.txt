@@ -1,7 +1,0 @@
-{
-  "doc_id": "2282-84",
-  "date": "2022-06-01",
-  "description": "Ministry of Sports and Youth Affairs - Amendment to the Extra Gazette No. 1990/23 of 27.06.2016 - Regulations",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

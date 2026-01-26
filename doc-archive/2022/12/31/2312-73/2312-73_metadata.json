@@ -2,10 +2,9 @@
   "document_id": "2312-73",
   "description": "Department of Fiscal Policy - Order made under Section 5 of the Stamp Duty (Special Provision) Act, No. 12 of 2006",
   "document_date": "2022-12-31",
-  "document_type": "Unknown",
-  "reasoning": "API request failed: 403 Client Error: Forbidden for url: https://eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev/sample/deep-seek/v1.0/v1/chat/completions",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2022/12/31/2312-73",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2022/12/31/2312-73/2312-73_english.pdf",
+  "document_type": "NOT CATEGORISED",
+  "categorisation": "Uncategorised as of - 2026-01-22 14:47 UTC.",
+  "file_path": "/doc-archive/2022/12/31/2312-73/2312-73_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2022/12/2312-73_E.pdf",
   "availability": "Available"
 }

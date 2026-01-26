@@ -3,9 +3,8 @@
   "description": "Elections Commission - Revision of Electoral Registers",
   "document_date": "2022-11-30",
   "document_type": "ELECTIONS",
-  "reasoning": "This gazette content deals exclusively with electoral processes, specifically the revision of electoral registers, display of supplementary lists, and procedures for submitting claims and objections related to voter registration. It is issued by the Election Commission and concerns electoral administration matters, which directly fits the definition of Type 7 (Elections Gazettes) covering electoral boundary changes, voter registration matters, and election commission decisions.",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2022/11/30/2308-18",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2022/11/30/2308-18/2308-18_english.pdf",
+  "categorisation": "This gazette content deals exclusively with electoral processes, specifically the revision of electoral registers, display of supplementary lists, and procedures for submitting claims and objections related to voter registration. It is issued by the Election Commission and concerns electoral administration matters, which directly fits the definition of Type 7 (Elections Gazettes) covering electoral boundary changes, voter registration matters, and election commission decisions.",
+  "file_path": "/doc-archive/2022/11/30/2308-18/2308-18_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2022/11/2308-18_E.pdf",
   "availability": "Available"
 }

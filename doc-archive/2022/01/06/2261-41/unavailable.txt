@@ -1,7 +1,0 @@
-{
-  "doc_id": "2261-41",
-  "date": "2022-01-06",
-  "description": "Land Title Settlement Department - Keselwatta, Panadura D/S Division, Kalutara District - Cad. Map No. 530020",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

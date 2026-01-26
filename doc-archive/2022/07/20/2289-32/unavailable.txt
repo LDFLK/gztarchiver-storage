@@ -1,7 +1,0 @@
-{
-  "doc_id": "2289-32",
-  "date": "2022-07-20",
-  "description": "Ministry of Labour - Award Made to the Industrial Dispute between H. A. D. Chandrasiri Vs Uva Development Bank",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

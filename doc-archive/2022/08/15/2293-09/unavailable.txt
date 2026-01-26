@@ -1,7 +1,0 @@
-{
-  "doc_id": "2293-09",
-  "date": "2022-08-15",
-  "description": "Ministry of Labour - The Industrial Dispute between Mr. S. D. Ratnayake vs Poronto Lanka (Pvt) Lt., Mrs Thamara Warnakulasooriya vs Waticual Gem and Jewellery Authority",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

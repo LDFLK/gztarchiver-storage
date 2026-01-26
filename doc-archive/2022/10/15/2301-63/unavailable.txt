@@ -1,7 +1,0 @@
-{
-  "doc_id": "2301-63",
-  "date": "2022-10-15",
-  "description": "Ministry of Labour - Industrial Dispute between Mr. Dinuka Perera Vs. Central Investment and Finance P. L. C. (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

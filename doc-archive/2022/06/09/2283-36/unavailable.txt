@@ -1,7 +1,0 @@
-{
-  "doc_id": "2283-36",
-  "date": "2022-06-09",
-  "description": "Ministry of Labour - Industrial Dispute between D. J. M. Kusumawathi Vs. Ceylon Industrial Development Board, Moratuwa (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

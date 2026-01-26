@@ -1,7 +1,0 @@
-{
-  "doc_id": "2304-86",
-  "date": "2022-11-05",
-  "description": "Ministry of Labour - Industrial Disputes between Inter Company Employees Union Vs. Agiyo Tubeco Posesing Company (Private) Limited - Inter Company Employees Union Vs. Vechron Lubricant Lanka P.L.C. and Mr. H. A. Somapala (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

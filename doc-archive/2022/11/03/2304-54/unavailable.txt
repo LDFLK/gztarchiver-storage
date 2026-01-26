@@ -1,7 +1,0 @@
-{
-  "doc_id": "2304-54",
-  "date": "2022-11-03",
-  "description": "Ministry of Labour - Industrial Disputes between Mr. D. A. Ranadeera Vs. Coconut Cultivation Board - Mr. Pathirana Vs. Theproben Studies Ranch (Private) Limited (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2281-20",
-  "date": "2022-05-25",
-  "description": "Ministry of Labour - Award dated 04.03.2022 for the Industrial Dispute between W. K. C. Pushpamal and Co-Operative Wholesale Establishment",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

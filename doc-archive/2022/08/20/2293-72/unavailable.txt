@@ -1,7 +1,0 @@
-{
-  "doc_id": "2293-72",
-  "date": "2022-08-20",
-  "description": "Ministry of Labour - The Industrial Disputes between Mr. W. A. Wijedasa Vs. Sri Lanka Transport Board - Mr. D. P. N. K. Janaranjana Vs. Independent Television Network (Notices of Rejection of Decisions of an Arbitrator) (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

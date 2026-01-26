@@ -1,7 +1,0 @@
-{
-  "doc_id": "2293-73",
-  "date": "2022-08-20",
-  "description": "Ministry of Labour - The Industrial Dispute between Thayalan Thushyanthan Vs. Sri Lanka Transport Board (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

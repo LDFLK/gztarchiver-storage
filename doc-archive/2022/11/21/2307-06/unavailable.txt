@@ -1,7 +1,0 @@
-{
-  "doc_id": "2307-06",
-  "date": "2022-11-21",
-  "description": "Ministry of Labour and Foreign Employment - Industrial disputes between Anthar Saagam Sevaka Sangamaya No. 10, Dehiwala and Other Part Delarn Lanka Currency and Security Prints (Pvt.) Ltd. (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

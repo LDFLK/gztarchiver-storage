@@ -1,7 +1,0 @@
-{
-  "doc_id": "2305-39",
-  "date": "2022-11-11",
-  "description": "Land Title Settlement Department - Kosollepola, Rideegama D/S Division, Kurunegala District - Cad. Map No. 420085",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

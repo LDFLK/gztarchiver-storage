@@ -1,7 +1,0 @@
-{
-  "doc_id": "2293-27",
-  "date": "2022-08-17",
-  "description": "MInistry of Labour - The Industrial Dispute between M. J. Chandrathilaka Vs. SLTB (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

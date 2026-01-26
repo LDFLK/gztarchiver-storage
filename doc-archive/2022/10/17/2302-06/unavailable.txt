@@ -1,7 +1,0 @@
-{
-  "doc_id": "2302-06",
-  "date": "2022-10-17",
-  "description": "Ministry of Labour - Industrial Dispute between W. A. Jayasinghe Vs. Sri Lanka Transport Board (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

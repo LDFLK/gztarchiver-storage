@@ -1,7 +1,0 @@
-{
-  "doc_id": "2292-58",
-  "date": "2022-08-13",
-  "description": "Elections Commission - Notification of the Voter's Registration Act, No. 9(3) (S and T only",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

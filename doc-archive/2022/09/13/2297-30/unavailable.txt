@@ -1,7 +1,0 @@
-{
-  "doc_id": "2297-30",
-  "date": "2022-09-13",
-  "description": "Ministry of Labour - Industrial Disputes between Industrial and Service Employees Union and Commercial Industries and Services Progressive Workers Union Vs. State Engineering Corporation of Sri Lanka - E. Jeewagan Vs. Ceylon Suger Pvt. Limited (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

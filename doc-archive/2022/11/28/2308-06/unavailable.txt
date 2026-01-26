@@ -1,7 +1,0 @@
-{
-  "doc_id": "2308-06",
-  "date": "2022-11-28",
-  "description": "Land Acquisition - Wekanda, Galle face, Colombo D/S Division, Colombo District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

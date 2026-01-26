@@ -1,7 +1,0 @@
-{
-  "doc_id": "2290-10",
-  "date": "2022-07-25",
-  "description": "Land Acquisition - Ganegama, Beruwala D/S Division, Kalutara District - Correction Paper to the Ex. Gaz. No. 2052/19 of 04.01.2018",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

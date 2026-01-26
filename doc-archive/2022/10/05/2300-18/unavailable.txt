@@ -1,7 +1,0 @@
-{
-  "doc_id": "2300-18",
-  "date": "2022-10-05",
-  "description": "Land Acquisition - Kanuwana, Ja-ela D/S Division, Gampaha District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

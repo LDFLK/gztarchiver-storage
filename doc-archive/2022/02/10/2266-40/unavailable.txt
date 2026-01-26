@@ -1,7 +1,0 @@
-{
-  "doc_id": "2266-40",
-  "date": "2022-02-10",
-  "description": "Land Title Settlement Department - Eluwapitiya, Attanagalla D/S Division, Gampaha District - Cad. Map No. 510608",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2311-17",
-  "date": "2022-12-20",
-  "description": "Wanathawilluwa Pradeshiya Sabha - Lists of the Roads and Thoroughfares of the Wanathawilluwa Pradeshiya Sabha",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

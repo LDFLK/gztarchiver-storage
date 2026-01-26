@@ -1,7 +1,0 @@
-{
-  "doc_id": "2298-49",
-  "date": "2022-09-22",
-  "description": "Rattota Pradeshiya Saba - By Law of the Rattota P/S (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

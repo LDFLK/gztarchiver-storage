@@ -1,7 +1,0 @@
-{
-  "doc_id": "2277-39",
-  "date": "2022-04-27",
-  "description": "Ministry of Labour - The Iudustrial Disputes  between B. G. Nihal Vs N. W. S. D. B., National Estate Workers Society Vs Chilaw Plantation Limited, W. J. Weerasiri Vs University of Kelaniya",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2297-63",
-  "date": "2022-09-16",
-  "description": "Ministry of Labour - Notice of Rejection of an Arbitrator's decision (4 others inclusive Mr. W. V. D. M. P. Welaramba Vs. National Water Supply and Drainage Board) (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

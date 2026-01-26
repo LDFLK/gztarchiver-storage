@@ -3,9 +3,8 @@
   "description": "Department of Forest Conservation - Release from the Reserved Forest",
   "document_date": "2022-05-04",
   "document_type": "LAND",
-  "reasoning": "This gazette content primarily deals with land matters, specifically the release of specific parcels of land from a Reserved Forest status. It contains detailed descriptions of land boundaries, lot numbers, cadastral plans, and land extents. While a government minister is named as the authority making the order, the core content is about land classification and property boundaries, making it a Land Gazette (Type 4) rather than a government personnel or structural announcement.",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2022/05/04/2278-04",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2022/05/04/2278-04/2278-04_english.pdf",
+  "categorisation": "This gazette content primarily deals with land matters, specifically the release of specific parcels of land from a Reserved Forest status. It contains detailed descriptions of land boundaries, lot numbers, cadastral plans, and land extents. While a government minister is named as the authority making the order, the core content is about land classification and property boundaries, making it a Land Gazette (Type 4) rather than a government personnel or structural announcement.",
+  "file_path": "/doc-archive/2022/05/04/2278-04/2278-04_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2022/5/2278-04_E.pdf",
   "availability": "Available"
 }
