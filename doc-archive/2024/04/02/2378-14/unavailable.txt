@@ -1,7 +1,0 @@
-{
-  "doc_id": "2378-14",
-  "date": "2024-04-02",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between Development Lottery Board Colombo 02 and other part officers Vocational Union Colombo 02 - The Industrial Disputes between R. Y. G. S. Gayan Sri Lanka Plantation Cooperation Colombo 12 and other part Sri Lanka Plantation Corporation Colombo 12",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

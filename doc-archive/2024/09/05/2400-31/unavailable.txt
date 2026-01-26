@@ -1,7 +1,0 @@
-{
-  "doc_id": "2400-31",
-  "date": "2024-09-05",
-  "description": "Land Title Settlement Dept. - Kandawala, Ratmalana D/S Division, Colombo District - Cad. Map No.521001 (24/0526)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

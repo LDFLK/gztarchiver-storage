@@ -1,7 +1,0 @@
-{
-  "doc_id": "2392-15",
-  "date": "2024-07-08",
-  "description": "Ministry of Lab our and Foreign Employment - The Industrial Disputer between A.K. Aska Ranjith, Rathnapura and other Part Lalan Rubber (Pvt) Ltd. Colombo- 06.\nThe  Industrial Disputer between W.A.S. Wettasinha Eheliyagoda and other Part the Ceylon Railway Uniform Staft Benevolent Fund Colombo- 02 (Sinhala Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2397-62",
-  "date": "2024-08-16",
-  "description": "Land Title Settlement Department - Thiththapajjala, Harispaththuwa D/S/Division Kandy District - Cad. Map No.320487 (24/0617)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

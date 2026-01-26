@@ -1,7 +1,0 @@
-{
-  "doc_id": "2410-06",
-  "date": "2024-11-13",
-  "description": "Minister of Public Administration Home Affairs p.c, Local Government and Lab our - Industrial Dispute between Miss P.H.S. Priyangani and National Housing Development Authority.",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2370-10",
-  "date": "2024-02-06",
-  "description": "Land Acquisition - Galapitagama, Polpithigama D/S Division, Kurunegala District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

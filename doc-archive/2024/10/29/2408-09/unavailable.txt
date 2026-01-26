@@ -1,7 +1,0 @@
-{
-  "doc_id": "2408-09",
-  "date": "2024-10-29",
-  "description": "Ministry of Labour and Foreign Employment - Industrial dispute between Lanka Arakshaka Seva Sangamaya vs Mahaweli Authority of Sri Lanka - Rejection Order",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

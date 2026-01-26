@@ -1,7 +1,0 @@
-{
-  "doc_id": "2386-28",
-  "date": "2024-05-31",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial Dispute between P.S. Perera Mw Sri Lanka Securuty Seva Sangamaya and and Other Part Sri Lanka Mahaweli Authority, Colombo 10. The Industrial Dispute between H.H.R.K. Herath, Pannipitiya and and Other Part National Transport Medical Institute Nugegoda.",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

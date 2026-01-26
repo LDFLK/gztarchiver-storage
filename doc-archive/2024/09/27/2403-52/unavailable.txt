@@ -1,7 +1,0 @@
-{
-  "doc_id": "2403-52",
-  "date": "2024-09-27",
-  "description": "Minister of Lab our and Foreign Employment - The Industrial Dispute.",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

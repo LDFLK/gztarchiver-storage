@@ -1,7 +1,0 @@
-{
-  "doc_id": "2375-36",
-  "date": "2024-03-15",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between W. T. K. Perera Imbulgoda and Other Part Dulmini Enterprices (Pvt.) Ltd. Colombo 12 - The Industrial Disputes between  P. Bayagoda Matale and Other Part National Housing Development Authority, Colombo 02 (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

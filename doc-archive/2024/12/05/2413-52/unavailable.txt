@@ -1,7 +1,0 @@
-{
-  "doc_id": "2413-52",
-  "date": "2024-12-05",
-  "description": "Land Title Settlement Department - Konwewa, Maho D/S Division, Kurunegala District - Cad. Map No. 421558 (24/0363)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

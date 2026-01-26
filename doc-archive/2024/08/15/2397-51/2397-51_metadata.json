@@ -3,9 +3,8 @@
   "description": "Election Commission - Symbloys Allotted to the Candidates.",
   "document_date": "2024-08-15",
   "document_type": "ELECTIONS",
-  "reasoning": "This gazette content is exclusively about electoral processes, specifically the announcement of candidates and polling details for the 2024 Sri Lankan presidential election under the Presidential Elections Act. It contains the official notice of the election date, poll times, and a schedule of candidates with their assigned symbols and nominating parties - all key elements of an Elections Gazette (Type 7).",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2024/08/15/2397-51",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2024/08/15/2397-51/2397-51_english.pdf",
+  "categorisation": "This gazette content is exclusively about electoral processes, specifically the announcement of candidates and polling details for the 2024 Sri Lankan presidential election under the Presidential Elections Act. It contains the official notice of the election date, poll times, and a schedule of candidates with their assigned symbols and nominating parties - all key elements of an Elections Gazette (Type 7).",
+  "file_path": "/doc-archive/2024/08/15/2397-51/2397-51_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2024/8/2397-51_E.pdf",
   "availability": "Available"
 }

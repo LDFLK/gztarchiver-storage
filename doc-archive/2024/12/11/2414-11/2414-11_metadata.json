@@ -3,9 +3,8 @@
   "description": "Election Commission - Parliamentary Election - 2024 Declaration under Article 99A of the Constitution (National List)",
   "document_date": "2024-12-11",
   "document_type": "ELECTIONS",
-  "reasoning": "This gazette content is a declaration of elected Members of Parliament following a parliamentary election, published by the Election Commission. It specifically announces election results under Article 99A of the Constitution, which falls squarely under the \"Elections Gazettes\" category (Type 7) for electoral processes, results, and declarations.",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2024/12/11/2414-11",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2024/12/11/2414-11/2414-11_english.pdf",
+  "categorisation": "This gazette content is a declaration of elected Members of Parliament following a parliamentary election, published by the Election Commission. It specifically announces election results under Article 99A of the Constitution, which falls squarely under the \"Elections Gazettes\" category (Type 7) for electoral processes, results, and declarations.",
+  "file_path": "/doc-archive/2024/12/11/2414-11/2414-11_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2024/12/2414-11_E.pdf",
   "availability": "Available"
 }

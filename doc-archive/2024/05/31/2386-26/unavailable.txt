@@ -1,7 +1,0 @@
-{
-  "doc_id": "2386-26",
-  "date": "2024-05-31",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial dispute between U. A. L. R. Sandanuwan and Other Part MBSL - Insurance Cooperation Colombo 10. The Industrial dispute between P. H. K Priyadharsani Wadduwa and Other Part C. M. L. M. T. D. Construction Ltd Colombo 03",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

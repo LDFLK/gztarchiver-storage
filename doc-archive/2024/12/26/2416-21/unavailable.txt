@@ -1,7 +1,0 @@
-{
-  "doc_id": "2416-21",
-  "date": "2024-12-26",
-  "description": "Land Title Settlement Dept. - Dewarammulla, Pallepola D/S Division, Matale District - Cad. Map No. 310008 (24/0482)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

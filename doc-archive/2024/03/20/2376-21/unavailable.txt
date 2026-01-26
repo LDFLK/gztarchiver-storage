@@ -1,7 +1,0 @@
-{
-  "doc_id": "2376-21",
-  "date": "2024-03-20",
-  "description": "Land Acquisition - Rambuke Ela, Akurana D/S Division, Kandy District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

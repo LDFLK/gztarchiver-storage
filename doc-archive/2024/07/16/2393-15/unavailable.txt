@@ -1,7 +1,0 @@
-{
-  "doc_id": "2393-15",
-  "date": "2024-07-16",
-  "description": "Ministry of Lab our and Foreign Employment - The Industrial Disputes Between H.M.K. Kudabandara and other part Sri Lanka Transport Board Colombo- 05 and Mailagasthenna Badulla.",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2415-05",
-  "date": "2024-12-16",
-  "description": "Land Settlement Department - Puwakpitiya Block 03, Galewela D/S Division, Matale District - Cad. Map No. 310117 (24/120084)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
