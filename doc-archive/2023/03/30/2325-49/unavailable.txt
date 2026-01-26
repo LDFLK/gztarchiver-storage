@@ -1,7 +1,0 @@
-{
-  "doc_id": "2325-49",
-  "date": "2023-03-30",
-  "description": "Land Title Settlement Department - Makandura, Pannala D/S Division, Kurunegala District - Cad. Map No. 420501 (23/0025)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

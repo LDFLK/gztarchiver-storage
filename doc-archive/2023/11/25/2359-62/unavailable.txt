@@ -1,7 +1,0 @@
-{
-  "doc_id": "2359-62",
-  "date": "2023-11-25",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial Dispute between J.L.P Fernando Colombo 07 and Other Part National Institute of Business Management Colombo 07",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

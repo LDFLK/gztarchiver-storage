@@ -1,7 +1,0 @@
-{
-  "doc_id": "2336-36",
-  "date": "2023-06-13",
-  "description": "Divisional Secretariat Mawathagama - Land Acquisition - Katugampalagedara, Mawathagama D/S Division, Kurunegala District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

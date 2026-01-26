@@ -1,7 +1,0 @@
-{
-  "doc_id": "2354-25",
-  "date": "2023-10-19",
-  "description": "Ministry of Labour and Foreign Employment - Cancellation of the Order Industrial disputes between Y. V. De Alwis, Kelaniya and other Part Sri Lanka Broad Casting Co-operation Colombo 07 (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

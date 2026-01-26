@@ -1,7 +1,0 @@
-{
-  "doc_id": "2324-27",
-  "date": "2023-03-22",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between G. K. Sudath Kumara Agalawatta and other 5 Names and other part Thurusaviya Trust Fund Colombo 05",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

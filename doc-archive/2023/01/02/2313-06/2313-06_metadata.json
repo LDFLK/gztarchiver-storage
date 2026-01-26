@@ -2,10 +2,9 @@
   "document_id": "2313-06",
   "description": "Land Title Settlement Department - Sooriyapaluwa, Mahara D/S Division, Gampaha District - Cad. Map No. 5190810 (22/0809)",
   "document_date": "2023-01-02",
-  "document_type": "Unknown",
-  "reasoning": "API request failed: 404 Client Error: Not Found for url: https://eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev/sample/deep-seek/v1.0/v1/chat/completions",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2023/01/02/2313-06",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2023/01/02/2313-06/2313-06_english.pdf",
+  "document_type": "NOT CATEGORISED",
+  "categorisation": "Uncategorised as of - 2026-01-22 14:36 UTC.",
+  "file_path": "/doc-archive/2023/01/02/2313-06/2313-06_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2023/1/2313-06_E.pdf",
   "availability": "Available"
 }

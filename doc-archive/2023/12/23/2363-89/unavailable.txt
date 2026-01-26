@@ -1,7 +1,0 @@
-{
-  "doc_id": "2363-89",
-  "date": "2023-12-23",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial disputes betwen M. G. U. Rasangani, Hapugala and other part Road Development Authority Southern Province - The Industrial dispute Revocation order between R. Y. G. S. Gayan Colombo 12 and State Plantation Sri Lanka Colombo (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2344-13",
-  "date": "2023-08-07",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between G. H. Chanaka, Piliyandala and other Part Sri Lanka State Pharmaceutical Corporation Colombo 01 - The Industrial Disputes between K. K. W. R. Kariyawasam Matugama and other Part Lanka Electricity Company (Pvt.) Ltd. Colombo 03 (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

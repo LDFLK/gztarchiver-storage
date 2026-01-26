@@ -1,7 +1,0 @@
-{
-  "doc_id": "2346-13",
-  "date": "2023-08-21",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between Executive Officers Union of Development Lottery Board and other part Development Lottery Board Colombo 02 (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

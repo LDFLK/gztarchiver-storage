@@ -1,7 +1,0 @@
-{
-  "doc_id": "2338-03",
-  "date": "2023-06-26",
-  "description": "\"This Gazette Extraordinary has been Cancelled\" - Kobeigane Pradeshiya Sabha - Reserved",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

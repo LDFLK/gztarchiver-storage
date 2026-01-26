@@ -1,7 +1,0 @@
-{
-  "doc_id": "2337-33",
-  "date": "2023-06-24",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial disputes between G. L. H. J. C. Priyadarsana Ganemulla and other Part Lanka Sathosa Limited Colombo 08",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

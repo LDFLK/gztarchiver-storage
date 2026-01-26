@@ -1,7 +1,0 @@
-{
-  "doc_id": "2353-74",
-  "date": "2023-10-13",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial Disputes between National Worker's Union Pitakotte and Other Part Lanka Electricity Company (Pvt.) Ltd. Colombo - The Industrial Disputes between Malwaththa Weli Plantation PLC. Colombo 12 and Icelab Watta Bandarawela (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

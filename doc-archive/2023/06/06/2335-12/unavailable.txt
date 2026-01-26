@@ -1,7 +1,0 @@
-{
-  "doc_id": "2335-12",
-  "date": "2023-06-06",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial disputes between K. W. R. Sisira, Kottawa Pannipitiya and other part Lanka Electrical (Pvt.) Ltd. Colombo 03 - The Industrial disputes between C. B. Thennakoon Kengalla and other part Sri Lanka Part Authority Colombo 01 (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

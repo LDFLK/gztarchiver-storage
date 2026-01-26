@@ -1,7 +1,0 @@
-{
-  "doc_id": "2329-16",
-  "date": "2023-04-24",
-  "description": "Ministry of Labour and Foreign Employment - The Industrial disputes between, H. W. Padmakumara, Narahenpita and Other Part Lanka Solt Ltd. Hambantota",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
