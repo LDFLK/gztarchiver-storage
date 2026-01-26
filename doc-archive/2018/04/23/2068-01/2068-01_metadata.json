@@ -3,9 +3,8 @@
   "description": "Presidential Secretariat - Summon Parliament to meet at the Parliament Hall on 08.05.2018",
   "document_date": "2018-04-23",
   "document_type": "ELECTIONS",
-  "reasoning": "This gazette content is a presidential proclamation summoning Parliament to meet on a specific date and time. This falls under electoral and parliamentary processes, specifically the summoning of legislative bodies, which is classified under Type 7 (Elections Gazettes) as it deals with parliamentary scheduling and proceedings.",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2018/04/23/2068-01",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2018/04/23/2068-01/2068-01_english.pdf",
+  "categorisation": "This gazette content is a presidential proclamation summoning Parliament to meet on a specific date and time. This falls under electoral and parliamentary processes, specifically the summoning of legislative bodies, which is classified under Type 7 (Elections Gazettes) as it deals with parliamentary scheduling and proceedings.",
+  "file_path": "/doc-archive/2018/04/23/2068-01/2068-01_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2018/4/2068-01_E.pdf",
   "availability": "Available"
 }

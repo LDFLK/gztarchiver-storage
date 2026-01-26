@@ -1,7 +1,0 @@
-{
-  "doc_id": "2082-06",
-  "date": "2018-07-31",
-  "description": "Land Acquisition - Gangodawila, Maharagama D/S Division, Colombo District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

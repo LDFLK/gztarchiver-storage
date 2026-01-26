@@ -1,7 +1,0 @@
-{
-  "doc_id": "2094-41",
-  "date": "2018-10-26",
-  "description": "Department of Trade & Investment Policy - Notify exempt order under section 19(A) of the Customs Ordinance",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

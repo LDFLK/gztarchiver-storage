@@ -1,7 +1,0 @@
-{
-  "doc_id": "2064-23",
-  "date": "2018-03-27",
-  "description": "Land Acquisition - Ihalakaragahamuna & Puwakwetiya, Mahara D/S Division, Gampaha District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -3,9 +3,8 @@
   "description": "Elections Commission - Notify the Names of the Chairman & Vice Chairman to the Balapitiya, Benthota and Anamaduwa Pradeshiya Sabha",
   "document_date": "2018-04-10",
   "document_type": "ELECTIONS",
-  "reasoning": "This gazette notice announces the declaration of appointed Chairmen and Vice Chairmen for various Local Authorities following elections, specifically under Section 66 B (1) of the Local Authorities Elections Ordinance. The content directly concerns electoral processes and the declaration of election results for local government positions, which falls under the Elections classification (Type 7). While it names individuals, it does so in the context of declaring electoral outcomes rather than detailing government portfolio responsibilities, so it does not qualify as a government personnel (Type 2) or hybrid (Type 3) gazette.",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2018/04/10/2066-12",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2018/04/10/2066-12/2066-12_english.pdf",
+  "categorisation": "This gazette notice announces the declaration of appointed Chairmen and Vice Chairmen for various Local Authorities following elections, specifically under Section 66 B (1) of the Local Authorities Elections Ordinance. The content directly concerns electoral processes and the declaration of election results for local government positions, which falls under the Elections classification (Type 7). While it names individuals, it does so in the context of declaring electoral outcomes rather than detailing government portfolio responsibilities, so it does not qualify as a government personnel (Type 2) or hybrid (Type 3) gazette.",
+  "file_path": "/doc-archive/2018/04/10/2066-12/2066-12_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2018/4/2066-12_E.pdf",
   "availability": "Available"
 }

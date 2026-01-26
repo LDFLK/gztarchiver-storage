@@ -1,7 +1,0 @@
-{
-  "doc_id": "2096-04",
-  "date": "2018-11-05",
-  "description": "Ministry of Labour & Trade Union Relations - Collective Agreement entered into between Noritake Lanka Porcelain (Pvt.) Ltd. and Inter Company Employees Union",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

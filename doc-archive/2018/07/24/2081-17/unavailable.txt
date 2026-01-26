@@ -1,7 +1,0 @@
-{
-  "doc_id": "2081-17",
-  "date": "2018-07-24",
-  "description": "Land Title Settlement Department - Kalalpitiya, Attanagalla D/S Division, Gampaha District - Cad. Map No. 510600",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

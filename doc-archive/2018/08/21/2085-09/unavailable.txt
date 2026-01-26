@@ -1,7 +1,0 @@
-{
-  "doc_id": "2085-09",
-  "date": "2018-08-21",
-  "description": "Ministry of Labour & Trade Union Relations - Notify the rejection of a decision given by the Arbitrator to the Industrial Disputes between D. S. M. Wijesinghe & Commercial Credit & Finance PLC. (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

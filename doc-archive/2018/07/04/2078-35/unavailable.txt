@@ -1,7 +1,0 @@
-{
-  "doc_id": "2078-35",
-  "date": "2018-07-04",
-  "description": "Ministry of Labour & Trade Union Relations - Collective Agreement entered into between Indian Overseas Bank and Ceylon Bank Employees Union ; National Saving Bank and the Executive Officer's Association of the National Savings Bank",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2066-30",
-  "date": "2018-04-11",
-  "description": "Ministry of Labour, Trade Union Relations and Sabaragamuwa Development - Award rejected of the Industrial Disputes - Sri Lanka Nidahas Sevaka Sangamaya vs. Packserve (Pvt.) Ltd.",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

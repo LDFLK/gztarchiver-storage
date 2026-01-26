@@ -1,7 +1,0 @@
-{
-  "doc_id": "2072-53",
-  "date": "2018-05-25",
-  "description": "Land Acquisition - Dombemada, Rambukkana D/S Division, Kegalle District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

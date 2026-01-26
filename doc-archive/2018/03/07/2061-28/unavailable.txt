@@ -1,7 +1,0 @@
-{
-  "doc_id": "2061-28",
-  "date": "2018-03-07",
-  "description": "Ministry of Labour and Trade Union Relations - Award made to the Industrial Dispute between K. P. Sarathchandra and Sri Lanka Broadcasting Corporation",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

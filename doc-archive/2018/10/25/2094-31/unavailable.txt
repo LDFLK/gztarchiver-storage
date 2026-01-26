@@ -1,7 +1,0 @@
-{
-  "doc_id": "2094-31",
-  "date": "2018-10-25",
-  "description": "Land Acquisition - Namadagaswewa, Sooriyawewa D/S Division, Hambanthota District (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

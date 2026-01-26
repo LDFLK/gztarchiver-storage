@@ -3,9 +3,8 @@
   "description": "Ministry of City Planning & Water Supply - Order to acquire the Lands in Huludagoda & Kawdana, Rathmalana D/S Division, Colombo District",
   "document_date": "2018-02-22",
   "document_type": "LAND",
-  "reasoning": "The gazette content primarily deals with land acquisition matters. It contains three separate orders under the National Water Supply and Drainage Board Act approving the acquisition of specific immovable properties (land allotments) for water infrastructure projects. Each order includes detailed descriptions of the land parcels, including location, extent, boundaries, and claimant information. This fits the Land Gazette classification (Type 4) as it concerns land acquisitions and property matters for public projects, not government personnel changes or structural reorganizations.",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2018/02/22/2059-51",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2018/02/22/2059-51/2059-51_english.pdf",
+  "categorisation": "The gazette content primarily deals with land acquisition matters. It contains three separate orders under the National Water Supply and Drainage Board Act approving the acquisition of specific immovable properties (land allotments) for water infrastructure projects. Each order includes detailed descriptions of the land parcels, including location, extent, boundaries, and claimant information. This fits the Land Gazette classification (Type 4) as it concerns land acquisitions and property matters for public projects, not government personnel changes or structural reorganizations.",
+  "file_path": "/doc-archive/2018/02/22/2059-51/2059-51_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2018/2/2059-51_E.pdf",
   "availability": "Available"
 }

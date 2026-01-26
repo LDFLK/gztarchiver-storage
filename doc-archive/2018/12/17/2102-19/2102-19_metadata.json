@@ -2,10 +2,9 @@
   "document_id": "2102-19",
   "description": "Land Title Settlement Department - Calling for claims to the land parcel in Rathnapura D/S Division - Cad.. Map No. 620344 and other land parcels",
   "document_date": "2018-12-17",
-  "document_type": "Unknown",
-  "reasoning": "API request failed: 404 Client Error: Not Found for url: https://eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev/sample/deep-seek/v1.0/v1/chat/completions",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2018/12/17/2102-19",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2018/12/17/2102-19/2102-19_english.pdf",
+  "document_type": "NOT CATEGORISED",
+  "categorisation": "Uncategorised as of - 2026-01-22 15:11 UTC.",
+  "file_path": "/doc-archive/2018/12/17/2102-19/2102-19_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2018/12/2102-19_E.pdf",
   "availability": "Available"
 }

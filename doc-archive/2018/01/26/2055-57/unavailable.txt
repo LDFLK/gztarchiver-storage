@@ -1,7 +1,0 @@
-{
-  "doc_id": "2055-57",
-  "date": "2018-01-26",
-  "description": "Land Acquisition - Kapuduwa, Thihagoda D/S Division, Matara District and 2 other notices in Kaduwela D/S Division and Dompe D/S Division and redemption notice of Moratuwa D/S Division",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

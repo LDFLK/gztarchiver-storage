@@ -1,7 +1,0 @@
-{
-  "doc_id": "2100-08",
-  "date": "2018-12-03",
-  "description": "Ministry of Labour - The Collective Agreement entered into between International Distillers Limited and the Food, Beverages & Tobacco Industries Employees Union",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

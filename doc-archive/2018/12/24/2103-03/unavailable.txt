@@ -1,7 +1,0 @@
-{
-  "doc_id": "2103-03",
-  "date": "2018-12-24",
-  "description": "Central Bank of Sri Lanka - Sri Lanka Deposit Insurance and Liquidity Support Scheme Regulations under Monetary Law Act  (This Gazette has been Cancelled)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

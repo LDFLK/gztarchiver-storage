@@ -1,7 +1,0 @@
-{
-  "doc_id": "2084-56",
-  "date": "2018-08-16",
-  "description": "Ministry of Labour and Trade Union Relations - Noritfy the Award made to the Industrial Dispute between D. Wimalasena and Sri Lanka Transport Board (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

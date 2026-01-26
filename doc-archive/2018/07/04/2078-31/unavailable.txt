@@ -1,7 +1,0 @@
-{
-  "doc_id": "2078-31",
-  "date": "2018-07-04",
-  "description": "Ministry of Labour and Trade Union Relations - Collective Agreement entered  into between Royal Ceramic Lanka PLC and Inter Company Employees Union and an amendment to the Gaz. Ex. No. 2071/13 of 15.05.2018",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

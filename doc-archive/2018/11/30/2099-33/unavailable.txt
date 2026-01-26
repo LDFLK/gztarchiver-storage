@@ -1,7 +1,0 @@
-{
-  "doc_id": "2099-33",
-  "date": "2018-11-30",
-  "description": "Reserved by the Department of Labour",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

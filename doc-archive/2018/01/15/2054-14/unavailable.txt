@@ -1,7 +1,0 @@
-{
-  "doc_id": "2054-14",
-  "date": "2018-01-15",
-  "description": "Land Acquisition - Mihintale, Mihintale D/S DIvision, Anuradhapura District and 3 other notices",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2087-24",
-  "date": "2018-09-05",
-  "description": "Divisional Secretariat Bamunakotuwa - Notify the Esala Perahera of Bamunakotuwa Gonnawa Sri Vishnu Maha Devalaya",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

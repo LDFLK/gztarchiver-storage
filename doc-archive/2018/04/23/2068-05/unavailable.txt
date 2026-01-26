@@ -1,7 +1,0 @@
-{
-  "doc_id": "2068-05",
-  "date": "2018-04-23",
-  "description": "Ministry of Labour, Trade Union Relations - Notify the Collective Agreement entered into between Lanka Electricity Board and Unions of Lanka Electricity Board (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

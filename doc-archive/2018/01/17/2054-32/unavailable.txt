@@ -1,7 +1,0 @@
-{
-  "doc_id": "2054-32",
-  "date": "2018-01-17",
-  "description": "Land Acquisition - Village of Vilgamuwa, Alawwa D/S Division Kurunegala District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

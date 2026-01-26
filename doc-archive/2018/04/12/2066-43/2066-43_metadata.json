@@ -3,9 +3,8 @@
   "description": "Presidential Secretarial - Proclamation by the President",
   "document_date": "2018-04-12",
   "document_type": "ELECTIONS",
-  "reasoning": "This gazette content is a presidential proclamation proroguing Parliament and setting the date for the commencement of the next session. This directly relates to parliamentary procedures and the scheduling of legislative sessions, which falls under electoral and parliamentary processes. Therefore, it is classified as Type 7 (Elections Gazettes) as it deals with the functioning and scheduling of parliamentary sessions.",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2018/04/12/2066-43",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2018/04/12/2066-43/2066-43_english.pdf",
+  "categorisation": "This gazette content is a presidential proclamation proroguing Parliament and setting the date for the commencement of the next session. This directly relates to parliamentary procedures and the scheduling of legislative sessions, which falls under electoral and parliamentary processes. Therefore, it is classified as Type 7 (Elections Gazettes) as it deals with the functioning and scheduling of parliamentary sessions.",
+  "file_path": "/doc-archive/2018/04/12/2066-43/2066-43_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2018/4/2066-43_E.pdf",
   "availability": "Available"
 }

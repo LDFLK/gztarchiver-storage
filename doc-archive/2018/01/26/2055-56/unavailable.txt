@@ -1,7 +1,0 @@
-{
-  "doc_id": "2055-56",
-  "date": "2018-01-26",
-  "description": "Land Acquisition - Order to redemption the lands in Kodikamam, Thenmarachchi D/S Division, Jaffna and Ulliduwawa, Kolonna D/S Division, Rathnapura District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

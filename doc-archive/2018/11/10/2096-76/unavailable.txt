@@ -1,7 +1,0 @@
-{
-  "doc_id": "2096-76",
-  "date": "2018-11-10",
-  "description": "Ministry of Labour, Trade Union Relations - The Industrial Dispute between Inter Company Employees Union, Koswatta and Agio Tobacco Processing Company (pvt) Ltd., Biyagama - Appointed  L. R. Sumathipala as a Arbitrator",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

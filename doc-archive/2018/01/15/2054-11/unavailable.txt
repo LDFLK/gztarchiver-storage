@@ -1,7 +1,0 @@
-{
-  "doc_id": "2054-11",
-  "date": "2018-01-15",
-  "description": "Department of Labour - Notice of  rejection that the decision given by arbitrator, published in the Gaz. Ex. No. 2015/49 of 20.04.2012",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
