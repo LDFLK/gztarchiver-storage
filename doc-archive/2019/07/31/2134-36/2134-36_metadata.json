@@ -3,9 +3,8 @@
   "description": "Central Bank of Sri Lanka - Balance Sheet as at 30th June - 2019",
   "document_date": "2019-07-31",
   "document_type": "COMMERCIAL",
-  "reasoning": "The gazette content consists of the Central Bank of Sri Lanka's balance sheet and financial statements, including assets, liabilities, and audit reports. This represents financial institution reporting and regulatory compliance matters, which falls under the Commercial classification (Type 6) for banking and financial institution regulations and reporting requirements.",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2019/07/31/2134-36",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2019/07/31/2134-36/2134-36_english.pdf",
+  "categorisation": "The gazette content consists of the Central Bank of Sri Lanka's balance sheet and financial statements, including assets, liabilities, and audit reports. This represents financial institution reporting and regulatory compliance matters, which falls under the Commercial classification (Type 6) for banking and financial institution regulations and reporting requirements.",
+  "file_path": "/doc-archive/2019/07/31/2134-36/2134-36_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2019/7/2134-36_E.pdf",
   "availability": "Available"
 }

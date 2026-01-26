@@ -1,7 +1,0 @@
-{
-  "doc_id": "2116-04",
-  "date": "2019-03-25",
-  "description": "Land Acquisition - Kambusssawa & Mahaheella, Beliattha D/S DIvision, Hambanthota District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

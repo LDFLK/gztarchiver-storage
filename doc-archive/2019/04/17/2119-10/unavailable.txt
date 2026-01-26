@@ -1,7 +1,0 @@
-{
-  "doc_id": "2119-10",
-  "date": "2019-04-17",
-  "description": "Ministry of Labour & Trade Union Relations - Collective Agreement entered into between Tal Lanka Hotels PLC and Employee Relation & Staff Welfare Association",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

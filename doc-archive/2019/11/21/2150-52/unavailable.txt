@@ -1,7 +1,0 @@
-{
-  "doc_id": "2150-52",
-  "date": "2019-11-21",
-  "description": "Land Acquisition - HIngurala, Seethawaka D/S Division, Colombo District and Amendment to the Gaz. Ex. No. 2082/58, Rambukkana D/S Division",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

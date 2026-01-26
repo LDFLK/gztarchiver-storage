@@ -1,7 +1,0 @@
-{
-  "doc_id": "2114-35",
-  "date": "2019-03-14",
-  "description": "Ministry of Digital Infrastructure & Information Technology - Regulations of e-registration of Persons Data Base",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

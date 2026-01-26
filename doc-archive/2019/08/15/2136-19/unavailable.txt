@@ -1,7 +1,0 @@
-{
-  "doc_id": "2136-19",
-  "date": "2019-08-15",
-  "description": "Ministry of Megapolis & Western Development -   Approval of  the Development Plan for the Badulla Municipal Council Area",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

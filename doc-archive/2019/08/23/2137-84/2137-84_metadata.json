@@ -3,9 +3,8 @@
   "description": "Elections Commission - Open for Inspection - Lists of Names in the Electoral Registers",
   "document_date": "2019-08-23",
   "document_type": "ELECTIONS",
-  "reasoning": "This gazette content pertains specifically to electoral processes, specifically the revision of electoral registers for the Colombo and Gampaha electoral districts. It involves public notices about voter registration lists, procedures for claims and objections, and inspection of electoral records, which directly falls under the \"Elections Gazettes\" category (Type 7) for electoral processes and related matters.",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2019/08/23/2137-84",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2019/08/23/2137-84/2137-84_english.pdf",
+  "categorisation": "This gazette content pertains specifically to electoral processes, specifically the revision of electoral registers for the Colombo and Gampaha electoral districts. It involves public notices about voter registration lists, procedures for claims and objections, and inspection of electoral records, which directly falls under the \"Elections Gazettes\" category (Type 7) for electoral processes and related matters.",
+  "file_path": "/doc-archive/2019/08/23/2137-84/2137-84_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2019/8/2137-84_E.pdf",
   "availability": "Available"
 }

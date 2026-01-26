@@ -2,10 +2,9 @@
   "document_id": "2114-46",
   "description": "Land Title Settlement Department - Rathmalana, Rathmalana D/S Division, Colombo District - Cad. Map No. 521008",
   "document_date": "2019-03-14",
-  "document_type": "Unknown",
-  "reasoning": "API request failed: HTTPSConnectionPool(host='eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev', port=443): Read timed out. (read timeout=30)",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2019/03/14/2114-46",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2019/03/14/2114-46/2114-46_english.pdf",
+  "document_type": "NOT CATEGORISED",
+  "categorisation": "Uncategorised as of - 2026-01-22 15:00 UTC.",
+  "file_path": "/doc-archive/2019/03/14/2114-46/2114-46_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2019/3/2114-46_E.pdf",
   "availability": "Available"
 }

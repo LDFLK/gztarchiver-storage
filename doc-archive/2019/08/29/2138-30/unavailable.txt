@@ -1,7 +1,0 @@
-{
-  "doc_id": "2138-30",
-  "date": "2019-08-29",
-  "description": "Import & Export Control Department - Amendment to the Gaz. Ex. No. 2044/60 that published under the Imports & Exports (Control) Act - Cancelled by the Department of Import & Export  Control",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

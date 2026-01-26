@@ -1,7 +1,0 @@
-{
-  "doc_id": "2121-20",
-  "date": "2019-04-30",
-  "description": "Dept. of Labour - Special Allowance payable to workers in Cocoa, Cardamom & Papper Growing Trade",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
