@@ -22,63 +22,128 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas
+
       - name: Merge metadata
         run: |
           python3 - <<'EOF'
           import json
+          import pandas as pd
           from pathlib import Path
 
           DOC_DIR = Path("doc-archive")
           OUT_FILE = Path("metadata/global_metadata.json")
 
-          # Load existing global metadata
-          if OUT_FILE.exists():
-              with open(OUT_FILE, "r") as f:
-                  global_meta_list = json.load(f)
-          else:
-              global_meta_list = []
+          # Step 1: Read all *_metadata.json files from directory
+          print("📂 Reading metadata files from directory...")
+          new_records = []
 
-          # Helper: find object in list by file path (unique key)
-          def find_existing(global_list, path):
-              for i, obj in enumerate(global_list):
-                  if obj.get("file_path") == path:
-                      return i
-              return None
-
-          # Walk through all *_metadata.json files in doc-archive, sorted by year folder + filename
           for metadata_file in sorted(DOC_DIR.rglob("*_metadata.json")):
               with open(metadata_file, "r") as f:
-                  data = json.load(f)
+                  try:
+                      data = json.load(f)
+                      if "document_id" in data:
+                          new_records.append(data)
+                      else:
+                          print(f"⚠️ Skipping file without document_id: {metadata_file}")
+                  except json.JSONDecodeError:
+                      print(f"⚠️ Skipping invalid JSON: {metadata_file}")
+                      continue
 
-                  # store relative path temporarily to detect updates
-                  data["file_path"] = str(metadata_file)
+          if not new_records:
+              print("❌ No valid metadata files found")
+              exit()
 
-                  # Check if this file already exists
-                  idx = find_existing(global_meta_list, str(metadata_file))
-                  if idx is not None:
-                      global_meta_list[idx] = data
+          # Create DataFrame from new records
+          df_new = pd.DataFrame(new_records)
+          print(f"📄 Found {len(df_new)} metadata files")
+
+          # Step 2 & 3: Check if global_metadata.json exists
+          if OUT_FILE.exists():
+              print("📖 Loading existing global_metadata.json...")
+              with open(OUT_FILE, "r") as f:
+                  try:
+                      existing_data = json.load(f)
+                      df_existing = pd.DataFrame(existing_data) if existing_data else pd.DataFrame()
+                  except json.JSONDecodeError:
+                      print("⚠️ Invalid existing JSON, creating new file")
+                      df_existing = pd.DataFrame()
+          else:
+              print("📝 global_metadata.json not found, will create new file")
+              df_existing = pd.DataFrame()
+
+          # Step 4: Merge logic - update, append, or skip
+          added_count = 0
+          updated_count = 0
+          skipped_count = 0
+
+          if df_existing.empty:
+              # No existing data, use all new records
+              df_final = df_new
+              added_count = len(df_new)
+          else:
+              # Set document_id as index for easier comparison
+              df_existing_indexed = df_existing.set_index("document_id")
+              df_new_indexed = df_new.set_index("document_id")
+              
+              final_records = []
+              
+              # Process each existing record
+              for doc_id, existing_row in df_existing_indexed.iterrows():
+                  if doc_id in df_new_indexed.index:
+                      # Found matching document_id
+                      new_row = df_new_indexed.loc[doc_id]
+                      
+                      # Convert to dict for comparison
+                      existing_dict = existing_row.to_dict()
+                      new_dict = new_row.to_dict()
+                      
+                      if existing_dict != new_dict:
+                          # Objects differ - replace with new
+                          final_records.append(new_dict)
+                          final_records[-1]["document_id"] = doc_id
+                          updated_count += 1
+                      else:
+                          # Objects are identical - keep existing
+                          final_records.append(existing_dict)
+                          final_records[-1]["document_id"] = doc_id
+                          skipped_count += 1
                   else:
-                      global_meta_list.append(data)
+                      # No match in new data - keep existing
+                      existing_dict = existing_row.to_dict()
+                      existing_dict["document_id"] = doc_id
+                      final_records.append(existing_dict)
+              
+              # Add new records that don't exist in existing data
+              for doc_id, new_row in df_new_indexed.iterrows():
+                  if doc_id not in df_existing_indexed.index:
+                      new_dict = new_row.to_dict()
+                      new_dict["document_id"] = doc_id
+                      final_records.append(new_dict)
+                      added_count += 1
+              
+              df_final = pd.DataFrame(final_records)
 
           # Sort by document_date
-          def parse_date(obj):
-              date = obj.get("document_date", "")
-              return date or "0000-00-00"
-
-          global_meta_list.sort(key=parse_date)
-
-          # Remove temporary file_path before writing final JSON
-          for obj in global_meta_list:
-              obj.pop("file_path", None)
+          if "document_date" in df_final.columns:
+              df_final["document_date"] = df_final["document_date"].fillna("0000-00-00")
+              df_final = df_final.sort_values("document_date")
 
           # Ensure output folder exists
           OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 
           # Write final global metadata
           with open(OUT_FILE, "w") as f:
-              json.dump(global_meta_list, f, indent=2)
+              json.dump(df_final.to_dict("records"), f, indent=2)
 
-          print(f"✅ global_metadata.json updated: {len(global_meta_list)} items")
+          print(f"\n✅ global_metadata.json updated successfully!")
+          print(f"   📊 Total items: {len(df_final)}")
+          print(f"   ➕ Added: {added_count}")
+          print(f"   🔄 Updated: {updated_count}")
+          print(f"   ⏭️  Skipped (unchanged): {skipped_count}")
           EOF
 
       - name: Commit and push
