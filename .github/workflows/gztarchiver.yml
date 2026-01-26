@@ -24,8 +24,10 @@ jobs:
         with:
           python-version: "3.9"
           
-      - name: Install archiver package
-        run: pip install git+https://github.com/LDFLK/gztarchiver.git
+      - name: Install dependencies
+        run: |
+          pip install git+https://github.com/LDFLK/gztarchiver.git
+          pip install pandas pytz
         
       - name: Create config.yaml from secret
         run: |
@@ -110,60 +112,209 @@ jobs:
           
           git commit -m "$COMMIT_MSG" || echo "No changes to commit"
           git push origin main
+      
+      - name: Calculate statistics
+        run: |
+          python3 - <<'EOF'
+          import json
+          import pandas as pd
+          from pathlib import Path
+          from datetime import datetime
+          import pytz
+
+          def collect_metadata(base_path="doc-archive"):
+              """Collect all metadata from JSON files into a list of dictionaries"""
+              base = Path(base_path)
+              metadata_files = list(base.rglob("*_metadata.json"))
+              
+              data = []
+              for meta_file in metadata_files:
+                  try:
+                      with open(meta_file, 'r', encoding='utf-8') as f:
+                          meta = json.load(f)
+                          
+                          # Extract year from file path (doc-archive/YYYY/MM/DD/...)
+                          parts = meta_file.parts
+                          year = parts[1] if len(parts) > 1 else None
+                          
+                          data.append({
+                              'year': year,
+                              'availability': meta.get('availability', 'Unknown'),
+                              'file_path': str(meta_file),
+                              'language': meta.get('language', 'Unknown')
+                          })
+                  except (json.JSONDecodeError, IOError) as e:
+                      print(f"Error reading {meta_file}: {e}")
+                      continue
+              
+              return pd.DataFrame(data)
+
+          def count_pdf_files(base_path="doc-archive"):
+              """Count total PDF files"""
+              base = Path(base_path)
+              pdf_files = list(base.rglob("*.pdf"))
+              return len(pdf_files)
+
+          def get_date_range(base_path="doc-archive"):
+              """Get the date range from directory structure"""
+              base = Path(base_path)
+              
+              # Find all date directories (YYYY/MM/DD pattern)
+              date_dirs = []
+              for path in base.rglob("*"):
+                  parts = path.parts
+                  if len(parts) >= 4:
+                      try:
+                          year, month, day = parts[1], parts[2], parts[3]
+                          if year.isdigit() and month.isdigit() and day.isdigit():
+                              date_str = f"{year}-{month}-{day}"
+                              date_dirs.append(date_str)
+                      except (IndexError, ValueError):
+                          continue
+              
+              if date_dirs:
+                  date_dirs = sorted(set(date_dirs))
+                  return date_dirs[0], date_dirs[-1]
+              return None, None
+
+          def generate_statistics():
+              """Generate all statistics needed for README"""
+              print("Collecting metadata from JSON files...")
+              df = pd.DataFrame()
+              
+              # Check if doc-archive exists
+              if not Path("doc-archive").exists():
+                  print("Warning: doc-archive directory not found")
+                  return {
+                      'total_docs': 0,
+                      'total_unavailable': 0,
+                      'date_range': '',
+                      'year_summary': pd.DataFrame(columns=['Year', 'Archived', 'Unavailable'])
+                  }
+              
+              df = collect_metadata()
+              
+              if df.empty:
+                  print("No metadata files found")
+                  total_docs = count_pdf_files()
+                  return {
+                      'total_docs': total_docs,
+                      'total_unavailable': 0,
+                      'date_range': '',
+                      'year_summary': pd.DataFrame(columns=['Year', 'Archived', 'Unavailable'])
+                  }
+              
+              print(f"Processed {len(df)} metadata files")
+              
+              # Count total PDFs
+              total_docs = count_pdf_files()
+              print(f"Total PDF files: {total_docs}")
+              
+              # Count unavailable documents
+              total_unavailable = len(df[df['availability'] == 'Unavailable'])
+              print(f"Total unavailable: {total_unavailable}")
+              
+              # Get date range
+              start_date, end_date = get_date_range()
+              date_range = f"from {start_date} to {end_date}" if start_date else ""
+              
+              # Year-wise summary
+              # Count PDFs per year
+              base = Path("doc-archive")
+              pdf_files = list(base.rglob("*.pdf"))
+              pdf_years = []
+              for pdf in pdf_files:
+                  parts = pdf.parts
+                  if len(parts) > 1 and parts[1].isdigit():
+                      pdf_years.append(parts[1])
+              
+              pdf_counts = pd.Series(pdf_years).value_counts().sort_index()
+              
+              # Count unavailable per year
+              unavailable_counts = df[df['availability'] == 'Unavailable'].groupby('year').size()
+              
+              # Combine into summary table
+              all_years = sorted(set(list(pdf_counts.index) + list(unavailable_counts.index)))
+              
+              year_summary = pd.DataFrame({
+                  'Year': all_years,
+                  'Archived': [pdf_counts.get(year, 0) for year in all_years],
+                  'Unavailable': [unavailable_counts.get(year, 0) for year in all_years]
+              })
+              
+              return {
+                  'total_docs': total_docs,
+                  'total_unavailable': total_unavailable,
+                  'date_range': date_range,
+                  'year_summary': year_summary,
+                  'timestamp': datetime.now(pytz.timezone('Asia/Colombo')).strftime('%Y-%m-%d %H:%M:%S %Z')
+              }
+
+          def format_summary_table(year_summary):
+              """Format the year summary as markdown table rows"""
+              if year_summary.empty:
+                  return "| No data available | 0 | 0 |"
+              
+              rows = []
+              for _, row in year_summary.iterrows():
+                  rows.append(f"| {row['Year']} | {int(row['Archived'])} | {int(row['Unavailable'])} |")
+              return '\n'.join(rows)
+
+          def main():
+              print("=" * 60)
+              print("Document Statistics Calculator")
+              print("=" * 60)
+              print()
+              
+              stats = generate_statistics()
+              
+              print()
+              print("=" * 60)
+              print("Summary:")
+              print("=" * 60)
+              print(f"Total Documents Archived: {stats['total_docs']}")
+              print(f"Total Unavailable: {stats['total_unavailable']}")
+              print(f"Date Range: {stats['date_range']}")
+              print()
+              print("Year-wise Summary:")
+              print(stats['year_summary'].to_string(index=False))
+              print()
+              
+              # Generate markdown table
+              summary_table = format_summary_table(stats['year_summary'])
+              
+              # Output for use in GitHub Actions (can be captured)
+              print("=" * 60)
+              print("Markdown Table Output:")
+              print("=" * 60)
+              print(summary_table)
+              
+              # Save to file for GitHub Actions to read
+              with open('/tmp/stats_output.txt', 'w') as f:
+                  f.write(f"TOTAL_DOCS={stats['total_docs']}\n")
+                  f.write(f"TOTAL_UNAVAILABLE={stats['total_unavailable']}\n")
+                  f.write(f"DATE_RANGE={stats['date_range']}\n")
+                  f.write(f"TIMESTAMP={stats['timestamp']}\n")
+              
+              with open('/tmp/summary_table.txt', 'w') as f:
+                  f.write(summary_table)
+              
+              print()
+              print("Output files created:")
+              print("  - /tmp/stats_output.txt")
+              print("  - /tmp/summary_table.txt")
+
+          if __name__ == "__main__":
+              main()
+          EOF
           
       - name: Update README with status
         env:
           TZ: Asia/Colombo
         run: |
-          TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S %Z')
-          
-          TOTAL_DOCS=$(find doc-archive -type f -name "*.pdf" | wc -l)
-          TOTAL_UNAVAILABLE=$(find doc-archive -type f -name "unavailable.txt" | wc -l)
-          
-          if [ $TOTAL_DOCS -gt 0 ]; then
-            ALL_DATES=$(find doc-archive -type f \( -name "*.pdf" -o -name "unavailable.txt" \) | \
-              grep -oE '[0-9]{4}/[0-9]{2}/[0-9]{2}' | \
-              sed 's|/|-|g' | \
-              sort -u)
-            
-            if [ -n "$ALL_DATES" ]; then
-              START_DATE=$(echo "$ALL_DATES" | head -1)
-              END_DATE=$(echo "$ALL_DATES" | tail -1)
-              DATE_RANGE="from $START_DATE to $END_DATE"
-            else
-              DATE_RANGE="date range unavailable"
-            fi
-          else
-            DATE_RANGE=""
-          fi
-          
-          SUMMARY_TABLE=$(
-            find doc-archive -type f -name "*.pdf" | awk -F'/' '{print $2}' | sort | uniq -c > /tmp/archived_counts.txt
-            find doc-archive -type f -name "unavailable.txt" | awk -F'/' '{print $2}' | sort | uniq -c > /tmp/unavailable_counts.txt
-            
-            awk '
-            BEGIN { 
-                while ((getline line < "/tmp/archived_counts.txt") > 0) {
-                    split(line, a); archived[a[2]] = a[1]
-                }
-                while ((getline line < "/tmp/unavailable_counts.txt") > 0) {
-                    split(line, u); unavailable[u[2]] = u[1]
-                }
-                close("/tmp/archived_counts.txt")
-                close("/tmp/unavailable_counts.txt")
-                
-                for (year in archived) years[year] = 1
-                for (year in unavailable) years[year] = 1
-                
-                n = asorti(years, sorted_years)
-                for (i = 1; i <= n; i++) {
-                    year = sorted_years[i]
-                    arch_count = (year in archived) ? archived[year] : 0
-                    unav_count = (year in unavailable) ? unavailable[year] : 0
-                    printf "| %s | %s | %s |\n", year, arch_count, unav_count
-                }
-            }'
-          )
+          # Read statistics from Python output
+          source /tmp/stats_output.txt
+          SUMMARY_TABLE=$(cat /tmp/summary_table.txt)
           
           cat <<EOF > README.md
           # Sri Lanka 🇱🇰 - Gazette Dataset
