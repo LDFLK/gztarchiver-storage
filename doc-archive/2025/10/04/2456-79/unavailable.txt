@@ -1,7 +1,0 @@
-{
-  "doc_id": "2456-79",
-  "date": "2025-10-04",
-  "description": "Ministry of Agriculture, Livestock, Land and Irrigation - Land Reform Commission Land Reform Act, No 01 of 1972",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

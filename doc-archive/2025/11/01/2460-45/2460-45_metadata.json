@@ -3,9 +3,8 @@
   "description": "Land Acquisition - Mangoda, Medadumbara D/S/D, Kandy District\nkaragahatenna, Ambangangakorale D/S/D, Matale District",
   "document_date": "2025-11-01",
   "document_type": "LAND",
-  "reasoning": "The gazette content is a \"Land Acquisition Notice\" published under the Land Acquisition Act. Its primary purpose is to direct the taking of possession of specific, described parcels of land (including lot numbers, extents, boundaries, and survey details). While it is signed by a named Minister, the core subject matter is exclusively land acquisition\u2014a definitive characteristic of Type 4 (Land Gazettes). The minister's name and title are incidental to the execution of the land-related legal procedure, and no detailed portfolio responsibilities or government structural changes are described. Therefore, the specialized Land classification takes precedence.",
-  "file_path": "https://ldflk.github.io/gztarchiver-storage/doc-archive/2025/11/01/2460-45/2460-45_english.pdf",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2025/11/01/2460-45/2460-45_english.pdf",
+  "categorisation": "The gazette content is a \"Land Acquisition Notice\" published under the Land Acquisition Act. Its primary purpose is to direct the taking of possession of specific, described parcels of land (including lot numbers, extents, boundaries, and survey details). While it is signed by a named Minister, the core subject matter is exclusively land acquisition—a definitive characteristic of Type 4 (Land Gazettes). The minister's name and title are incidental to the execution of the land-related legal procedure, and no detailed portfolio responsibilities or government structural changes are described. Therefore, the specialized Land classification takes precedence.",
+  "file_path": "/doc-archive/2025/11/01/2460-45/2460-45_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2025/11/2460-45_E.pdf",
   "availability": "Available"
 }

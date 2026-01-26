@@ -1,7 +1,0 @@
-{
-  "doc_id": "2451-33",
-  "date": "2025-08-28",
-  "description": "Land Title Settlement Dept. - Wewathenna, Gangawatakorle D/S Division, Kandy District (7847)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

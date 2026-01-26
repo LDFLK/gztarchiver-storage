@@ -1,7 +1,0 @@
-{
-  "doc_id": "2459-08",
-  "date": "2025-10-21",
-  "description": "Land Title Settlement Dept - T.R. Damunumulla part, Galewela D/S/D, Matale District (25/1200126)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

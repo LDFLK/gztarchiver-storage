@@ -1,7 +1,0 @@
-{
-  "doc_id": "2451-40",
-  "date": "2025-08-28",
-  "description": "Land Aquisition - Lorawtta, Doluwa D/S Division, Kandy District Sec 05",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2468-20",
-  "date": "2025-12-24",
-  "description": "Mawanella Pradeshiya Sabha - Roads and Narrow paths",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

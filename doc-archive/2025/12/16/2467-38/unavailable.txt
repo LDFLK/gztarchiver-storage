@@ -1,7 +1,0 @@
-{
-  "doc_id": "2467-38",
-  "date": "2025-12-16",
-  "description": "Land Title Settlement - Kandawala, Rathmalana D/S/D, Colombo District (25/0530)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

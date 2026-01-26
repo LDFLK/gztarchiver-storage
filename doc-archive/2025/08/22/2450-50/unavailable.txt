@@ -1,7 +1,0 @@
-{
-  "doc_id": "2450-50",
-  "date": "2025-08-22",
-  "description": "Land Title Settlement Dept. - Galkadawala, Nochchiyagama D/S Division, Anuradhapura District (25/1200084)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2453-47",
-  "date": "2025-09-13",
-  "description": "Land Title Settlement Dept. - Hendiyagla, Pannala D/S Division, Kurunegala District (25/5514166)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

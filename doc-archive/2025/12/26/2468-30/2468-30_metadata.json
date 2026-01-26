@@ -3,9 +3,8 @@
   "description": "Presidential Secretariat - The Public Security Ordinance (Chapter 40) Order.",
   "document_date": "2025-12-26",
   "document_type": "LEGAL_REGULATORY",
-  "reasoning": "This gazette content is an order issued by the President under the Public Security Ordinance, calling out the armed forces to maintain public order in specified districts. It is a legal/regulatory action that invokes and applies an existing law (an ordinance) to a specific situation. It does not involve government structural changes, personnel appointments, or detailed portfolio assignments (Types 1-3). Its primary nature is the execution of a legal/regulatory framework for public security, fitting the definition of Type 5 (Legal/Regulatory Gazettes) for matters concerning regulations and statutory instruments.",
-  "file_path": "https://ldflk.github.io/gztarchiver-storage/doc-archive/2025/12/26/2468-30/2468-30_english.pdf",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2025/12/26/2468-30/2468-30_english.pdf",
+  "categorisation": "This gazette content is an order issued by the President under the Public Security Ordinance, calling out the armed forces to maintain public order in specified districts. It is a legal/regulatory action that invokes and applies an existing law (an ordinance) to a specific situation. It does not involve government structural changes, personnel appointments, or detailed portfolio assignments (Types 1-3). Its primary nature is the execution of a legal/regulatory framework for public security, fitting the definition of Type 5 (Legal/Regulatory Gazettes) for matters concerning regulations and statutory instruments.",
+  "file_path": "/doc-archive/2025/12/26/2468-30/2468-30_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2025/12/2468-30_E.pdf",
   "availability": "Available"
 }

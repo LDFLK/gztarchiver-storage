@@ -3,9 +3,8 @@
   "description": "Sri Lanka Customs - Rates of Exchange",
   "document_date": "2025-12-08",
   "document_type": "LEGAL_REGULATORY",
-  "reasoning": "The gazette content is a Customs notification issued under the authority of the Customs Ordinance. It formally sets and publishes new statutory rates of exchange for calculating customs duties and other charges. This is a regulatory matter that establishes a legal framework for financial calculations in trade, falling squarely under the definition of Legal/Regulatory Gazettes (Type 5). It does not involve government structure/personnel changes (Types 1-3) or fit any other specialized category better.",
-  "file_path": "https://ldflk.github.io/gztarchiver-storage/doc-archive/2025/12/08/2466-01/2466-01_english.pdf",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2025/12/08/2466-01/2466-01_english.pdf",
+  "categorisation": "The gazette content is a Customs notification issued under the authority of the Customs Ordinance. It formally sets and publishes new statutory rates of exchange for calculating customs duties and other charges. This is a regulatory matter that establishes a legal framework for financial calculations in trade, falling squarely under the definition of Legal/Regulatory Gazettes (Type 5). It does not involve government structure/personnel changes (Types 1-3) or fit any other specialized category better.",
+  "file_path": "/doc-archive/2025/12/08/2466-01/2466-01_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2025/12/2466-01_E.pdf",
   "availability": "Available"
 }

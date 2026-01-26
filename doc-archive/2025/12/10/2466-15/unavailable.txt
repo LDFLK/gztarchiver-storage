@@ -1,7 +1,0 @@
-{
-  "doc_id": "2466-15",
-  "date": "2025-12-10",
-  "description": "Ministry of Labour -  Industrial Dispute between\n1 ) R.M. Wijerathne and Sri Lanka Insurance Corparation Limited\n2)Y. Jayarathne and Alpitiya Plantations PLC\n3) G.S.R. Fernando and Ceylon Fishery Harbours Corporation",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

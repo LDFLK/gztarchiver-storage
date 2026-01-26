@@ -1,7 +1,0 @@
-{
-  "doc_id": "2454-41",
-  "date": "2025-09-17",
-  "description": "Ministry Of Labour - Industrial Dispute between Janatha Estates Development Board and Ceylon Estate Staff's Union\nIndustrial Dispute between Janatha Estates Development Board and Ceylon Estate Staff's Union (supervisory Staff)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

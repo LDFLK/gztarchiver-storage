@@ -1,7 +1,0 @@
-{
-  "doc_id": "2446-05",
-  "date": "2025-07-21",
-  "description": "Dept. of Forest Conservation - Forest Conservation Ordinance Order Under Section 3 Nilgala Forest Reserve",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

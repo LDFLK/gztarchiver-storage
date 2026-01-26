@@ -1,7 +1,0 @@
-{
-  "doc_id": "2433-33",
-  "date": "2025-04-25",
-  "description": "Ministry of Labour and Foreign Employment â€“ Industrial Dispute between W.P.Sarath and Central Cultural Fund",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

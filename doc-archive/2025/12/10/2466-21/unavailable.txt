@@ -1,7 +1,0 @@
-{
-  "doc_id": "2466-21",
-  "date": "2025-12-10",
-  "description": "Ministry of Labour - 1) Industrial Dispute between Rocell Bathware Limited and Intercompanies worker's Union\n2 ) Industrial Dispute between R.P.P.Jayakody and Employment Provident Found",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

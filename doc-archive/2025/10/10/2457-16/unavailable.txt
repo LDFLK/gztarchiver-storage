@@ -1,7 +1,0 @@
-{
-  "doc_id": "2457-16",
-  "date": "2025-10-10",
-  "description": "Land Title Settlement Dept - Dewathura, Galle Four Gravets D/S/D , Galle District (25/0364)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

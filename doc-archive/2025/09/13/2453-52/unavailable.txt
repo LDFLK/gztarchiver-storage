@@ -1,7 +1,0 @@
-{
-  "doc_id": "2453-52",
-  "date": "2025-09-13",
-  "description": "Land Tittle Settlement Dept - Palutawa, Dambulla D/S/D Division, MAtale District (25/5514146)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

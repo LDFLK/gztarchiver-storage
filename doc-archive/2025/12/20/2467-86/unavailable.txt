@@ -1,7 +1,0 @@
-{
-  "doc_id": "2467-86",
-  "date": "2025-12-20",
-  "description": "Land Title Settlement Dept - Welampele, Rideemaliyadda D/S/D, Badulla District (25/0202)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

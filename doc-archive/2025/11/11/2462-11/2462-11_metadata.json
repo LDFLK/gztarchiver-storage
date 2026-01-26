@@ -3,9 +3,8 @@
   "description": "Elections Commission - Filling of a Vacancy in the office of Member of the Ninthavur Pardeshiya Sabha.",
   "document_date": "2025-11-11",
   "document_type": "ELECTIONS",
-  "reasoning": "The gazette content is specifically about filling a vacancy in a local government body (Ninthavur Pradeshiya Sabha) under the Local Authorities Elections Ordinance. It details the process triggered by a member ceasing to belong to a party, the nomination by the political party secretary, and the formal declaration of a new elected member by the Returning Officer. This falls squarely under electoral processes at the local authority level, making it an **Elections Gazette**.",
-  "file_path": "https://ldflk.github.io/gztarchiver-storage/doc-archive/2025/11/11/2462-11/2462-11_english.pdf",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2025/11/11/2462-11/2462-11_english.pdf",
+  "categorisation": "The gazette content is specifically about filling a vacancy in a local government body (Ninthavur Pradeshiya Sabha) under the Local Authorities Elections Ordinance. It details the process triggered by a member ceasing to belong to a party, the nomination by the political party secretary, and the formal declaration of a new elected member by the Returning Officer. This falls squarely under electoral processes at the local authority level, making it an **Elections Gazette**.",
+  "file_path": "/doc-archive/2025/11/11/2462-11/2462-11_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2025/11/2462-11_E.pdf",
   "availability": "Available"
 }

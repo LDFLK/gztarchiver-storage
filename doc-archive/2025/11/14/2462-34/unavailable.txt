@@ -1,7 +1,0 @@
-{
-  "doc_id": "2462-34",
-  "date": "2025-11-14",
-  "description": "Monaragala Pradeshiya Sabha - Roads and Narrow Roads 2nd Gazette",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

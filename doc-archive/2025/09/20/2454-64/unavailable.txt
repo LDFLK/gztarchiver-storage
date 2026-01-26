@@ -1,7 +1,0 @@
-{
-  "doc_id": "2454-64",
-  "date": "2025-09-20",
-  "description": "Land Title Settlement Dept. - Abhayapura, Lankapura D/S Division, Polonnaruwa District (25/1200113)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

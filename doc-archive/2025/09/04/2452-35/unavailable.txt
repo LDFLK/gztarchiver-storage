@@ -1,7 +1,0 @@
-{
-  "doc_id": "2452-35",
-  "date": "2025-09-04",
-  "description": "Land Title Settlement Dept. - Puwakpitiya, Galewela D/S Division, Matale District (25/1200094)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

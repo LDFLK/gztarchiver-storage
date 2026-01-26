@@ -1,7 +1,0 @@
-{
-  "doc_id": "2453-07",
-  "date": "2025-09-08",
-  "description": "Land Title Settlement Dept. - Peththarakumbura, Weligepola D/S Division, Ratnapura District (25/0362)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

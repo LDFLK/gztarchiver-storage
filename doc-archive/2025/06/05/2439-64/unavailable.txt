@@ -1,7 +1,0 @@
-{
-  "doc_id": "2439-64",
-  "date": "2025-06-05",
-  "description": "Land Aquisition - Lulbadduwa, Walallawita D/S Division, Kalutara District,  Sec. 38(a)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2454-21",
-  "date": "2025-09-16",
-  "description": "Land Title Settlement Dept. - Polommaruwa North, Tangalle D/S Division, Hambanthota District (25/0326)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

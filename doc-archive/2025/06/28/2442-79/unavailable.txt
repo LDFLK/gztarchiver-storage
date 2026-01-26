@@ -1,7 +1,0 @@
-{
-  "doc_id": "2442-79",
-  "date": "2025-06-28",
-  "description": "Dept. of Local Government - Eastern Province - Notice under section 66 (c) Appointed Vice Chairman Kantale Pradeshiya Sabha",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2436-04",
-  "date": "2025-05-15",
-  "description": "Land Title Settlement Department â€“ Kandaliyaddapaluwa, Mahara D/S/D, Gampaha District (25/5514092)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,11 +1,10 @@
 {
   "document_id": "2424-28",
-  "description": "Land Title Settlement Department \u00e2\u20ac\u201c Mount Lavinia, Ratmalana D/S/ Division, Colombo District. Cad map No. 521004 (24/1103)",
+  "description": "Land Title Settlement Department â€“ Mount Lavinia, Ratmalana D/S/ Division, Colombo District. Cad map No. 521004 (24/1103)",
   "document_date": "2025-02-18",
-  "document_type": "Unknown",
-  "reasoning": "API request failed: HTTPSConnectionPool(host='eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev', port=443): Read timed out. (read timeout=30)",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2025/02/18/2424-28",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2025/02/18/2424-28/2424-28_english.pdf",
+  "document_type": "NOT CATEGORISED",
+  "categorisation": "Uncategorised as of - 2026-01-22 13:38 UTC.",
+  "file_path": "/doc-archive/2025/02/18/2424-28/2424-28_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2025/2/2424-28_E.pdf",
   "availability": "Available"
 }

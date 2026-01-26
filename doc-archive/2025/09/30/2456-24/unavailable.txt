@@ -1,7 +1,0 @@
-{
-  "doc_id": "2456-24",
-  "date": "2025-09-30",
-  "description": "Land Title Settlement Dept - Gampolawela, Ganga Ihala Koralaya D/S/D , Kandy District (7856)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

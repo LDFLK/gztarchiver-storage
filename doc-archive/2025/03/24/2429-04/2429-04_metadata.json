@@ -1,11 +1,10 @@
 {
   "document_id": "2429-04",
-  "description": "Land Acquisition \u00e2\u20ac\u201c Serakkuliya Village, Wanathavilluwa D/S/ Division, Puttalam District. Section \u00e2\u20ac\u201c 07",
+  "description": "Land Acquisition â€“ Serakkuliya Village, Wanathavilluwa D/S/ Division, Puttalam District. Section â€“ 07",
   "document_date": "2025-03-24",
-  "document_type": "Unknown",
-  "reasoning": "API request failed: 404 Client Error: Not Found for url: https://eg-7060af6f-a5a9-44dd-b4e6-af36d56dbd47-prod.e1-us-east-azure.bijiraapis.dev/sample/deep-seek/v1.0/v1/chat/completions",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2025/03/24/2429-04",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2025/03/24/2429-04/2429-04_english.pdf",
+  "document_type": "NOT CATEGORISED",
+  "categorisation": "Uncategorised as of - 2026-01-22 13:38 UTC.",
+  "file_path": "/doc-archive/2025/03/24/2429-04/2429-04_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2025/3/2429-04_E.pdf",
   "availability": "Available"
 }

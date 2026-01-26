@@ -1,7 +1,0 @@
-{
-  "doc_id": "2467-78",
-  "date": "2025-12-20",
-  "description": "Land Acquisition - Guralawala , Laggala D/S/D, Matale District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

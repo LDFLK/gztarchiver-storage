@@ -1,7 +1,0 @@
-{
-  "doc_id": "2429-46",
-  "date": "2025-03-28",
-  "description": "Ministry of Labour and Foreign Employment â€“ Industrial Dispute between Vishaka Kanthi included 16 others and Ceylon Chocolate Limited",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

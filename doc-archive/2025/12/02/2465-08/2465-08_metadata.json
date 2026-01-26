@@ -3,9 +3,8 @@
   "description": "Register General's Department - Declaration of National Disaster Affected Areas",
   "document_date": "2025-12-02",
   "document_type": "LEGAL_REGULATORY",
-  "reasoning": "The gazette content is a formal declaration made under a specific Act of Parliament (Registration of Deaths (Temporary Provisions) Act, No. 19 of 2010). Its primary function is to enact a legal/regulatory measure\u2014declaring multiple administrative districts as \"National Disaster Affected Areas.\" This fits the definition of Type 5 (Legal/Regulatory Gazettes), which includes regulations, statutory instruments, and legal notices issued under established laws. While it is an administrative action, it does not concern government structure, personnel, or any of the other specialized categories (like Land, Commercial, etc.).",
-  "file_path": "https://ldflk.github.io/gztarchiver-storage/doc-archive/2025/12/02/2465-08/2465-08_english.pdf",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2025/12/02/2465-08/2465-08_english.pdf",
+  "categorisation": "The gazette content is a formal declaration made under a specific Act of Parliament (Registration of Deaths (Temporary Provisions) Act, No. 19 of 2010). Its primary function is to enact a legal/regulatory measure—declaring multiple administrative districts as \"National Disaster Affected Areas.\" This fits the definition of Type 5 (Legal/Regulatory Gazettes), which includes regulations, statutory instruments, and legal notices issued under established laws. While it is an administrative action, it does not concern government structure, personnel, or any of the other specialized categories (like Land, Commercial, etc.).",
+  "file_path": "/doc-archive/2025/12/02/2465-08/2465-08_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2025/12/2465-08_E.pdf",
   "availability": "Available"
 }

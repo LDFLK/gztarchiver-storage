@@ -1,7 +1,0 @@
-{
-  "doc_id": "2446-31",
-  "date": "2025-07-21",
-  "description": "Ministry of Labour - Industrial Dispute between G. A. P. Deshapriya and Sri Lanka Insurance Corporation Ltd. Included 03 other Companies - Industrial Dispute between Supun Sachintha Kannangara and Pradeshiya Sanwardhana Bank",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

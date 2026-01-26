@@ -3,9 +3,8 @@
   "description": "Land Title Settle Dept -Pallegaladebokka, Minipe D/S/D, Kandy District (25/1200141)",
   "document_date": "2025-11-19",
   "document_type": "LAND",
-  "reasoning": "The gazette content consists entirely of multiple \"NOTICE CALLING FOR CLAIMS TO LAND PARCELS\" under the Registration of Title Act. It deals specifically with the process of determining land ownership and title registration for specific land parcels in the Kandy District. This falls squarely under the Land Gazettes (Type 4) category, which includes land registrations, title settlements, and notices related to land ownership claims. The content does not involve government personnel/structure (Types 1-3) or other specialized administrative matters like legal acts, commerce, or elections.",
-  "file_path": "https://ldflk.github.io/gztarchiver-storage/doc-archive/2025/11/19/2463-14/2463-14_english.pdf",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2025/11/19/2463-14/2463-14_english.pdf",
+  "categorisation": "The gazette content consists entirely of multiple \"NOTICE CALLING FOR CLAIMS TO LAND PARCELS\" under the Registration of Title Act. It deals specifically with the process of determining land ownership and title registration for specific land parcels in the Kandy District. This falls squarely under the Land Gazettes (Type 4) category, which includes land registrations, title settlements, and notices related to land ownership claims. The content does not involve government personnel/structure (Types 1-3) or other specialized administrative matters like legal acts, commerce, or elections.",
+  "file_path": "/doc-archive/2025/11/19/2463-14/2463-14_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2025/11/2463-14_E.pdf",
   "availability": "Available"
 }

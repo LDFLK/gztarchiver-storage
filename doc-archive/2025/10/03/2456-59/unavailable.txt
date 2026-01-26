@@ -1,7 +1,0 @@
-{
-  "doc_id": "2456-59",
-  "date": "2025-10-03",
-  "description": "Department of Animal Production and Health - Animal Diseases Act. No 59 of 1992",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2458-18",
-  "date": "2025-10-14",
-  "description": "Land Title Settlement Dept - Kaluaggala Pahalagama,Divulapitiya D/S/D , Gampaha District (7861)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

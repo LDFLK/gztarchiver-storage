@@ -1,7 +1,0 @@
-{
-  "doc_id": "2447-50",
-  "date": "2025-07-31",
-  "description": "M/of Public Security and Parliamentary Affairs- Standered Operating Procedures (SOP) For Law Enforcement Authorities on Detection, Investigation and Prosecution of Trafficking Related Organized Crimes Against Children",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

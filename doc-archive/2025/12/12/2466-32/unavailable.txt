@@ -1,7 +1,0 @@
-{
-  "doc_id": "2466-32",
-  "date": "2025-12-12",
-  "description": "Land Acquisition - Narampnawa, Kundasale D/S/D, kandy District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

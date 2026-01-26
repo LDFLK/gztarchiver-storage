@@ -1,7 +1,0 @@
-{
-  "doc_id": "2460-02",
-  "date": "2025-10-27",
-  "description": "Department of Fiscal Policy - Excise Notification No. 02/2025",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

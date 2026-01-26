@@ -1,7 +1,0 @@
-{
-  "doc_id": "2469-03",
-  "date": "2025-12-29",
-  "description": "Department of Fiscal Policy - Order under Sub section (1) Section 02 of the Finance Act No, 25 of 2003, Mattala Rajapaksh International Air Port",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

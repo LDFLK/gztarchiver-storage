@@ -1,7 +1,0 @@
-{
-  "doc_id": "2468-14",
-  "date": "2025-12-23",
-  "description": "Ministry of Labour - Industrial Dispute between, 1 ) Free Trade Zones and general Services Employees Union and Creasy Foods Limited\n2 ) D. Thissa Yapa and Open University of Sri Lanka",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

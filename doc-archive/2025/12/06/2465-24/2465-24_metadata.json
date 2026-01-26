@@ -3,9 +3,8 @@
   "description": "Ministry of Labour - Collective Agreement No 31 of 2024 between Sanasa, Development Bank and Ceylon Bank Employees Union.",
   "document_date": "2025-12-06",
   "document_type": "LEGAL_REGULATORY",
-  "reasoning": "The gazette content is the official publication of a Collective Agreement between a bank and a trade union under the Industrial Disputes Act. This constitutes a regulatory/legal notice, as it formally publishes a legally binding agreement in accordance with an existing statute (Chapter 131). It falls under the Legal/Regulatory category, which includes statutory instruments and the formal gazetting of agreements made under legal authority. It does not concern government structure/personnel (Types 1-3) or the other specialized categories like Land, Commercial, or Public Service.",
-  "file_path": "https://ldflk.github.io/gztarchiver-storage/doc-archive/2025/12/06/2465-24/2465-24_english.pdf",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2025/12/06/2465-24/2465-24_english.pdf",
+  "categorisation": "The gazette content is the official publication of a Collective Agreement between a bank and a trade union under the Industrial Disputes Act. This constitutes a regulatory/legal notice, as it formally publishes a legally binding agreement in accordance with an existing statute (Chapter 131). It falls under the Legal/Regulatory category, which includes statutory instruments and the formal gazetting of agreements made under legal authority. It does not concern government structure/personnel (Types 1-3) or the other specialized categories like Land, Commercial, or Public Service.",
+  "file_path": "/doc-archive/2025/12/06/2465-24/2465-24_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2025/12/2465-24_E.pdf",
   "availability": "Available"
 }

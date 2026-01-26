@@ -1,7 +1,0 @@
-{
-  "doc_id": "2442-57",
-  "date": "2025-06-27",
-  "description": "Dept. of Local Government - Western Province Appointed Mayor, Deputy Mayor  Chairman and Vice Chairman for Local Government Institutions",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

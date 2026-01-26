@@ -1,7 +1,0 @@
-{
-  "doc_id": "2441-05",
-  "date": "2025-06-17",
-  "description": "Department of Local Government - Western Province - Appointed Mayor and Deputy Mayor to the Colombo Municipal Council",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

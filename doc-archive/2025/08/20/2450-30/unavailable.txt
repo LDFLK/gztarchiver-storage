@@ -1,7 +1,0 @@
-{
-  "doc_id": "2450-30",
-  "date": "2025-08-20",
-  "description": "Land Aquisition - Waharakgoda, Beliatta D/S Division, Hambantota District. Land Aquisition - Mahaheela, Beliatta D/S Division, Hambantota District Sec 07",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

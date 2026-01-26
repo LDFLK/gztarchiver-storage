@@ -1,7 +1,0 @@
-{
-  "doc_id": "2460-57",
-  "date": "2025-11-01",
-  "description": "Municipal Council - Badulla - Draft budget 20206 For Public Exhibition",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2455-23",
-  "date": "2025-09-24",
-  "description": "Land Title Settlement Dept. - Dandubediruppa-Thumbare, Galewela D/S Division, Matale District (25/14.4.00059)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

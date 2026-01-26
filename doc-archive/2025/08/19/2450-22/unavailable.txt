@@ -1,7 +1,0 @@
-{
-  "doc_id": "2450-22",
-  "date": "2025-08-19",
-  "description": "Land Title Settlement Dept. - Senapura, Tissamaharaama D/S Division, Hambantota District (25/0281)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

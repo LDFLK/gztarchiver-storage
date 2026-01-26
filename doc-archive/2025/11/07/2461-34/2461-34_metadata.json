@@ -3,9 +3,8 @@
   "description": "Land Title Settlement Dept - Thalahitimulla, Kuliyapitiya West D/S/D, kurunegala District (25-14-204-00141)",
   "document_date": "2025-11-07",
   "document_type": "LAND",
-  "reasoning": "The gazette content is a formal declaration under the Registration of Title Act, publishing the determination of land titles for specific parcels. It contains a detailed schedule listing parcel numbers, owner names, extent, nature of title, and encumbrances. The primary subject is the registration and adjudication of land ownership, which fits the definition of a Land Gazette (Type 4) dealing with land registrations, property ownership, and land titles.",
-  "file_path": "https://ldflk.github.io/gztarchiver-storage/doc-archive/2025/11/07/2461-34/2461-34_english.pdf",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2025/11/07/2461-34/2461-34_english.pdf",
+  "categorisation": "The gazette content is a formal declaration under the Registration of Title Act, publishing the determination of land titles for specific parcels. It contains a detailed schedule listing parcel numbers, owner names, extent, nature of title, and encumbrances. The primary subject is the registration and adjudication of land ownership, which fits the definition of a Land Gazette (Type 4) dealing with land registrations, property ownership, and land titles.",
+  "file_path": "/doc-archive/2025/11/07/2461-34/2461-34_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2025/11/2461-34_E.pdf",
   "availability": "Available"
 }

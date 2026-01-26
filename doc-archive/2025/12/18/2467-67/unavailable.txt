@@ -1,7 +1,0 @@
-{
-  "doc_id": "2467-67",
-  "date": "2025-12-18",
-  "description": "Dept of Trade and Investment Policy -  Foreign Exchange Act No 12 of 2017 Order Under Section 22",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

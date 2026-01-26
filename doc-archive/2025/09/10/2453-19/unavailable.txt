@@ -1,7 +1,0 @@
-{
-  "doc_id": "2453-19",
-  "date": "2025-09-10",
-  "description": "M/of Labour Industrial Dispute 1. M.K. Stanley Gunaratne 2. A. H. Sunil",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

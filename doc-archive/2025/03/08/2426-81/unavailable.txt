@@ -1,7 +1,0 @@
-{
-  "doc_id": "2426-81",
-  "date": "2025-03-08",
-  "description": "Ministry of Labour - Industrial Dispute between Mrs. D.H. Milanka Upalani and State Timber Corporation",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

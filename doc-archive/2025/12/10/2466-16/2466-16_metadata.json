@@ -3,9 +3,8 @@
   "description": "Elections Commission - Notice under section 10 A (1)(a) Baddegama Pradeshiya Sabha",
   "document_date": "2025-12-10",
   "document_type": "ELECTIONS",
-  "reasoning": "The gazette content is a formal notice under the Local Authorities Elections Ordinance declaring that a member of a Pradeshiya Sabha has vacated their office due to ceasing membership in a political party. This directly pertains to electoral processes and the status of an elected local government official, falling under the Elections category (Type 7).",
-  "file_path": "https://ldflk.github.io/gztarchiver-storage/doc-archive/2025/12/10/2466-16/2466-16_english.pdf",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2025/12/10/2466-16/2466-16_english.pdf",
+  "categorisation": "The gazette content is a formal notice under the Local Authorities Elections Ordinance declaring that a member of a Pradeshiya Sabha has vacated their office due to ceasing membership in a political party. This directly pertains to electoral processes and the status of an elected local government official, falling under the Elections category (Type 7).",
+  "file_path": "/doc-archive/2025/12/10/2466-16/2466-16_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2025/12/2466-16_E.pdf",
   "availability": "Available"
 }

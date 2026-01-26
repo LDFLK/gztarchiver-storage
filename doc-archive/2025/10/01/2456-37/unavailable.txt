@@ -1,7 +1,0 @@
-{
-  "doc_id": "2456-37",
-  "date": "2025-10-01",
-  "description": "Mediation Boards Commission - Notice calling for Nominations for the Appointment of Mediators (05 other Districts and Mulativu District)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

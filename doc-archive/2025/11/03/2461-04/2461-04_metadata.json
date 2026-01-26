@@ -3,9 +3,8 @@
   "description": "Land Title Settlement Dept - T.R. Rambadagalla, Redeegama D/S/D, Kurunegala District (25/0409)",
   "document_date": "2025-11-03",
   "document_type": "LAND",
-  "reasoning": "The gazette content exclusively concerns the formal registration and declaration of land titles for specific parcels of land under the Registration of Title Act. It details the determination of ownership for individual plots, including parcel numbers, owner names, extent, and class of title. This falls squarely under the Land Gazettes (Type 4) category, which includes land registrations, title declarations, and property ownership matters. It does not involve government structure/personnel changes (Types 1-3) or fit any other specialized non-land categories (Types 5-9).",
-  "file_path": "https://ldflk.github.io/gztarchiver-storage/doc-archive/2025/11/03/2461-04/2461-04_english.pdf",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2025/11/03/2461-04/2461-04_english.pdf",
+  "categorisation": "The gazette content exclusively concerns the formal registration and declaration of land titles for specific parcels of land under the Registration of Title Act. It details the determination of ownership for individual plots, including parcel numbers, owner names, extent, and class of title. This falls squarely under the Land Gazettes (Type 4) category, which includes land registrations, title declarations, and property ownership matters. It does not involve government structure/personnel changes (Types 1-3) or fit any other specialized non-land categories (Types 5-9).",
+  "file_path": "/doc-archive/2025/11/03/2461-04/2461-04_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2025/11/2461-04_E.pdf",
   "availability": "Available"
 }

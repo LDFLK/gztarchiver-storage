@@ -1,7 +1,0 @@
-{
-  "doc_id": "2468-17",
-  "date": "2025-12-23",
-  "description": "Ministry Of Labour - Industrial Dispute between 1 ) Roytal Fernwood Porcelain Limited and Inter Companies Worker's Union\n2 ) Dankotuwa Porcelain PLC and Inter Companies Workers union",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

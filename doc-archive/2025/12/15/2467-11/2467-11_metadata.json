@@ -3,9 +3,8 @@
   "description": "2467/11",
   "document_date": "2025-12-15",
   "document_type": "LAND",
-  "reasoning": "The gazette content consists entirely of multiple \"Notice Calling for Claims to Land Parcels\" under the Registration of Title Act. It deals specifically with land title registration, cadastral maps, and the process for determining ownership or interest in specific land parcels in the Anuradhapura District. This fits the definition of a Land Gazette (Type 4), which includes land registrations, title settlements, and notices related to land ownership. The content does not involve government structure/personnel (Types 1-3) or any of the other specialized non-land categories (Types 5-9).",
-  "file_path": "https://ldflk.github.io/gztarchiver-storage/doc-archive/2025/12/15/2467-11/2467-11_english.pdf",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2025/12/15/2467-11/2467-11_english.pdf",
+  "categorisation": "The gazette content consists entirely of multiple \"Notice Calling for Claims to Land Parcels\" under the Registration of Title Act. It deals specifically with land title registration, cadastral maps, and the process for determining ownership or interest in specific land parcels in the Anuradhapura District. This fits the definition of a Land Gazette (Type 4), which includes land registrations, title settlements, and notices related to land ownership. The content does not involve government structure/personnel (Types 1-3) or any of the other specialized non-land categories (Types 5-9).",
+  "file_path": "/doc-archive/2025/12/15/2467-11/2467-11_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2025/12/2467-11_E.pdf",
   "availability": "Available"
 }

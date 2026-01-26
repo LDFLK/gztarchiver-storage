@@ -1,7 +1,0 @@
-{
-  "doc_id": "2456-04",
-  "date": "2025-09-29",
-  "description": "Divisional Secretariat - Ganewatta L.A- Ganewatta D/S/D, Kurunegala District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

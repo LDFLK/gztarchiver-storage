@@ -1,7 +1,0 @@
-{
-  "doc_id": "2444-61",
-  "date": "2025-07-11",
-  "description": "Election Commission - Revision of Electoral Registers - 2025 Notice of the Election Commission on the Display of 'A' and 'B' Lists, Claims and Objections",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

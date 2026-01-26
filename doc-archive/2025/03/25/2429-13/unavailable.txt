@@ -1,7 +1,0 @@
-{
-  "doc_id": "2429-13",
-  "date": "2025-03-25",
-  "description": "Land Acquisition â€“ â€œVeemanâ€, Kondavil Village, Nallur D/S/ Division, Jaffna District. Section â€“ 07",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2451-05",
-  "date": "2025-08-25",
-  "description": "Land Title Settlement Dept. - Senarathgama South, Harispattuwa D/S Division, Kandy District (25/5514155)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

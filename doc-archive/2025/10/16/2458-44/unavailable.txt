@@ -1,7 +1,0 @@
-{
-  "doc_id": "2458-44",
-  "date": "2025-10-16",
-  "description": "Ministry of Urban Development , Construction and Housing - Declaration and Expansion of Bibila , Ps Area under Section 3",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

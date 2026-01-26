@@ -3,9 +3,8 @@
   "description": "Land Title Settlement Dept - T.R. Wewagedara , Wariyapola D/S/D, Kurunegala District (25/0430)",
   "document_date": "2025-11-03",
   "document_type": "LAND",
-  "reasoning": "The gazette content exclusively concerns the declaration of land title determinations for specific parcels of land under the Registration of Title Act. It provides detailed schedules listing land parcel numbers, owner names, extents, and other property-specific information. This falls squarely under the Land Gazettes (Type 4) category, which is defined for \"Land registrations, property ownership, land titles\" and \"Any gazette content primarily dealing with land, property, or real estate matters.\" The content does not involve government personnel changes, structural changes, or any of the other specialized non-land administrative matters.",
-  "file_path": "https://ldflk.github.io/gztarchiver-storage/doc-archive/2025/11/03/2461-14/2461-14_english.pdf",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2025/11/03/2461-14/2461-14_english.pdf",
+  "categorisation": "The gazette content exclusively concerns the declaration of land title determinations for specific parcels of land under the Registration of Title Act. It provides detailed schedules listing land parcel numbers, owner names, extents, and other property-specific information. This falls squarely under the Land Gazettes (Type 4) category, which is defined for \"Land registrations, property ownership, land titles\" and \"Any gazette content primarily dealing with land, property, or real estate matters.\" The content does not involve government personnel changes, structural changes, or any of the other specialized non-land administrative matters.",
+  "file_path": "/doc-archive/2025/11/03/2461-14/2461-14_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2025/11/2461-14_E.pdf",
   "availability": "Available"
 }

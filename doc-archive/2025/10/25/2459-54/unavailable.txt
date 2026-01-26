@@ -1,7 +1,0 @@
-{
-  "doc_id": "2459-54",
-  "date": "2025-10-25",
-  "description": "Rajanganaya Pradeshiya Sabha - Roads and Lanes",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

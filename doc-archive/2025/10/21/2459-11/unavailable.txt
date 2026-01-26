@@ -1,7 +1,0 @@
-{
-  "doc_id": "2459-11",
-  "date": "2025-10-21",
-  "description": "Land Acquission - Hungangoda , Matara four Gravets D/S/D , Matara District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2467-64",
-  "date": "2025-12-18",
-  "description": "Land Acquisition - Meegolla, Naula D/S/D, Matale District\nThihariya, Attanagalla D/S/D, Gampaha District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

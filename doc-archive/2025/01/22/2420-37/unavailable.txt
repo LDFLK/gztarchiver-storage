@@ -1,7 +1,0 @@
-{
-  "doc_id": "2420-37",
-  "date": "2025-01-22",
-  "description": "Land Aquisition - Thumbowila, Kesbewa D/S Division in Colombo District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2441-37",
-  "date": "2025-06-19",
-  "description": "Land Aquisition -Warakagoda, Madurawala D/S Division, Kalutara District, Land Aquisition - Arachchikanda, Gonapeenuwala D/S Division, Galle District  Land Aquisition -  Palanwatta, Kesbewa D/S Division, Colombo District Sec-38 (a)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

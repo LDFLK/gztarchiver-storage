@@ -1,7 +1,0 @@
-{
-  "doc_id": "2444-43",
-  "date": "2025-07-09",
-  "description": "Land Title Settlement Dept. -Thawalama, Thawalama D/S Division, Galle District (25420400026)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

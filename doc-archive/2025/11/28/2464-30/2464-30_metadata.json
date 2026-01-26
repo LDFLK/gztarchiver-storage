@@ -3,9 +3,8 @@
   "description": "Presidential Secretariat - Public Security Ordinance (Chapter 40)",
   "document_date": "2025-11-28",
   "document_type": "LEGAL_REGULATORY",
-  "reasoning": "The gazette content is a proclamation by the President declaring a state of public emergency and bringing specific legal provisions (Part II of the Public Security Ordinance) into operation. This constitutes the activation of a legal/regulatory framework under existing legislation, which falls squarely under the definition of Legal/Regulatory Gazettes (Type 5). While it involves the President, it does not describe government structure, personnel changes, or detailed portfolio responsibilities; its core function is to enact a legal measure.",
-  "file_path": "https://ldflk.github.io/gztarchiver-storage/doc-archive/2025/11/28/2464-30/2464-30_english.pdf",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2025/11/28/2464-30/2464-30_english.pdf",
+  "categorisation": "The gazette content is a proclamation by the President declaring a state of public emergency and bringing specific legal provisions (Part II of the Public Security Ordinance) into operation. This constitutes the activation of a legal/regulatory framework under existing legislation, which falls squarely under the definition of Legal/Regulatory Gazettes (Type 5). While it involves the President, it does not describe government structure, personnel changes, or detailed portfolio responsibilities; its core function is to enact a legal measure.",
+  "file_path": "/doc-archive/2025/11/28/2464-30/2464-30_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2025/11/2464-30_E.pdf",
   "availability": "Available"
 }

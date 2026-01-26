@@ -1,7 +1,0 @@
-{
-  "doc_id": "2458-23",
-  "date": "2025-10-14",
-  "description": "Land Title Settlement Dept - T.R. Karivila, Hambantota D/S/D, Hambantota District (25/14204000083)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

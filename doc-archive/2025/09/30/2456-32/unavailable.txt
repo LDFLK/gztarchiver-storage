@@ -1,7 +1,0 @@
-{
-  "doc_id": "2456-32",
-  "date": "2025-09-30",
-  "description": "Land Title Settlement Dept - Paththakkulama, Pallama D/S/D , Puttalam District (25/12000109)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

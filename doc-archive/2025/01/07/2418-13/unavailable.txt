@@ -1,7 +1,0 @@
-{
-  "doc_id": "2418-13",
-  "date": "2025-01-07",
-  "description": "Land Aquisition - Narangala, Thihagoda D/S Devision, Matara District.",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

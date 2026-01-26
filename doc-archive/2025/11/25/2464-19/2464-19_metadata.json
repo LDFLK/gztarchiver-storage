@@ -3,9 +3,8 @@
   "description": "Land Title Settlment Dept- T.R. Munagama, Horana D/S/D, Kalutara District (25/0418)",
   "document_date": "2025-11-25",
   "document_type": "LAND",
-  "reasoning": "The gazette content is exclusively concerned with the formal registration and declaration of land titles under the Registration of Title Act. It contains detailed schedules listing specific land parcels, their extents, owners, and encumbrances (e.g., mortgages, rights of way). The entire document falls under \"PART III - LANDS\" and deals with the administrative outcome of a land settlement process, fitting the definition of a Land Gazette.",
-  "file_path": "https://ldflk.github.io/gztarchiver-storage/doc-archive/2025/11/25/2464-19/2464-19_english.pdf",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2025/11/25/2464-19/2464-19_english.pdf",
+  "categorisation": "The gazette content is exclusively concerned with the formal registration and declaration of land titles under the Registration of Title Act. It contains detailed schedules listing specific land parcels, their extents, owners, and encumbrances (e.g., mortgages, rights of way). The entire document falls under \"PART III - LANDS\" and deals with the administrative outcome of a land settlement process, fitting the definition of a Land Gazette.",
+  "file_path": "/doc-archive/2025/11/25/2464-19/2464-19_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2025/11/2464-19_E.pdf",
   "availability": "Available"
 }

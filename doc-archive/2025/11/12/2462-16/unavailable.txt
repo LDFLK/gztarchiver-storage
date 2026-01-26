@@ -1,7 +1,0 @@
-{
-  "doc_id": "2462-16",
-  "date": "2025-11-12",
-  "description": "Land Title Settlement Dept - Final Orders. Settlement Orders No. 1909 (kurunegala) Western Hathalispaha korale Ihalagama, Galgamuwa D/S/D, Kurunegala District (3792)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
