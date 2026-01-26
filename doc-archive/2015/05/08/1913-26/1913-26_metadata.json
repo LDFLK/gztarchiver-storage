@@ -3,9 +3,8 @@
   "description": "Land Title Settlement Department - Amendments: Molpe, Moratuwa D/S Division, Colombo District - Cad. Map No. 520209",
   "document_date": "2015-05-08",
   "document_type": "LAND",
-  "reasoning": "The gazette content exclusively deals with amendments to land title registrations under the Registration of Title Act, including specific parcel numbers, land extents, ownership details, and encumbrances. This falls squarely within land and property-related matters, specifically land title registration amendments, which is the definition of Type 4 (Land Gazettes).",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2015/05/08/1913-26",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2015/05/08/1913-26/1913-26_english.pdf",
+  "categorisation": "The gazette content exclusively deals with amendments to land title registrations under the Registration of Title Act, including specific parcel numbers, land extents, ownership details, and encumbrances. This falls squarely within land and property-related matters, specifically land title registration amendments, which is the definition of Type 4 (Land Gazettes).",
+  "file_path": "/doc-archive/2015/05/08/1913-26/1913-26_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2015/5/1913-26_E.pdf",
   "availability": "Available"
 }

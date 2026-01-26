@@ -3,9 +3,8 @@
   "description": "Parliament of Sri Lanka - Summoned the Parliament to meet on 03.06.2015",
   "document_date": "2015-05-28",
   "document_type": "ELECTIONS",
-  "reasoning": "This gazette content is a notification from the Speaker of Parliament convening a parliamentary session on a specific date and time. This falls under electoral and parliamentary processes, specifically the scheduling and convening of parliamentary sessions, which is categorized under Type 7 (Elections Gazettes) as it deals with the functioning and scheduling of the legislative body's proceedings.",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2015/05/28/1916-23",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2015/05/28/1916-23/1916-23_english.pdf",
+  "categorisation": "This gazette content is a notification from the Speaker of Parliament convening a parliamentary session on a specific date and time. This falls under electoral and parliamentary processes, specifically the scheduling and convening of parliamentary sessions, which is categorized under Type 7 (Elections Gazettes) as it deals with the functioning and scheduling of the legislative body's proceedings.",
+  "file_path": "/doc-archive/2015/05/28/1916-23/1916-23_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2015/5/1916-23_E.pdf",
   "availability": "Available"
 }

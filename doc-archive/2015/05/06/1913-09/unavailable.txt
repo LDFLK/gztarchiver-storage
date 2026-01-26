@@ -1,7 +1,0 @@
-{
-  "doc_id": "1913-09",
-  "date": "2015-05-06",
-  "description": "Land Acquisition - Arawakumbura, Lunugala D/S Division, Badulla District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
