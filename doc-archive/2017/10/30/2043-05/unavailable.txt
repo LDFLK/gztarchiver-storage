@@ -1,7 +1,0 @@
-{
-  "doc_id": "2043-05",
-  "date": "2017-10-30",
-  "description": "Ministry of Labour, Trade Union Relations - Appointed Mr. Vajira Ellepola as the Employer's  representative of the Wages Board for the Hotel & Catering Trade and Mr. A. S.  Weerarathna with 16 others as Member for the Coir Mattress & Bristle Fibre Export Trade",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

@@ -1,7 +1,0 @@
-{
-  "doc_id": "2034-05",
-  "date": "2017-08-28",
-  "description": "Land Acquisition - Karagahawela, Bibila D/S Division, Monaragala District and Ambanpitiya D/S Division, Kegalle District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

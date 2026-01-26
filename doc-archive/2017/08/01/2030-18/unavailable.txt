@@ -1,7 +1,0 @@
-{
-  "doc_id": "2030-18",
-  "date": "2017-08-01",
-  "description": "Department of Labour - Awards made to the Industrial Disputes between D. A. Perera vs. he Board of Sri Jayawardanapura Hospital and W. Nilwala vs. State Plantation Co-operation of Sri Lanka (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

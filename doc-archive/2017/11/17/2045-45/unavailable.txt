@@ -1,7 +1,0 @@
-{
-  "doc_id": "2045-45",
-  "date": "2017-11-17",
-  "description": "Land Acquisition - Panawatta, Yatiyanthota D/S Division, Kegalle District and 3 other notices (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

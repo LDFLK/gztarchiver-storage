@@ -3,9 +3,8 @@
   "description": "Land Acquisition - Matale Town, Matale D/S Division, Matale District",
   "document_date": "2017-02-02",
   "document_type": "LAND",
-  "reasoning": "The gazette content contains detailed descriptions of land parcels, plot numbers, survey references, and land area measurements (in fyla units). It deals with land registrations, property boundaries, and land title matters, which falls squarely within the Land Gazette classification (Type 4) for land and property-related administrative matters.",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2017/02/02/2004-57",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2017/02/02/2004-57/2004-57_english.pdf",
+  "categorisation": "The gazette content contains detailed descriptions of land parcels, plot numbers, survey references, and land area measurements (in fyla units). It deals with land registrations, property boundaries, and land title matters, which falls squarely within the Land Gazette classification (Type 4) for land and property-related administrative matters.",
+  "file_path": "/doc-archive/2017/02/02/2004-57/2004-57_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2017/2/2004-57_E.pdf",
   "availability": "Available"
 }

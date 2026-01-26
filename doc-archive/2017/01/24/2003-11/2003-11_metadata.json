@@ -3,9 +3,8 @@
   "description": "Land Acquisition - Kudagama, Rambukkana D/S Division, Kegalle District",
   "document_date": "2017-01-24",
   "document_type": "LAND",
-  "reasoning": "This gazette content is exclusively about land acquisition notices under the Land Acquisition Act, detailing specific land parcels being acquired by the government for public purposes. It contains descriptions of land lots, their names, types (e.g., cemetery, garden), claimants, and extents. This fits perfectly within the Land Gazettes category (Type 4) which includes \"land acquisitions, transfers, or disposals\" and \"any gazette content primarily dealing with land, property, or real estate matters.\"",
-  "file_path": "/Users/yasandu/Desktop/gztarchiver-storage/doc-archive/2017/01/24/2003-11",
-  "download_url": "https://raw.githubusercontent.com/ldflk/gztarchiver-storage/main/doc-archive/2017/01/24/2003-11/2003-11_english.pdf",
+  "categorisation": "This gazette content is exclusively about land acquisition notices under the Land Acquisition Act, detailing specific land parcels being acquired by the government for public purposes. It contains descriptions of land lots, their names, types (e.g., cemetery, garden), claimants, and extents. This fits perfectly within the Land Gazettes category (Type 4) which includes \"land acquisitions, transfers, or disposals\" and \"any gazette content primarily dealing with land, property, or real estate matters.\"",
+  "file_path": "/doc-archive/2017/01/24/2003-11/2003-11_english.pdf",
   "source": "https://documents.gov.lk/view/extra-gazettes/2017/1/2003-11_E.pdf",
   "availability": "Available"
 }

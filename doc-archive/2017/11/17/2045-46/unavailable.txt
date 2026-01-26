@@ -1,7 +1,0 @@
-{
-  "doc_id": "2045-46",
-  "date": "2017-11-17",
-  "description": "Land Acquisition - Yatipiyangala, Udapalatha D/S Division, Kandy District (S Only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

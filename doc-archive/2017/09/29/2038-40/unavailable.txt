@@ -1,7 +1,0 @@
-{
-  "doc_id": "2038-40",
-  "date": "2017-09-29",
-  "description": "Ministry of Labour, Labour Standards Division - Cost of Living Index 123.1 for the August, 2017 and the Special Allowance will be 711.61 to the workers in Cocoa, etc. trade, under the Wages Board Ordinance",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

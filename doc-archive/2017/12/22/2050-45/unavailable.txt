@@ -1,7 +1,0 @@
-{
-  "doc_id": "2050-45",
-  "date": "2017-12-22",
-  "description": "Land Acquisition - Guruluwana, Rathnapura D/S Division, Rathnapura District - Kabiliyapola, Hakmana D/S  Division, Matara District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

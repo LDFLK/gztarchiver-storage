@@ -1,7 +1,0 @@
-{
-  "doc_id": "2031-04",
-  "date": "2017-08-08",
-  "description": "Ministry of Labour, Trade Union Relations and Sabaragamuwa Development - The award made for the Industrial Dispute between Mr. S. M. C. Kamarage Kesbewa, Banadaragama and other part Sri Lanka Fisheries Corporation Harbour Colombo 15",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

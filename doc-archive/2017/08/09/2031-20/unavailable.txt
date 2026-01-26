@@ -1,7 +1,0 @@
-{
-  "doc_id": "2031-20",
-  "date": "2017-08-09",
-  "description": "Land Title Settlement Department -  Amendment, Ballapana Pathabage, Galigamuwa D/S DIvision, Kegalle DIstrict   - Cad. Map No. 610011",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

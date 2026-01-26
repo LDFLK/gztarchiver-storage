@@ -1,7 +1,0 @@
-{
-  "doc_id": "2049-18",
-  "date": "2017-12-13",
-  "description": "Land Acquisition - Hewadiwela, Rambukkana D/S Division, Kegalle District and 2 others in Matara & Kandy Districts (S only)",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}

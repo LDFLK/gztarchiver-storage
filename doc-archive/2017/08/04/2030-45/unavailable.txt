@@ -1,7 +1,0 @@
-{
-  "doc_id": "2030-45",
-  "date": "2017-08-04",
-  "description": "Presidential Secretariat - Order to acquire the Land for Purposes of the Road Development, No. 228 Lake Drive Borella, Thimbirigasyaya D/S Division, Colombo District",
-  "download_url": "N/A",
-  "availability": "Unavailable"
-}
