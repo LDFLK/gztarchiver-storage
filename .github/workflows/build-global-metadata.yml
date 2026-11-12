@@ -1,13 +1,13 @@
 name: Build Global Metadata
 
 permissions:
-  contents: write  
+  contents: write
 
 on:
   push:
     paths:
-      - "doc-archive/**/*_metadata.json"  
-  workflow_dispatch:                        
+      - "doc-archive/**/*_metadata.json"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -26,59 +26,45 @@ jobs:
         run: |
           python3 - <<'EOF'
           import json
+          import re
+          from collections import defaultdict
           from pathlib import Path
 
           DOC_DIR = Path("doc-archive")
-          OUT_FILE = Path("metadata/global_metadata.json")
+          OUT_DIR = Path("metadata")
+          YEAR_FILE = re.compile(r"^\d{4}_metadata\.json$")
 
-          # Load existing global metadata
-          if OUT_FILE.exists():
-              with open(OUT_FILE, "r") as f:
-                  global_meta_list = json.load(f)
-          else:
-              global_meta_list = []
+          # Rebuild from the source files on every run so entries can never be duplicated.
+          # Keyed by document_id: one entry per document, grouped by the year folder it lives in.
+          metadata_by_year = defaultdict(dict)
 
-          # Helper: find object in list by file path (unique key)
-          def find_existing(global_list, path):
-              for i, obj in enumerate(global_list):
-                  if obj.get("file_path") == path:
-                      return i
-              return None
-
-          # Walk through all *_metadata.json files in doc-archive, sorted by year folder + filename
+          # doc-archive/YYYY/MM/DD/<document_id>/<document_id>_metadata.json
           for metadata_file in sorted(DOC_DIR.rglob("*_metadata.json")):
+              year = metadata_file.relative_to(DOC_DIR).parts[0]
               with open(metadata_file, "r") as f:
                   data = json.load(f)
 
-                  # store relative path temporarily to detect updates
-                  data["file_path"] = str(metadata_file)
+              doc_id = data.get("document_id") or metadata_file.parent.name
+              metadata_by_year[year][doc_id] = data
 
-                  # Check if this file already exists
-                  idx = find_existing(global_meta_list, str(metadata_file))
-                  if idx is not None:
-                      global_meta_list[idx] = data
-                  else:
-                      global_meta_list.append(data)
+          OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-          # Sort by document_date
-          def parse_date(obj):
-              date = obj.get("document_date", "")
-              return date or "0000-00-00"
+          # Sort by document_date, then document_id for a stable order
+          def sort_key(obj):
+              return (obj.get("document_date") or "0000-00-00", obj.get("document_id") or "")
 
-          global_meta_list.sort(key=parse_date)
+          for year, docs in sorted(metadata_by_year.items()):
+              year_list = sorted(docs.values(), key=sort_key)
+              out_file = OUT_DIR / f"{year}_metadata.json"
+              with open(out_file, "w") as f:
+                  json.dump(year_list, f, indent=2)
+              print(f"✅ {out_file.name} updated: {len(year_list)} items")
 
-          # Remove temporary file_path before writing final JSON
-          for obj in global_meta_list:
-              obj.pop("file_path", None)
-
-          # Ensure output folder exists
-          OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-
-          # Write final global metadata
-          with open(OUT_FILE, "w") as f:
-              json.dump(global_meta_list, f, indent=2)
-
-          print(f"✅ global_metadata.json updated: {len(global_meta_list)} items")
+          # Remove year files whose year folder no longer exists in doc-archive
+          for out_file in OUT_DIR.iterdir():
+              if YEAR_FILE.match(out_file.name) and out_file.name[:4] not in metadata_by_year:
+                  out_file.unlink()
+                  print(f"Removed stale {out_file.name}")
           EOF
 
       - name: Commit and push
@@ -87,6 +73,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add metadata/global_metadata.json
-          git commit -m "Update global metadata" || echo "No changes to commit"
+          git add -A -- 'metadata/[0-9][0-9][0-9][0-9]_metadata.json'
+          git commit -m "Update yearly metadata" || echo "No changes to commit"
           git push
